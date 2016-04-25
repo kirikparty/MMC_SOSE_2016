@@ -52,7 +52,6 @@ for i in range(0,200):
 		s.settimeout(5.0)
 
 		print 'Connection started at', timer_start
-		print 'I am sending TEST now'
 		try:
 			s.send('TEST')
 			timer_send=timer()
