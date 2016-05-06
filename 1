@@ -2,11 +2,8 @@
 import socket
 import sys
 import time
-import datetime
 
-timer = time.time() #if sys.platform == Win32 else time.time
-from datetime import datetime
-timer2=datetime.now().strftime("%H:%M:%S.%f")
+timer = time.gettimeofday() #if sys.platform == Win32 else time.time
 
 def alert(msg):
 	print "Unable to connect to server. Please check the below exception."
@@ -23,15 +20,10 @@ else:
 if hostname[0] == '1':
 	print 'PLease enter the hostname in INET Address form and not in IP Address V4 form.'
 	sys.exit(1)
-buffer_type = input("Enter your choice, 1 for short packet payload and 2 for large packet payload: ")
-if buffer_type == 1:
-	buffer_size = 800
-else:
-	buffer_size = 1500
 try:
 	s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-        s.setsockopt(socket.SOL_SOCKET,socket.SO_SNDBUF,buffer_size)
-        s.setsockopt(socket.SOL_SOCKET, socket.SO_RCVBUF,buffer_size)
+        s.setsockopt(socket.SOL_SOCKET,socket.SO_SNDBUF,10)
+        s.setsockopt(socket.SOL_SOCKET, socket.SO_RCVBUF, 10)
 
 except socket.error:
 	print 'Failed to create socket!'
@@ -61,45 +53,30 @@ try:
   		print "Caught exception socket.error : %s" %exc
 		sys.exit(1)
 
-	#timer_start= timer2
-	timer_start = datetime.now()#.strftime("%H:%M:%S.%f")
-	s.settimeout(20.0)
+	timer_start= timer
+	s.settimeout(15.0)
 
 	print 'Connection started at', timer_start
-	try:
-		s.send('TEST')
-	except socket.error:
-		print 'Cannot print data. Please check connection.'
-		sys.exit(1)
-	try:
-		data0 = s.recv(20)
-		print 'recieved', data0, ' Connection established. Sending packets now...'
-	except socket.error:
-		print 'Unable to establish connection. Please try again later. Exiting now.'
-		sys.exit(1)
-		
 #for i in range (0,2):
 	try:
-		a = 'TEST'*100
-		s.send(a);
-		#s.send('THEQUICKBROWNFOXJUMPEDOVERTHELAZYDOGTHEQUICKBROWNFOXJUMPEDOVERTHELAZYDOGTHEQUICKBROWNFOXJUMPEDOVERTHELAZYDOGTHEQUICKBROWNFOXJUMPEDOVERTHELAZYDOGTHEQUICKBROWNFOXJUMPEDOVERTHELAZYDOG')	#How to send two packets back to back? Close socket and reopen socket
+		s.send('TEST')	#How to send two packets back to back? Close socket and reopen socket
 				#again? Gotta ask the tutor.
-		timer_send1=datetime.now()#.strftime("%H:%M:%S.%f")
-		s.send('BETTYBOUGHTSOMEBUTTERBUTTHEBUTTERWASBITTERSOBETTYBOUGHTABETTERBUTTERBETTYBOUGHTSOMEBUTTERBUTTHEBUTTERWASBITTERSOBETTYBOUGHTABETTERBUTTERBETTYBOUGHTSOMEBUTTERBUTTHEBUTTERWASBITTERSOBETTYBOUGHTABETTERBUTTER')
-		timer_send2=datetime.now()#.strftime("%H:%M:%S.%f")
+		timer_send1=timer
+		#s.send('TEST')
+			#timer_send2=timer()
 		print '1st TEST SENT AT', timer_send1
-		print '2nd TEST SENT AT', timer_send2
+			#print '2nd TEST SENT AT', timer_send2
 	except socket.error:
 		print 'Cannot send data. Please check connection'
 		sys.exit(1) 
 
 	try:
-		data1 = s.recv(buffer_size)	#how DO I TIME IT OUT HERE????
-		timer_recv1= datetime.now()#.strftime("%H:%M:%S.%f")
+		data1 = s.recv(10)	#how DO I TIME IT OUT HERE????
+		timer_recv1= timer
 		print 'reccieved', data1, 'at time', timer_recv1
-		data2 = s.recv(buffer_size)	
-		timer_recv2=datetime.now()#.strftime("%H:%M:%S.%f")
-		print 'recieved', data2, 'at time', timer_recv2 
+		#data2 = s.recv(1024)	
+		#timer_recv2=timer
+		#print 'recieved', data2, 'at time', timer_recv2 
 	#	while data:
 	#		data = s.recv(1024)
 	except socket.error, socket.timeout:
@@ -109,7 +86,7 @@ try:
 	
 	#print 'I have recieved', data, 'from the server, at time', timer_recv
 	#i=i+1
-	print 'The packet dispersion is', timer_recv2-timer_recv1
+	#print 'The packet dispersion is', timer_recv2-timer_recv1
 except Exception, e:
 	alert(e)
 
