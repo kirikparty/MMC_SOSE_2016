@@ -1,5 +1,5 @@
 #!/usr/bin/python
-import socket, sys, datetime, IN, os
+import socket, sys, time, datetime, IN, os
 import matplotlib.pyplot as plt
 
 def alert(msg):
@@ -46,7 +46,7 @@ try:
 	
 #	s.connect((host, port))
 	timer_start = datetime.datetime.now()
-	s.settimeout(100.0)
+	s.settimeout(10.0)
 	
 	print 'Connection started at', timer_start
 	try:
@@ -60,13 +60,15 @@ try:
 	except socket.error, socket.timeout:
 		print 'Unable to establish connection. Please check the port address. Exiting now..'
 		sys.exit(1)
-	
+	a= 'A'*(buffer_size)
+	b= 'B'*(buffer_size)
 	for i in range (200):
 		try:
-			a = 'A'*(buffer_size)
+			#time.sleep(0.001)
+			#a = 'A'*(buffer_size)
 			s.sendto(a, (target_host, target_port));
 			timer_send1=datetime.datetime.now()
-			b= 'B'*(buffer_size)
+			#b= 'B'*(buffer_size)
 			s.sendto(b, (target_host, target_port))
 			timer_send2=datetime.datetime.now()
 			print >> log, '1st PACKET SENT AT', timer_send1
@@ -82,9 +84,9 @@ try:
 			data2 = s.recvfrom(buffer_size)	
 			timer_recv2=datetime.datetime.now()
 			print >> log, 'recieved 2nd PACKET at time', timer_recv2 
-		except socket.error, socket.timeout:
-			print 'Could not recieve from server! Please check if socket was correctly given.'
-			sys.exit(1)
+		except socket.timeout:
+			print 'Lost the second packet of %d iteration!' %(i+1)
+			pass
 		dispersion_time=timer_recv2-timer_recv1
 		print dispersion_time
 		link_rate = (buffer_size*8)/(dispersion_time.microseconds/(float (1000000)))
@@ -98,6 +100,7 @@ except Exception, e:
 
 plt.plot(list_rate)
 plt.ylabel('Link rate in kbps')
+plt.tight_layout()
 plt.show()
 print 'Connection to', target_host, 'was succesful. Statistics printed in the Results1.txt file'
 #s.shutdown(socket.SHUT_RDWR)
