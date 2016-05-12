@@ -6,15 +6,15 @@ def alert(msg):
 	print >>sys.stderr, msg
 	sys.exit(1)
 
-hostname = sys.argv[1]
-port = int(sys.argv[2])
+target_host = sys.argv[1]
+target_port = int(sys.argv[2])
 
-if hostname[0] == '1':
-	print 'PLease enter the hostname in INET Address form (eg: abc.def.ghi.com) and not in IP Address V4 form.'
-	sys.exit(1)
-elif hostname[0] == '2':
-	print 'Please enter the hostname in INET Address form (eg: abc.def.ghi.com and not in IP Address form)'
-	sys.exit(1)
+#if hostname[0] == '1':
+#	print 'PLease enter the hostname in INET Address form (eg: abc.def.ghi.com) and not in IP Address V4 form.'
+#	sys.exit(1)
+#elif hostname[0] == '2':
+#	print 'Please enter the hostname in INET Address form (eg: abc.def.ghi.com and not in IP Address form)'
+#	sys.exit(1)
 
 buffer_size = input("Enter the buffer size in Bytes. Do not exceed the MTU 1500 bytes: ")
 if buffer_size > 1500:
@@ -26,13 +26,13 @@ try:
 except Exception, e:
 	print 'Failed to create socket!'
 	alert(e)
-try:
-	host = socket.gethostbyname(hostname)
-except Exception, e:
-	print 'There was an error resolving the host.'
-	alert(e)
+#try:
+#	host = socket.gethostbyname(hostname)
+#except Exception, e:
+#	print 'There was an error resolving the host.'
+#	alert(e)
 
-print 'The host', hostname, 'has been resolved as', host, ':', port
+#print 'The host', hostname, 'has been resolved as', host, ':', port
 print 'Connecting to host now...'
 if os.path.isfile("Results1.txt") == True:
 	os.remove("Results1.txt")
@@ -43,13 +43,13 @@ print >>log, "test"
 
 try:
 	
-	s.connect((host, port))
+#	s.connect((host, port))
 	timer_start = datetime.datetime.now()
 	s.settimeout(20.0)
 	
 	print 'Connection started at', timer_start
 	try:
-		s.send('TEST')
+		s.sendto('TEST',(target_host,target_port))
 	except Exception, e:
 		print 'Cannot send test data. Please check connection.'
 		alert(e)
@@ -62,11 +62,11 @@ try:
 	
 	for i in range (0,200):
 		try:
-			a = 'A'*(buffer_size-30)
-			s.send(a);
+			a = 'A'*(buffer_size)
+			s.sendto(a, (target_host, target_port));
 			timer_send1=datetime.datetime.now()
-			b= 'B'*(buffer_size-30)
-			s.send(b)
+			b= 'B'*(buffer_size)
+			s.sendto(b, (target_host, target_port))
 			timer_send2=datetime.datetime.now()
 			print >> log, '1st PACKET SENT AT', timer_send1
 			print >> log, '2nd PACKET SENT AT', timer_send2
@@ -89,6 +89,6 @@ try:
 except Exception, e:
 	alert(e)
 
-print 'Connection to', hostname, 'was succesful. Statistics printed in the Results1.txt file'
-s.shutdown(socket.SHUT_RDWR)
+print 'Connection to', target_host, 'was succesful. Statistics printed in the Results1.txt file'
+#s.shutdown(socket.SHUT_RDWR)
 s.close()
