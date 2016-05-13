@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import socket, sys, time, datetime, IN, os
 import matplotlib.pyplot as plt
+import numpy as np
 
 def alert(msg):
 	print "Please check the below exception."
@@ -85,23 +86,42 @@ try:
 			timer_recv2=datetime.datetime.now()
 			print >> log, 'recieved 2nd PACKET at time', timer_recv2 
 		except socket.timeout:
-			print 'Lost the second packet of %d iteration!' %(i+1)
-			pass
+			print 'Connection timed out!!!!'
+			sys.exit(1)
 		dispersion_time=timer_recv2-timer_recv1
 		print dispersion_time
-		link_rate = (buffer_size*8)/(dispersion_time.microseconds/(float (1000000)))
+		link_rate = ((buffer_size+28)*8)/(dispersion_time.microseconds/(float (1000000)))
 		link_rate_kbps = link_rate/(float(1000))
+		dispersion_milli = dispersion_time.microseconds/float(1000)
 		list_rate.append(link_rate_kbps)
 		print >> log, 'Dispersion is %.3f milliseconds \n \r' %((dispersion_time.microseconds)/float(1000))
 		print 'Link rate is %.3f Kbps' %(link_rate/(float(1000)))
 except Exception, e:
 	alert(e)
-
-
-plt.plot(list_rate)
-plt.ylabel('Link rate in kbps')
-plt.tight_layout()
+s.close()
+#mean = np.mean(list_rate)
+#variance = np.var(list_rate, ddof=1)
+print " the mean is", np.mean(list_rate)
+print " the variance is ",np.var(list_rate)
+"""
+d is a dictionairy that will contain as keys the link_rates in mbps and as values the frequency of each
+link_rate
+"""
+d = {x: list_rate.count(x) for x in list_rate}
+# this will be the histogram for our measurements
+plt.title("Histogram of packet size %d bytes" % (buffer_size))
+# This array will contain the frequency for each link_rate measured
+array = []
+# By dividing the frequency of each link_rate with the total number of measurements we get the probability of it
+#for i in d.values():
+#    i = float(i)
+#    array.append(i)
+# number of bins will be max(l)-min(l)/0.5 so that we can have 200 bins
+# histogram will have in x-axis the link_rate in mbps and in y-axis the probability of each link_rate
+plt.hist(d.keys(), weights=d.values(), bins=(max(list_rate)-min(list_rate))/50)
+plt.xlabel('Link_Rates in Kbps')
+plt.ylabel('Frequency of link rates')
 plt.show()
 print 'Connection to', target_host, 'was succesful. Statistics printed in the Results1.txt file'
 #s.shutdown(socket.SHUT_RDWR)
-s.close()
+#s.close()'''
