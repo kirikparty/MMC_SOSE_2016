@@ -1,4 +1,12 @@
 #!/usr/bin/python
+
+'''
+This program gives us the distribution of the bottleneck link rates and tells us for the particcular packet size in bytes, which is the best link rate
+'''
+
+
+
+
 import socket, sys, time, datetime, IN, os
 import matplotlib.pyplot as plt
 import numpy as np
@@ -11,12 +19,6 @@ def alert(msg):
 target_host = sys.argv[1]
 target_port = int(sys.argv[2])
 
-#if hostname[0] == '1':
-#	print 'PLease enter the hostname in INET Address form (eg: abc.def.ghi.com) and not in IP Address V4 form.'
-#	sys.exit(1)
-#elif hostname[0] == '2':
-#	print 'Please enter the hostname in INET Address form (eg: abc.def.ghi.com and not in IP Address form)'
-#	sys.exit(1)
 
 buffer_size = input("Enter the buffer size in Bytes. Do not exceed the MTU 1500 bytes: ")
 if buffer_size > 1500:
@@ -47,7 +49,7 @@ try:
 	
 #	s.connect((host, port))
 	timer_start = datetime.datetime.now()
-	s.settimeout(10.0)
+	s.settimeout(1.0)
 	
 	print 'Connection started at', timer_start
 	try:
@@ -63,7 +65,7 @@ try:
 		sys.exit(1)
 	a= 'A'*(buffer_size)
 	b= 'B'*(buffer_size)
-	for i in range (200):
+	for i in range (1000):
 		try:
 			#time.sleep(0.001)
 			#a = 'A'*(buffer_size)
@@ -86,42 +88,36 @@ try:
 			timer_recv2=datetime.datetime.now()
 			print >> log, 'recieved 2nd PACKET at time', timer_recv2 
 		except socket.timeout:
-			print 'Connection timed out!!!!'
-			sys.exit(1)
+			print 'Packet lost'
+			continue
 		dispersion_time=timer_recv2-timer_recv1
-		print dispersion_time
+		print >> log, dispersion_time
 		link_rate = ((buffer_size+28)*8)/(dispersion_time.microseconds/(float (1000000)))
 		link_rate_kbps = link_rate/(float(1000))
 		dispersion_milli = dispersion_time.microseconds/float(1000)
 		list_rate.append(link_rate_kbps)
 		print >> log, 'Dispersion is %.3f milliseconds \n \r' %((dispersion_time.microseconds)/float(1000))
-		print 'Link rate is %.3f Kbps' %(link_rate/(float(1000)))
+		print >> log, 'Link rate is %.3f Kbps' %(link_rate/(float(1000)))
 except Exception, e:
 	alert(e)
 s.close()
-#mean = np.mean(list_rate)
-#variance = np.var(list_rate, ddof=1)
-print " the mean is", np.mean(list_rate)
-print " the variance is ",np.var(list_rate)
+
+print " The mean is", np.mean(list_rate), "kbps"
+print " The variance is ",np.var(list_rate)
 """
-d is a dictionairy that will contain as keys the link_rates in mbps and as values the frequency of each
-link_rate
+We now use a dictionary to plot the histogram. The dictionary key will have the link rates in kbps and the dictionary values will store their frequqency
 """
 d = {x: list_rate.count(x) for x in list_rate}
-# this will be the histogram for our measurements
+
 plt.title("Histogram of packet size %d bytes" % (buffer_size))
-# This array will contain the frequency for each link_rate measured
-array = []
-# By dividing the frequency of each link_rate with the total number of measurements we get the probability of it
-#for i in d.values():
-#    i = float(i)
-#    array.append(i)
-# number of bins will be max(l)-min(l)/0.5 so that we can have 200 bins
-# histogram will have in x-axis the link_rate in mbps and in y-axis the probability of each link_rate
-plt.hist(d.keys(), weights=d.values(), bins=(max(list_rate)-min(list_rate))/50)
+
+'''Here we define another list linkProb which will store the probability of occurence of each of the link rate'''
+linkProb = []
+
+for j in d.values():
+    j = float(j)/len(list_rate) #Dividing by the number of iterations gives us the probability
+    linkProb.append(j)
+plt.hist(d.keys(), weights=linkProb, bins=(max(list_rate)-min(list_rate))/50)
 plt.xlabel('Link_Rates in Kbps')
-plt.ylabel('Frequency of link rates')
+plt.ylabel('Probability of link rates')
 plt.show()
-print 'Connection to', target_host, 'was succesful. Statistics printed in the Results1.txt file'
-#s.shutdown(socket.SHUT_RDWR)
-#s.close()'''
