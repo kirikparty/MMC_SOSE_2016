@@ -1,0 +1,6001 @@
+test
+recieved 1st PACKET at time 2016-05-18 19:35:09.069264
+recieved 2nd PACKET at time 2016-05-18 19:35:09.072246
+0:00:00.002982
+Dispersion is 2.982 milliseconds 
+ 
+Link rate is 3830.986 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.143522
+recieved 2nd PACKET at time 2016-05-18 19:35:09.146720
+0:00:00.003198
+Dispersion is 3.198 milliseconds 
+ 
+Link rate is 3572.233 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.195310
+recieved 2nd PACKET at time 2016-05-18 19:35:09.199877
+0:00:00.004567
+Dispersion is 4.567 milliseconds 
+ 
+Link rate is 2501.423 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.227283
+recieved 2nd PACKET at time 2016-05-18 19:35:09.230815
+0:00:00.003532
+Dispersion is 3.532 milliseconds 
+ 
+Link rate is 3234.428 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.260719
+recieved 2nd PACKET at time 2016-05-18 19:35:09.266691
+0:00:00.005972
+Dispersion is 5.972 milliseconds 
+ 
+Link rate is 1912.927 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.295384
+recieved 2nd PACKET at time 2016-05-18 19:35:09.298795
+0:00:00.003411
+Dispersion is 3.411 milliseconds 
+ 
+Link rate is 3349.164 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.329615
+recieved 2nd PACKET at time 2016-05-18 19:35:09.333107
+0:00:00.003492
+Dispersion is 3.492 milliseconds 
+ 
+Link rate is 3271.478 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.360659
+recieved 2nd PACKET at time 2016-05-18 19:35:09.363656
+0:00:00.002997
+Dispersion is 2.997 milliseconds 
+ 
+Link rate is 3811.812 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.395074
+recieved 2nd PACKET at time 2016-05-18 19:35:09.398402
+0:00:00.003328
+Dispersion is 3.328 milliseconds 
+ 
+Link rate is 3432.692 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.431151
+recieved 2nd PACKET at time 2016-05-18 19:35:09.435447
+0:00:00.004296
+Dispersion is 4.296 milliseconds 
+ 
+Link rate is 2659.218 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.463364
+recieved 2nd PACKET at time 2016-05-18 19:35:09.466660
+0:00:00.003296
+Dispersion is 3.296 milliseconds 
+ 
+Link rate is 3466.019 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.497593
+recieved 2nd PACKET at time 2016-05-18 19:35:09.500093
+0:00:00.002500
+Dispersion is 2.500 milliseconds 
+ 
+Link rate is 4569.600 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.532477
+recieved 2nd PACKET at time 2016-05-18 19:35:09.535780
+0:00:00.003303
+Dispersion is 3.303 milliseconds 
+ 
+Link rate is 3458.674 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.563941
+recieved 2nd PACKET at time 2016-05-18 19:35:09.566944
+0:00:00.003003
+Dispersion is 3.003 milliseconds 
+ 
+Link rate is 3804.196 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.597670
+recieved 2nd PACKET at time 2016-05-18 19:35:09.600999
+0:00:00.003329
+Dispersion is 3.329 milliseconds 
+ 
+Link rate is 3431.661 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.629353
+recieved 2nd PACKET at time 2016-05-18 19:35:09.632381
+0:00:00.003028
+Dispersion is 3.028 milliseconds 
+ 
+Link rate is 3772.787 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.664518
+recieved 2nd PACKET at time 2016-05-18 19:35:09.667778
+0:00:00.003260
+Dispersion is 3.260 milliseconds 
+ 
+Link rate is 3504.294 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.696380
+recieved 2nd PACKET at time 2016-05-18 19:35:09.701105
+0:00:00.004725
+Dispersion is 4.725 milliseconds 
+ 
+Link rate is 2417.778 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.731255
+recieved 2nd PACKET at time 2016-05-18 19:35:09.735027
+0:00:00.003772
+Dispersion is 3.772 milliseconds 
+ 
+Link rate is 3028.632 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.765625
+recieved 2nd PACKET at time 2016-05-18 19:35:09.769212
+0:00:00.003587
+Dispersion is 3.587 milliseconds 
+ 
+Link rate is 3184.834 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.797635
+recieved 2nd PACKET at time 2016-05-18 19:35:09.802808
+0:00:00.005173
+Dispersion is 5.173 milliseconds 
+ 
+Link rate is 2208.390 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.831143
+recieved 2nd PACKET at time 2016-05-18 19:35:09.836133
+0:00:00.004990
+Dispersion is 4.990 milliseconds 
+ 
+Link rate is 2289.379 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.867993
+recieved 2nd PACKET at time 2016-05-18 19:35:09.871396
+0:00:00.003403
+Dispersion is 3.403 milliseconds 
+ 
+Link rate is 3357.038 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.905545
+recieved 2nd PACKET at time 2016-05-18 19:35:09.908533
+0:00:00.002988
+Dispersion is 2.988 milliseconds 
+ 
+Link rate is 3823.293 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.950642
+recieved 2nd PACKET at time 2016-05-18 19:35:09.958428
+0:00:00.007786
+Dispersion is 7.786 milliseconds 
+ 
+Link rate is 1467.249 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:09.988388
+recieved 2nd PACKET at time 2016-05-18 19:35:10.002013
+0:00:00.013625
+Dispersion is 13.625 milliseconds 
+ 
+Link rate is 838.459 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.034979
+recieved 2nd PACKET at time 2016-05-18 19:35:10.038826
+0:00:00.003847
+Dispersion is 3.847 milliseconds 
+ 
+Link rate is 2969.587 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.069645
+recieved 2nd PACKET at time 2016-05-18 19:35:10.074486
+0:00:00.004841
+Dispersion is 4.841 milliseconds 
+ 
+Link rate is 2359.843 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.104232
+recieved 2nd PACKET at time 2016-05-18 19:35:10.109918
+0:00:00.005686
+Dispersion is 5.686 milliseconds 
+ 
+Link rate is 2009.145 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.140471
+recieved 2nd PACKET at time 2016-05-18 19:35:10.144066
+0:00:00.003595
+Dispersion is 3.595 milliseconds 
+ 
+Link rate is 3177.747 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.174875
+recieved 2nd PACKET at time 2016-05-18 19:35:10.177944
+0:00:00.003069
+Dispersion is 3.069 milliseconds 
+ 
+Link rate is 3722.385 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.207215
+recieved 2nd PACKET at time 2016-05-18 19:35:10.218169
+0:00:00.010954
+Dispersion is 10.954 milliseconds 
+ 
+Link rate is 1042.907 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.252415
+recieved 2nd PACKET at time 2016-05-18 19:35:10.256790
+0:00:00.004375
+Dispersion is 4.375 milliseconds 
+ 
+Link rate is 2611.200 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.288420
+recieved 2nd PACKET at time 2016-05-18 19:35:10.300784
+0:00:00.012364
+Dispersion is 12.364 milliseconds 
+ 
+Link rate is 923.973 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.329804
+recieved 2nd PACKET at time 2016-05-18 19:35:10.333121
+0:00:00.003317
+Dispersion is 3.317 milliseconds 
+ 
+Link rate is 3444.076 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.361711
+recieved 2nd PACKET at time 2016-05-18 19:35:10.367548
+0:00:00.005837
+Dispersion is 5.837 milliseconds 
+ 
+Link rate is 1957.170 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.395420
+recieved 2nd PACKET at time 2016-05-18 19:35:10.400330
+0:00:00.004910
+Dispersion is 4.910 milliseconds 
+ 
+Link rate is 2326.680 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.431305
+recieved 2nd PACKET at time 2016-05-18 19:35:10.434588
+0:00:00.003283
+Dispersion is 3.283 milliseconds 
+ 
+Link rate is 3479.744 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.462634
+recieved 2nd PACKET at time 2016-05-18 19:35:10.470363
+0:00:00.007729
+Dispersion is 7.729 milliseconds 
+ 
+Link rate is 1478.070 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.498410
+recieved 2nd PACKET at time 2016-05-18 19:35:10.504397
+0:00:00.005987
+Dispersion is 5.987 milliseconds 
+ 
+Link rate is 1908.134 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.532680
+recieved 2nd PACKET at time 2016-05-18 19:35:10.535767
+0:00:00.003087
+Dispersion is 3.087 milliseconds 
+ 
+Link rate is 3700.680 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.563892
+recieved 2nd PACKET at time 2016-05-18 19:35:10.574136
+0:00:00.010244
+Dispersion is 10.244 milliseconds 
+ 
+Link rate is 1115.189 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.602279
+recieved 2nd PACKET at time 2016-05-18 19:35:10.606052
+0:00:00.003773
+Dispersion is 3.773 milliseconds 
+ 
+Link rate is 3027.829 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.635948
+recieved 2nd PACKET at time 2016-05-18 19:35:10.639412
+0:00:00.003464
+Dispersion is 3.464 milliseconds 
+ 
+Link rate is 3297.921 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.668205
+recieved 2nd PACKET at time 2016-05-18 19:35:10.674929
+0:00:00.006724
+Dispersion is 6.724 milliseconds 
+ 
+Link rate is 1698.989 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.704105
+recieved 2nd PACKET at time 2016-05-18 19:35:10.707925
+0:00:00.003820
+Dispersion is 3.820 milliseconds 
+ 
+Link rate is 2990.576 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.737806
+recieved 2nd PACKET at time 2016-05-18 19:35:10.741500
+0:00:00.003694
+Dispersion is 3.694 milliseconds 
+ 
+Link rate is 3092.583 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.770860
+recieved 2nd PACKET at time 2016-05-18 19:35:10.779087
+0:00:00.008227
+Dispersion is 8.227 milliseconds 
+ 
+Link rate is 1388.599 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.813905
+recieved 2nd PACKET at time 2016-05-18 19:35:10.817567
+0:00:00.003662
+Dispersion is 3.662 milliseconds 
+ 
+Link rate is 3119.607 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.853859
+recieved 2nd PACKET at time 2016-05-18 19:35:10.857988
+0:00:00.004129
+Dispersion is 4.129 milliseconds 
+ 
+Link rate is 2766.772 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.886399
+recieved 2nd PACKET at time 2016-05-18 19:35:10.892337
+0:00:00.005938
+Dispersion is 5.938 milliseconds 
+ 
+Link rate is 1923.880 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.928498
+recieved 2nd PACKET at time 2016-05-18 19:35:10.932350
+0:00:00.003852
+Dispersion is 3.852 milliseconds 
+ 
+Link rate is 2965.732 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:10.989474
+recieved 2nd PACKET at time 2016-05-18 19:35:10.994333
+0:00:00.004859
+Dispersion is 4.859 milliseconds 
+ 
+Link rate is 2351.101 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.026721
+recieved 2nd PACKET at time 2016-05-18 19:35:11.032058
+0:00:00.005337
+Dispersion is 5.337 milliseconds 
+ 
+Link rate is 2140.528 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.062743
+recieved 2nd PACKET at time 2016-05-18 19:35:11.066850
+0:00:00.004107
+Dispersion is 4.107 milliseconds 
+ 
+Link rate is 2781.592 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.106392
+recieved 2nd PACKET at time 2016-05-18 19:35:11.112545
+0:00:00.006153
+Dispersion is 6.153 milliseconds 
+ 
+Link rate is 1856.655 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.145721
+recieved 2nd PACKET at time 2016-05-18 19:35:11.149116
+0:00:00.003395
+Dispersion is 3.395 milliseconds 
+ 
+Link rate is 3364.948 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.177623
+recieved 2nd PACKET at time 2016-05-18 19:35:11.187224
+0:00:00.009601
+Dispersion is 9.601 milliseconds 
+ 
+Link rate is 1189.876 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.216086
+recieved 2nd PACKET at time 2016-05-18 19:35:11.219809
+0:00:00.003723
+Dispersion is 3.723 milliseconds 
+ 
+Link rate is 3068.493 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.248520
+recieved 2nd PACKET at time 2016-05-18 19:35:11.251966
+0:00:00.003446
+Dispersion is 3.446 milliseconds 
+ 
+Link rate is 3315.148 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.291715
+recieved 2nd PACKET at time 2016-05-18 19:35:11.295145
+0:00:00.003430
+Dispersion is 3.430 milliseconds 
+ 
+Link rate is 3330.612 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.325815
+recieved 2nd PACKET at time 2016-05-18 19:35:11.329356
+0:00:00.003541
+Dispersion is 3.541 milliseconds 
+ 
+Link rate is 3226.207 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.357399
+recieved 2nd PACKET at time 2016-05-18 19:35:11.364883
+0:00:00.007484
+Dispersion is 7.484 milliseconds 
+ 
+Link rate is 1526.456 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.398039
+recieved 2nd PACKET at time 2016-05-18 19:35:11.403771
+0:00:00.005732
+Dispersion is 5.732 milliseconds 
+ 
+Link rate is 1993.022 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.434942
+recieved 2nd PACKET at time 2016-05-18 19:35:11.441885
+0:00:00.006943
+Dispersion is 6.943 milliseconds 
+ 
+Link rate is 1645.398 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.479960
+recieved 2nd PACKET at time 2016-05-18 19:35:11.491302
+0:00:00.011342
+Dispersion is 11.342 milliseconds 
+ 
+Link rate is 1007.230 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.542618
+recieved 2nd PACKET at time 2016-05-18 19:35:11.548340
+0:00:00.005722
+Dispersion is 5.722 milliseconds 
+ 
+Link rate is 1996.505 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.598194
+recieved 2nd PACKET at time 2016-05-18 19:35:11.603957
+0:00:00.005763
+Dispersion is 5.763 milliseconds 
+ 
+Link rate is 1982.301 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.647889
+recieved 2nd PACKET at time 2016-05-18 19:35:11.659712
+0:00:00.011823
+Dispersion is 11.823 milliseconds 
+ 
+Link rate is 966.252 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.702064
+recieved 2nd PACKET at time 2016-05-18 19:35:11.707150
+0:00:00.005086
+Dispersion is 5.086 milliseconds 
+ 
+Link rate is 2246.166 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.744175
+recieved 2nd PACKET at time 2016-05-18 19:35:11.750833
+0:00:00.006658
+Dispersion is 6.658 milliseconds 
+ 
+Link rate is 1715.831 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.794492
+recieved 2nd PACKET at time 2016-05-18 19:35:11.802109
+0:00:00.007617
+Dispersion is 7.617 milliseconds 
+ 
+Link rate is 1499.803 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.837993
+recieved 2nd PACKET at time 2016-05-18 19:35:11.844400
+0:00:00.006407
+Dispersion is 6.407 milliseconds 
+ 
+Link rate is 1783.050 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.876724
+recieved 2nd PACKET at time 2016-05-18 19:35:11.881905
+0:00:00.005181
+Dispersion is 5.181 milliseconds 
+ 
+Link rate is 2204.980 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.915514
+recieved 2nd PACKET at time 2016-05-18 19:35:11.919947
+0:00:00.004433
+Dispersion is 4.433 milliseconds 
+ 
+Link rate is 2577.036 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.952457
+recieved 2nd PACKET at time 2016-05-18 19:35:11.956798
+0:00:00.004341
+Dispersion is 4.341 milliseconds 
+ 
+Link rate is 2631.652 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:11.990979
+recieved 2nd PACKET at time 2016-05-18 19:35:11.999385
+0:00:00.008406
+Dispersion is 8.406 milliseconds 
+ 
+Link rate is 1359.029 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.038748
+recieved 2nd PACKET at time 2016-05-18 19:35:12.043244
+0:00:00.004496
+Dispersion is 4.496 milliseconds 
+ 
+Link rate is 2540.925 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.074019
+recieved 2nd PACKET at time 2016-05-18 19:35:12.080438
+0:00:00.006419
+Dispersion is 6.419 milliseconds 
+ 
+Link rate is 1779.716 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.114693
+recieved 2nd PACKET at time 2016-05-18 19:35:12.118672
+0:00:00.003979
+Dispersion is 3.979 milliseconds 
+ 
+Link rate is 2871.073 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.152390
+recieved 2nd PACKET at time 2016-05-18 19:35:12.158200
+0:00:00.005810
+Dispersion is 5.810 milliseconds 
+ 
+Link rate is 1966.265 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.189632
+recieved 2nd PACKET at time 2016-05-18 19:35:12.193724
+0:00:00.004092
+Dispersion is 4.092 milliseconds 
+ 
+Link rate is 2791.789 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.227628
+recieved 2nd PACKET at time 2016-05-18 19:35:12.235585
+0:00:00.007957
+Dispersion is 7.957 milliseconds 
+ 
+Link rate is 1435.717 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.271177
+recieved 2nd PACKET at time 2016-05-18 19:35:12.274808
+0:00:00.003631
+Dispersion is 3.631 milliseconds 
+ 
+Link rate is 3146.241 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.303581
+recieved 2nd PACKET at time 2016-05-18 19:35:12.313270
+0:00:00.009689
+Dispersion is 9.689 milliseconds 
+ 
+Link rate is 1179.069 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.356515
+recieved 2nd PACKET at time 2016-05-18 19:35:12.373206
+0:00:00.016691
+Dispersion is 16.691 milliseconds 
+ 
+Link rate is 684.441 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.404662
+recieved 2nd PACKET at time 2016-05-18 19:35:12.410262
+0:00:00.005600
+Dispersion is 5.600 milliseconds 
+ 
+Link rate is 2040.000 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.442651
+recieved 2nd PACKET at time 2016-05-18 19:35:12.447582
+0:00:00.004931
+Dispersion is 4.931 milliseconds 
+ 
+Link rate is 2316.771 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.477786
+recieved 2nd PACKET at time 2016-05-18 19:35:12.481726
+0:00:00.003940
+Dispersion is 3.940 milliseconds 
+ 
+Link rate is 2899.492 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.512766
+recieved 2nd PACKET at time 2016-05-18 19:35:12.522230
+0:00:00.009464
+Dispersion is 9.464 milliseconds 
+ 
+Link rate is 1207.101 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.554390
+recieved 2nd PACKET at time 2016-05-18 19:35:12.559531
+0:00:00.005141
+Dispersion is 5.141 milliseconds 
+ 
+Link rate is 2222.136 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.593696
+recieved 2nd PACKET at time 2016-05-18 19:35:12.600147
+0:00:00.006451
+Dispersion is 6.451 milliseconds 
+ 
+Link rate is 1770.888 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.633446
+recieved 2nd PACKET at time 2016-05-18 19:35:12.637377
+0:00:00.003931
+Dispersion is 3.931 milliseconds 
+ 
+Link rate is 2906.131 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.668282
+recieved 2nd PACKET at time 2016-05-18 19:35:12.671908
+0:00:00.003626
+Dispersion is 3.626 milliseconds 
+ 
+Link rate is 3150.579 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.700487
+recieved 2nd PACKET at time 2016-05-18 19:35:12.704796
+0:00:00.004309
+Dispersion is 4.309 milliseconds 
+ 
+Link rate is 2651.195 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.739600
+recieved 2nd PACKET at time 2016-05-18 19:35:12.742934
+0:00:00.003334
+Dispersion is 3.334 milliseconds 
+ 
+Link rate is 3426.515 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.773830
+recieved 2nd PACKET at time 2016-05-18 19:35:12.778770
+0:00:00.004940
+Dispersion is 4.940 milliseconds 
+ 
+Link rate is 2312.551 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.809441
+recieved 2nd PACKET at time 2016-05-18 19:35:12.813255
+0:00:00.003814
+Dispersion is 3.814 milliseconds 
+ 
+Link rate is 2995.281 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.841752
+recieved 2nd PACKET at time 2016-05-18 19:35:12.845827
+0:00:00.004075
+Dispersion is 4.075 milliseconds 
+ 
+Link rate is 2803.436 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.875565
+recieved 2nd PACKET at time 2016-05-18 19:35:12.879623
+0:00:00.004058
+Dispersion is 4.058 milliseconds 
+ 
+Link rate is 2815.180 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.913807
+recieved 2nd PACKET at time 2016-05-18 19:35:12.917361
+0:00:00.003554
+Dispersion is 3.554 milliseconds 
+ 
+Link rate is 3214.406 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.947829
+recieved 2nd PACKET at time 2016-05-18 19:35:12.955812
+0:00:00.007983
+Dispersion is 7.983 milliseconds 
+ 
+Link rate is 1431.041 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:12.987761
+recieved 2nd PACKET at time 2016-05-18 19:35:12.991198
+0:00:00.003437
+Dispersion is 3.437 milliseconds 
+ 
+Link rate is 3323.829 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.030053
+recieved 2nd PACKET at time 2016-05-18 19:35:13.035287
+0:00:00.005234
+Dispersion is 5.234 milliseconds 
+ 
+Link rate is 2182.652 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.066403
+recieved 2nd PACKET at time 2016-05-18 19:35:13.071767
+0:00:00.005364
+Dispersion is 5.364 milliseconds 
+ 
+Link rate is 2129.754 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.107590
+recieved 2nd PACKET at time 2016-05-18 19:35:13.112218
+0:00:00.004628
+Dispersion is 4.628 milliseconds 
+ 
+Link rate is 2468.453 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.145591
+recieved 2nd PACKET at time 2016-05-18 19:35:13.149706
+0:00:00.004115
+Dispersion is 4.115 milliseconds 
+ 
+Link rate is 2776.185 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.179715
+recieved 2nd PACKET at time 2016-05-18 19:35:13.183225
+0:00:00.003510
+Dispersion is 3.510 milliseconds 
+ 
+Link rate is 3254.701 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.217888
+recieved 2nd PACKET at time 2016-05-18 19:35:13.221744
+0:00:00.003856
+Dispersion is 3.856 milliseconds 
+ 
+Link rate is 2962.656 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.251868
+recieved 2nd PACKET at time 2016-05-18 19:35:13.258788
+0:00:00.006920
+Dispersion is 6.920 milliseconds 
+ 
+Link rate is 1650.867 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.287167
+recieved 2nd PACKET at time 2016-05-18 19:35:13.291189
+0:00:00.004022
+Dispersion is 4.022 milliseconds 
+ 
+Link rate is 2840.378 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.321933
+recieved 2nd PACKET at time 2016-05-18 19:35:13.326126
+0:00:00.004193
+Dispersion is 4.193 milliseconds 
+ 
+Link rate is 2724.541 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.356031
+recieved 2nd PACKET at time 2016-05-18 19:35:13.363009
+0:00:00.006978
+Dispersion is 6.978 milliseconds 
+ 
+Link rate is 1637.145 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.391708
+recieved 2nd PACKET at time 2016-05-18 19:35:13.398210
+0:00:00.006502
+Dispersion is 6.502 milliseconds 
+ 
+Link rate is 1756.998 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.430564
+recieved 2nd PACKET at time 2016-05-18 19:35:13.439339
+0:00:00.008775
+Dispersion is 8.775 milliseconds 
+ 
+Link rate is 1301.880 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.467472
+recieved 2nd PACKET at time 2016-05-18 19:35:13.472295
+0:00:00.004823
+Dispersion is 4.823 milliseconds 
+ 
+Link rate is 2368.650 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.501442
+recieved 2nd PACKET at time 2016-05-18 19:35:13.505847
+0:00:00.004405
+Dispersion is 4.405 milliseconds 
+ 
+Link rate is 2593.417 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.537377
+recieved 2nd PACKET at time 2016-05-18 19:35:13.545140
+0:00:00.007763
+Dispersion is 7.763 milliseconds 
+ 
+Link rate is 1471.596 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.577470
+recieved 2nd PACKET at time 2016-05-18 19:35:13.581588
+0:00:00.004118
+Dispersion is 4.118 milliseconds 
+ 
+Link rate is 2774.162 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.614557
+recieved 2nd PACKET at time 2016-05-18 19:35:13.618452
+0:00:00.003895
+Dispersion is 3.895 milliseconds 
+ 
+Link rate is 2932.991 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.649476
+recieved 2nd PACKET at time 2016-05-18 19:35:13.655499
+0:00:00.006023
+Dispersion is 6.023 milliseconds 
+ 
+Link rate is 1896.729 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.683717
+recieved 2nd PACKET at time 2016-05-18 19:35:13.687680
+0:00:00.003963
+Dispersion is 3.963 milliseconds 
+ 
+Link rate is 2882.665 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.719491
+recieved 2nd PACKET at time 2016-05-18 19:35:13.723565
+0:00:00.004074
+Dispersion is 4.074 milliseconds 
+ 
+Link rate is 2804.124 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.752240
+recieved 2nd PACKET at time 2016-05-18 19:35:13.758050
+0:00:00.005810
+Dispersion is 5.810 milliseconds 
+ 
+Link rate is 1966.265 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.787504
+recieved 2nd PACKET at time 2016-05-18 19:35:13.793290
+0:00:00.005786
+Dispersion is 5.786 milliseconds 
+ 
+Link rate is 1974.421 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.821433
+recieved 2nd PACKET at time 2016-05-18 19:35:13.825365
+0:00:00.003932
+Dispersion is 3.932 milliseconds 
+ 
+Link rate is 2905.392 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.854203
+recieved 2nd PACKET at time 2016-05-18 19:35:13.858605
+0:00:00.004402
+Dispersion is 4.402 milliseconds 
+ 
+Link rate is 2595.184 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.887475
+recieved 2nd PACKET at time 2016-05-18 19:35:13.891342
+0:00:00.003867
+Dispersion is 3.867 milliseconds 
+ 
+Link rate is 2954.228 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.923184
+recieved 2nd PACKET at time 2016-05-18 19:35:13.927175
+0:00:00.003991
+Dispersion is 3.991 milliseconds 
+ 
+Link rate is 2862.440 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.957635
+recieved 2nd PACKET at time 2016-05-18 19:35:13.961932
+0:00:00.004297
+Dispersion is 4.297 milliseconds 
+ 
+Link rate is 2658.599 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:13.992909
+recieved 2nd PACKET at time 2016-05-18 19:35:13.998212
+0:00:00.005303
+Dispersion is 5.303 milliseconds 
+ 
+Link rate is 2154.252 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.028679
+recieved 2nd PACKET at time 2016-05-18 19:35:14.031919
+0:00:00.003240
+Dispersion is 3.240 milliseconds 
+ 
+Link rate is 3525.926 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.066911
+recieved 2nd PACKET at time 2016-05-18 19:35:14.070957
+0:00:00.004046
+Dispersion is 4.046 milliseconds 
+ 
+Link rate is 2823.529 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.102094
+recieved 2nd PACKET at time 2016-05-18 19:35:14.106669
+0:00:00.004575
+Dispersion is 4.575 milliseconds 
+ 
+Link rate is 2497.049 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.145980
+recieved 2nd PACKET at time 2016-05-18 19:35:14.154987
+0:00:00.009007
+Dispersion is 9.007 milliseconds 
+ 
+Link rate is 1268.347 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.183994
+recieved 2nd PACKET at time 2016-05-18 19:35:14.187928
+0:00:00.003934
+Dispersion is 3.934 milliseconds 
+ 
+Link rate is 2903.915 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.215987
+recieved 2nd PACKET at time 2016-05-18 19:35:14.220348
+0:00:00.004361
+Dispersion is 4.361 milliseconds 
+ 
+Link rate is 2619.583 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.250255
+recieved 2nd PACKET at time 2016-05-18 19:35:14.257333
+0:00:00.007078
+Dispersion is 7.078 milliseconds 
+ 
+Link rate is 1614.015 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.285754
+recieved 2nd PACKET at time 2016-05-18 19:35:14.290180
+0:00:00.004426
+Dispersion is 4.426 milliseconds 
+ 
+Link rate is 2581.112 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.319498
+recieved 2nd PACKET at time 2016-05-18 19:35:14.323670
+0:00:00.004172
+Dispersion is 4.172 milliseconds 
+ 
+Link rate is 2738.255 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.351799
+recieved 2nd PACKET at time 2016-05-18 19:35:14.359056
+0:00:00.007257
+Dispersion is 7.257 milliseconds 
+ 
+Link rate is 1574.204 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.395379
+recieved 2nd PACKET at time 2016-05-18 19:35:14.399218
+0:00:00.003839
+Dispersion is 3.839 milliseconds 
+ 
+Link rate is 2975.775 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.468869
+recieved 2nd PACKET at time 2016-05-18 19:35:14.473003
+0:00:00.004134
+Dispersion is 4.134 milliseconds 
+ 
+Link rate is 2763.425 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.506314
+recieved 2nd PACKET at time 2016-05-18 19:35:14.532055
+0:00:00.025741
+Dispersion is 25.741 milliseconds 
+ 
+Link rate is 443.806 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.580564
+recieved 2nd PACKET at time 2016-05-18 19:35:14.603024
+0:00:00.022460
+Dispersion is 22.460 milliseconds 
+ 
+Link rate is 508.638 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.639089
+recieved 2nd PACKET at time 2016-05-18 19:35:14.650013
+0:00:00.010924
+Dispersion is 10.924 milliseconds 
+ 
+Link rate is 1045.771 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.687974
+recieved 2nd PACKET at time 2016-05-18 19:35:14.695772
+0:00:00.007798
+Dispersion is 7.798 milliseconds 
+ 
+Link rate is 1464.991 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.727587
+recieved 2nd PACKET at time 2016-05-18 19:35:14.731745
+0:00:00.004158
+Dispersion is 4.158 milliseconds 
+ 
+Link rate is 2747.475 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.762946
+recieved 2nd PACKET at time 2016-05-18 19:35:14.769672
+0:00:00.006726
+Dispersion is 6.726 milliseconds 
+ 
+Link rate is 1698.483 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.798746
+recieved 2nd PACKET at time 2016-05-18 19:35:14.803556
+0:00:00.004810
+Dispersion is 4.810 milliseconds 
+ 
+Link rate is 2375.052 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.835754
+recieved 2nd PACKET at time 2016-05-18 19:35:14.843509
+0:00:00.007755
+Dispersion is 7.755 milliseconds 
+ 
+Link rate is 1473.114 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.887036
+recieved 2nd PACKET at time 2016-05-18 19:35:14.892030
+0:00:00.004994
+Dispersion is 4.994 milliseconds 
+ 
+Link rate is 2287.545 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.925787
+recieved 2nd PACKET at time 2016-05-18 19:35:14.931899
+0:00:00.006112
+Dispersion is 6.112 milliseconds 
+ 
+Link rate is 1869.110 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:14.962478
+recieved 2nd PACKET at time 2016-05-18 19:35:14.969353
+0:00:00.006875
+Dispersion is 6.875 milliseconds 
+ 
+Link rate is 1661.673 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.009646
+recieved 2nd PACKET at time 2016-05-18 19:35:15.014207
+0:00:00.004561
+Dispersion is 4.561 milliseconds 
+ 
+Link rate is 2504.714 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.047925
+recieved 2nd PACKET at time 2016-05-18 19:35:15.053408
+0:00:00.005483
+Dispersion is 5.483 milliseconds 
+ 
+Link rate is 2083.531 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.083290
+recieved 2nd PACKET at time 2016-05-18 19:35:15.088217
+0:00:00.004927
+Dispersion is 4.927 milliseconds 
+ 
+Link rate is 2318.652 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.137569
+recieved 2nd PACKET at time 2016-05-18 19:35:15.141760
+0:00:00.004191
+Dispersion is 4.191 milliseconds 
+ 
+Link rate is 2725.841 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.174753
+recieved 2nd PACKET at time 2016-05-18 19:35:15.181898
+0:00:00.007145
+Dispersion is 7.145 milliseconds 
+ 
+Link rate is 1598.880 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.210260
+recieved 2nd PACKET at time 2016-05-18 19:35:15.214341
+0:00:00.004081
+Dispersion is 4.081 milliseconds 
+ 
+Link rate is 2799.314 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.242762
+recieved 2nd PACKET at time 2016-05-18 19:35:15.246958
+0:00:00.004196
+Dispersion is 4.196 milliseconds 
+ 
+Link rate is 2722.593 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.281664
+recieved 2nd PACKET at time 2016-05-18 19:35:15.285736
+0:00:00.004072
+Dispersion is 4.072 milliseconds 
+ 
+Link rate is 2805.501 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.316697
+recieved 2nd PACKET at time 2016-05-18 19:35:15.321549
+0:00:00.004852
+Dispersion is 4.852 milliseconds 
+ 
+Link rate is 2354.493 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.354461
+recieved 2nd PACKET at time 2016-05-18 19:35:15.358593
+0:00:00.004132
+Dispersion is 4.132 milliseconds 
+ 
+Link rate is 2764.763 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.398924
+recieved 2nd PACKET at time 2016-05-18 19:35:15.403423
+0:00:00.004499
+Dispersion is 4.499 milliseconds 
+ 
+Link rate is 2539.231 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.432853
+recieved 2nd PACKET at time 2016-05-18 19:35:15.436680
+0:00:00.003827
+Dispersion is 3.827 milliseconds 
+ 
+Link rate is 2985.106 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.469908
+recieved 2nd PACKET at time 2016-05-18 19:35:15.473967
+0:00:00.004059
+Dispersion is 4.059 milliseconds 
+ 
+Link rate is 2814.486 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.502009
+recieved 2nd PACKET at time 2016-05-18 19:35:15.505551
+0:00:00.003542
+Dispersion is 3.542 milliseconds 
+ 
+Link rate is 3225.296 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.535962
+recieved 2nd PACKET at time 2016-05-18 19:35:15.540072
+0:00:00.004110
+Dispersion is 4.110 milliseconds 
+ 
+Link rate is 2779.562 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.571130
+recieved 2nd PACKET at time 2016-05-18 19:35:15.577258
+0:00:00.006128
+Dispersion is 6.128 milliseconds 
+ 
+Link rate is 1864.230 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.610719
+recieved 2nd PACKET at time 2016-05-18 19:35:15.616033
+0:00:00.005314
+Dispersion is 5.314 milliseconds 
+ 
+Link rate is 2149.793 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.648456
+recieved 2nd PACKET at time 2016-05-18 19:35:15.653370
+0:00:00.004914
+Dispersion is 4.914 milliseconds 
+ 
+Link rate is 2324.786 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.682525
+recieved 2nd PACKET at time 2016-05-18 19:35:15.690454
+0:00:00.007929
+Dispersion is 7.929 milliseconds 
+ 
+Link rate is 1440.787 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.719128
+recieved 2nd PACKET at time 2016-05-18 19:35:15.723893
+0:00:00.004765
+Dispersion is 4.765 milliseconds 
+ 
+Link rate is 2397.482 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.753866
+recieved 2nd PACKET at time 2016-05-18 19:35:15.758179
+0:00:00.004313
+Dispersion is 4.313 milliseconds 
+ 
+Link rate is 2648.736 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.793602
+recieved 2nd PACKET at time 2016-05-18 19:35:15.801824
+0:00:00.008222
+Dispersion is 8.222 milliseconds 
+ 
+Link rate is 1389.443 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.832467
+recieved 2nd PACKET at time 2016-05-18 19:35:15.836814
+0:00:00.004347
+Dispersion is 4.347 milliseconds 
+ 
+Link rate is 2628.019 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.867994
+recieved 2nd PACKET at time 2016-05-18 19:35:15.872379
+0:00:00.004385
+Dispersion is 4.385 milliseconds 
+ 
+Link rate is 2605.245 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.902048
+recieved 2nd PACKET at time 2016-05-18 19:35:15.905798
+0:00:00.003750
+Dispersion is 3.750 milliseconds 
+ 
+Link rate is 3046.400 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.935212
+recieved 2nd PACKET at time 2016-05-18 19:35:15.939782
+0:00:00.004570
+Dispersion is 4.570 milliseconds 
+ 
+Link rate is 2499.781 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:15.970273
+recieved 2nd PACKET at time 2016-05-18 19:35:15.976727
+0:00:00.006454
+Dispersion is 6.454 milliseconds 
+ 
+Link rate is 1770.065 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.012682
+recieved 2nd PACKET at time 2016-05-18 19:35:16.017026
+0:00:00.004344
+Dispersion is 4.344 milliseconds 
+ 
+Link rate is 2629.834 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.050443
+recieved 2nd PACKET at time 2016-05-18 19:35:16.056660
+0:00:00.006217
+Dispersion is 6.217 milliseconds 
+ 
+Link rate is 1837.542 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.087795
+recieved 2nd PACKET at time 2016-05-18 19:35:16.091655
+0:00:00.003860
+Dispersion is 3.860 milliseconds 
+ 
+Link rate is 2959.585 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.135769
+recieved 2nd PACKET at time 2016-05-18 19:35:16.139891
+0:00:00.004122
+Dispersion is 4.122 milliseconds 
+ 
+Link rate is 2771.470 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.173456
+recieved 2nd PACKET at time 2016-05-18 19:35:16.179053
+0:00:00.005597
+Dispersion is 5.597 milliseconds 
+ 
+Link rate is 2041.093 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.212186
+recieved 2nd PACKET at time 2016-05-18 19:35:16.216514
+0:00:00.004328
+Dispersion is 4.328 milliseconds 
+ 
+Link rate is 2639.556 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.247004
+recieved 2nd PACKET at time 2016-05-18 19:35:16.252142
+0:00:00.005138
+Dispersion is 5.138 milliseconds 
+ 
+Link rate is 2223.433 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.281838
+recieved 2nd PACKET at time 2016-05-18 19:35:16.285774
+0:00:00.003936
+Dispersion is 3.936 milliseconds 
+ 
+Link rate is 2902.439 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.320649
+recieved 2nd PACKET at time 2016-05-18 19:35:16.325336
+0:00:00.004687
+Dispersion is 4.687 milliseconds 
+ 
+Link rate is 2437.380 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.355948
+recieved 2nd PACKET at time 2016-05-18 19:35:16.360331
+0:00:00.004383
+Dispersion is 4.383 milliseconds 
+ 
+Link rate is 2606.434 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.391891
+recieved 2nd PACKET at time 2016-05-18 19:35:16.406358
+0:00:00.014467
+Dispersion is 14.467 milliseconds 
+ 
+Link rate is 789.659 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.436783
+recieved 2nd PACKET at time 2016-05-18 19:35:16.440708
+0:00:00.003925
+Dispersion is 3.925 milliseconds 
+ 
+Link rate is 2910.573 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.469799
+recieved 2nd PACKET at time 2016-05-18 19:35:16.474995
+0:00:00.005196
+Dispersion is 5.196 milliseconds 
+ 
+Link rate is 2198.614 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.509581
+recieved 2nd PACKET at time 2016-05-18 19:35:16.516026
+0:00:00.006445
+Dispersion is 6.445 milliseconds 
+ 
+Link rate is 1772.537 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.546897
+recieved 2nd PACKET at time 2016-05-18 19:35:16.551713
+0:00:00.004816
+Dispersion is 4.816 milliseconds 
+ 
+Link rate is 2372.093 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.583128
+recieved 2nd PACKET at time 2016-05-18 19:35:16.587873
+0:00:00.004745
+Dispersion is 4.745 milliseconds 
+ 
+Link rate is 2407.587 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.617832
+recieved 2nd PACKET at time 2016-05-18 19:35:16.622048
+0:00:00.004216
+Dispersion is 4.216 milliseconds 
+ 
+Link rate is 2709.677 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.653740
+recieved 2nd PACKET at time 2016-05-18 19:35:16.656508
+0:00:00.002768
+Dispersion is 2.768 milliseconds 
+ 
+Link rate is 4127.168 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.686596
+recieved 2nd PACKET at time 2016-05-18 19:35:16.691189
+0:00:00.004593
+Dispersion is 4.593 milliseconds 
+ 
+Link rate is 2487.263 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.720094
+recieved 2nd PACKET at time 2016-05-18 19:35:16.724075
+0:00:00.003981
+Dispersion is 3.981 milliseconds 
+ 
+Link rate is 2869.631 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.754869
+recieved 2nd PACKET at time 2016-05-18 19:35:16.759095
+0:00:00.004226
+Dispersion is 4.226 milliseconds 
+ 
+Link rate is 2703.265 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.789484
+recieved 2nd PACKET at time 2016-05-18 19:35:16.794438
+0:00:00.004954
+Dispersion is 4.954 milliseconds 
+ 
+Link rate is 2306.015 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.829428
+recieved 2nd PACKET at time 2016-05-18 19:35:16.834725
+0:00:00.005297
+Dispersion is 5.297 milliseconds 
+ 
+Link rate is 2156.692 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.868808
+recieved 2nd PACKET at time 2016-05-18 19:35:16.873271
+0:00:00.004463
+Dispersion is 4.463 milliseconds 
+ 
+Link rate is 2559.713 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.906528
+recieved 2nd PACKET at time 2016-05-18 19:35:16.911116
+0:00:00.004588
+Dispersion is 4.588 milliseconds 
+ 
+Link rate is 2489.974 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.940091
+recieved 2nd PACKET at time 2016-05-18 19:35:16.946040
+0:00:00.005949
+Dispersion is 5.949 milliseconds 
+ 
+Link rate is 1920.323 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:16.979563
+recieved 2nd PACKET at time 2016-05-18 19:35:16.984072
+0:00:00.004509
+Dispersion is 4.509 milliseconds 
+ 
+Link rate is 2533.599 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.014024
+recieved 2nd PACKET at time 2016-05-18 19:35:17.020513
+0:00:00.006489
+Dispersion is 6.489 milliseconds 
+ 
+Link rate is 1760.518 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.054636
+recieved 2nd PACKET at time 2016-05-18 19:35:17.058870
+0:00:00.004234
+Dispersion is 4.234 milliseconds 
+ 
+Link rate is 2698.158 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.089670
+recieved 2nd PACKET at time 2016-05-18 19:35:17.100323
+0:00:00.010653
+Dispersion is 10.653 milliseconds 
+ 
+Link rate is 1072.374 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.130932
+recieved 2nd PACKET at time 2016-05-18 19:35:17.135675
+0:00:00.004743
+Dispersion is 4.743 milliseconds 
+ 
+Link rate is 2408.602 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.166408
+recieved 2nd PACKET at time 2016-05-18 19:35:17.173911
+0:00:00.007503
+Dispersion is 7.503 milliseconds 
+ 
+Link rate is 1522.591 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.202872
+recieved 2nd PACKET at time 2016-05-18 19:35:17.208663
+0:00:00.005791
+Dispersion is 5.791 milliseconds 
+ 
+Link rate is 1972.716 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.240268
+recieved 2nd PACKET at time 2016-05-18 19:35:17.245504
+0:00:00.005236
+Dispersion is 5.236 milliseconds 
+ 
+Link rate is 2181.818 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.277313
+recieved 2nd PACKET at time 2016-05-18 19:35:17.281581
+0:00:00.004268
+Dispersion is 4.268 milliseconds 
+ 
+Link rate is 2676.664 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.311768
+recieved 2nd PACKET at time 2016-05-18 19:35:17.315473
+0:00:00.003705
+Dispersion is 3.705 milliseconds 
+ 
+Link rate is 3083.401 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.345568
+recieved 2nd PACKET at time 2016-05-18 19:35:17.352758
+0:00:00.007190
+Dispersion is 7.190 milliseconds 
+ 
+Link rate is 1588.873 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.381656
+recieved 2nd PACKET at time 2016-05-18 19:35:17.386005
+0:00:00.004349
+Dispersion is 4.349 milliseconds 
+ 
+Link rate is 2626.811 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.416447
+recieved 2nd PACKET at time 2016-05-18 19:35:17.420262
+0:00:00.003815
+Dispersion is 3.815 milliseconds 
+ 
+Link rate is 2994.495 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.451712
+recieved 2nd PACKET at time 2016-05-18 19:35:17.457291
+0:00:00.005579
+Dispersion is 5.579 milliseconds 
+ 
+Link rate is 2047.679 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.491186
+recieved 2nd PACKET at time 2016-05-18 19:35:17.494608
+0:00:00.003422
+Dispersion is 3.422 milliseconds 
+ 
+Link rate is 3338.399 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.541817
+recieved 2nd PACKET at time 2016-05-18 19:35:17.551277
+0:00:00.009460
+Dispersion is 9.460 milliseconds 
+ 
+Link rate is 1207.611 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.584051
+recieved 2nd PACKET at time 2016-05-18 19:35:17.589548
+0:00:00.005497
+Dispersion is 5.497 milliseconds 
+ 
+Link rate is 2078.224 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.622312
+recieved 2nd PACKET at time 2016-05-18 19:35:17.626833
+0:00:00.004521
+Dispersion is 4.521 milliseconds 
+ 
+Link rate is 2526.875 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.671583
+recieved 2nd PACKET at time 2016-05-18 19:35:17.678814
+0:00:00.007231
+Dispersion is 7.231 milliseconds 
+ 
+Link rate is 1579.864 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.709929
+recieved 2nd PACKET at time 2016-05-18 19:35:17.717319
+0:00:00.007390
+Dispersion is 7.390 milliseconds 
+ 
+Link rate is 1545.873 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.750382
+recieved 2nd PACKET at time 2016-05-18 19:35:17.754337
+0:00:00.003955
+Dispersion is 3.955 milliseconds 
+ 
+Link rate is 2888.496 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.783034
+recieved 2nd PACKET at time 2016-05-18 19:35:17.786910
+0:00:00.003876
+Dispersion is 3.876 milliseconds 
+ 
+Link rate is 2947.368 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.816284
+recieved 2nd PACKET at time 2016-05-18 19:35:17.819710
+0:00:00.003426
+Dispersion is 3.426 milliseconds 
+ 
+Link rate is 3334.501 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.855887
+recieved 2nd PACKET at time 2016-05-18 19:35:17.859831
+0:00:00.003944
+Dispersion is 3.944 milliseconds 
+ 
+Link rate is 2896.552 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.889378
+recieved 2nd PACKET at time 2016-05-18 19:35:17.894866
+0:00:00.005488
+Dispersion is 5.488 milliseconds 
+ 
+Link rate is 2081.633 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.928714
+recieved 2nd PACKET at time 2016-05-18 19:35:17.933613
+0:00:00.004899
+Dispersion is 4.899 milliseconds 
+ 
+Link rate is 2331.904 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:17.967916
+recieved 2nd PACKET at time 2016-05-18 19:35:17.973235
+0:00:00.005319
+Dispersion is 5.319 milliseconds 
+ 
+Link rate is 2147.772 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.002875
+recieved 2nd PACKET at time 2016-05-18 19:35:18.007249
+0:00:00.004374
+Dispersion is 4.374 milliseconds 
+ 
+Link rate is 2611.797 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.044811
+recieved 2nd PACKET at time 2016-05-18 19:35:18.051377
+0:00:00.006566
+Dispersion is 6.566 milliseconds 
+ 
+Link rate is 1739.872 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.091948
+recieved 2nd PACKET at time 2016-05-18 19:35:18.097369
+0:00:00.005421
+Dispersion is 5.421 milliseconds 
+ 
+Link rate is 2107.360 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.131148
+recieved 2nd PACKET at time 2016-05-18 19:35:18.135381
+0:00:00.004233
+Dispersion is 4.233 milliseconds 
+ 
+Link rate is 2698.795 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.164846
+recieved 2nd PACKET at time 2016-05-18 19:35:18.171909
+0:00:00.007063
+Dispersion is 7.063 milliseconds 
+ 
+Link rate is 1617.443 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.213907
+recieved 2nd PACKET at time 2016-05-18 19:35:18.219732
+0:00:00.005825
+Dispersion is 5.825 milliseconds 
+ 
+Link rate is 1961.202 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.250146
+recieved 2nd PACKET at time 2016-05-18 19:35:18.255892
+0:00:00.005746
+Dispersion is 5.746 milliseconds 
+ 
+Link rate is 1988.166 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.285391
+recieved 2nd PACKET at time 2016-05-18 19:35:18.289457
+0:00:00.004066
+Dispersion is 4.066 milliseconds 
+ 
+Link rate is 2809.641 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.323140
+recieved 2nd PACKET at time 2016-05-18 19:35:18.327393
+0:00:00.004253
+Dispersion is 4.253 milliseconds 
+ 
+Link rate is 2686.104 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.364112
+recieved 2nd PACKET at time 2016-05-18 19:35:18.367731
+0:00:00.003619
+Dispersion is 3.619 milliseconds 
+ 
+Link rate is 3156.673 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.396811
+recieved 2nd PACKET at time 2016-05-18 19:35:18.401552
+0:00:00.004741
+Dispersion is 4.741 milliseconds 
+ 
+Link rate is 2409.618 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.432622
+recieved 2nd PACKET at time 2016-05-18 19:35:18.436538
+0:00:00.003916
+Dispersion is 3.916 milliseconds 
+ 
+Link rate is 2917.263 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.469669
+recieved 2nd PACKET at time 2016-05-18 19:35:18.473883
+0:00:00.004214
+Dispersion is 4.214 milliseconds 
+ 
+Link rate is 2710.963 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.503563
+recieved 2nd PACKET at time 2016-05-18 19:35:18.507899
+0:00:00.004336
+Dispersion is 4.336 milliseconds 
+ 
+Link rate is 2634.686 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.541705
+recieved 2nd PACKET at time 2016-05-18 19:35:18.546050
+0:00:00.004345
+Dispersion is 4.345 milliseconds 
+ 
+Link rate is 2629.229 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.577506
+recieved 2nd PACKET at time 2016-05-18 19:35:18.583559
+0:00:00.006053
+Dispersion is 6.053 milliseconds 
+ 
+Link rate is 1887.329 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.618724
+recieved 2nd PACKET at time 2016-05-18 19:35:18.624065
+0:00:00.005341
+Dispersion is 5.341 milliseconds 
+ 
+Link rate is 2138.925 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.659372
+recieved 2nd PACKET at time 2016-05-18 19:35:18.663786
+0:00:00.004414
+Dispersion is 4.414 milliseconds 
+ 
+Link rate is 2588.129 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.695410
+recieved 2nd PACKET at time 2016-05-18 19:35:18.699425
+0:00:00.004015
+Dispersion is 4.015 milliseconds 
+ 
+Link rate is 2845.330 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.731976
+recieved 2nd PACKET at time 2016-05-18 19:35:18.738635
+0:00:00.006659
+Dispersion is 6.659 milliseconds 
+ 
+Link rate is 1715.573 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.768077
+recieved 2nd PACKET at time 2016-05-18 19:35:18.773234
+0:00:00.005157
+Dispersion is 5.157 milliseconds 
+ 
+Link rate is 2215.241 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.802964
+recieved 2nd PACKET at time 2016-05-18 19:35:18.809233
+0:00:00.006269
+Dispersion is 6.269 milliseconds 
+ 
+Link rate is 1822.300 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.839683
+recieved 2nd PACKET at time 2016-05-18 19:35:18.844243
+0:00:00.004560
+Dispersion is 4.560 milliseconds 
+ 
+Link rate is 2505.263 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.875818
+recieved 2nd PACKET at time 2016-05-18 19:35:18.880566
+0:00:00.004748
+Dispersion is 4.748 milliseconds 
+ 
+Link rate is 2406.066 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.911313
+recieved 2nd PACKET at time 2016-05-18 19:35:18.915506
+0:00:00.004193
+Dispersion is 4.193 milliseconds 
+ 
+Link rate is 2724.541 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.950282
+recieved 2nd PACKET at time 2016-05-18 19:35:18.955060
+0:00:00.004778
+Dispersion is 4.778 milliseconds 
+ 
+Link rate is 2390.959 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:18.986742
+recieved 2nd PACKET at time 2016-05-18 19:35:18.992652
+0:00:00.005910
+Dispersion is 5.910 milliseconds 
+ 
+Link rate is 1932.995 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.029952
+recieved 2nd PACKET at time 2016-05-18 19:35:19.034107
+0:00:00.004155
+Dispersion is 4.155 milliseconds 
+ 
+Link rate is 2749.458 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.068775
+recieved 2nd PACKET at time 2016-05-18 19:35:19.073756
+0:00:00.004981
+Dispersion is 4.981 milliseconds 
+ 
+Link rate is 2293.515 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.117958
+recieved 2nd PACKET at time 2016-05-18 19:35:19.123662
+0:00:00.005704
+Dispersion is 5.704 milliseconds 
+ 
+Link rate is 2002.805 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.159386
+recieved 2nd PACKET at time 2016-05-18 19:35:19.165815
+0:00:00.006429
+Dispersion is 6.429 milliseconds 
+ 
+Link rate is 1776.948 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.199540
+recieved 2nd PACKET at time 2016-05-18 19:35:19.203992
+0:00:00.004452
+Dispersion is 4.452 milliseconds 
+ 
+Link rate is 2566.038 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.237211
+recieved 2nd PACKET at time 2016-05-18 19:35:19.243600
+0:00:00.006389
+Dispersion is 6.389 milliseconds 
+ 
+Link rate is 1788.073 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.274001
+recieved 2nd PACKET at time 2016-05-18 19:35:19.277958
+0:00:00.003957
+Dispersion is 3.957 milliseconds 
+ 
+Link rate is 2887.036 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.307871
+recieved 2nd PACKET at time 2016-05-18 19:35:19.312120
+0:00:00.004249
+Dispersion is 4.249 milliseconds 
+ 
+Link rate is 2688.633 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.347049
+recieved 2nd PACKET at time 2016-05-18 19:35:19.352288
+0:00:00.005239
+Dispersion is 5.239 milliseconds 
+ 
+Link rate is 2180.569 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.382136
+recieved 2nd PACKET at time 2016-05-18 19:35:19.387670
+0:00:00.005534
+Dispersion is 5.534 milliseconds 
+ 
+Link rate is 2064.330 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.419283
+recieved 2nd PACKET at time 2016-05-18 19:35:19.425746
+0:00:00.006463
+Dispersion is 6.463 milliseconds 
+ 
+Link rate is 1767.600 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.457015
+recieved 2nd PACKET at time 2016-05-18 19:35:19.461845
+0:00:00.004830
+Dispersion is 4.830 milliseconds 
+ 
+Link rate is 2365.217 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.494389
+recieved 2nd PACKET at time 2016-05-18 19:35:19.502009
+0:00:00.007620
+Dispersion is 7.620 milliseconds 
+ 
+Link rate is 1499.213 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.532420
+recieved 2nd PACKET at time 2016-05-18 19:35:19.540361
+0:00:00.007941
+Dispersion is 7.941 milliseconds 
+ 
+Link rate is 1438.610 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.572478
+recieved 2nd PACKET at time 2016-05-18 19:35:19.580907
+0:00:00.008429
+Dispersion is 8.429 milliseconds 
+ 
+Link rate is 1355.321 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.615451
+recieved 2nd PACKET at time 2016-05-18 19:35:19.620174
+0:00:00.004723
+Dispersion is 4.723 milliseconds 
+ 
+Link rate is 2418.802 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.653454
+recieved 2nd PACKET at time 2016-05-18 19:35:19.658482
+0:00:00.005028
+Dispersion is 5.028 milliseconds 
+ 
+Link rate is 2272.076 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.688860
+recieved 2nd PACKET at time 2016-05-18 19:35:19.693629
+0:00:00.004769
+Dispersion is 4.769 milliseconds 
+ 
+Link rate is 2395.471 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.725370
+recieved 2nd PACKET at time 2016-05-18 19:35:19.731392
+0:00:00.006022
+Dispersion is 6.022 milliseconds 
+ 
+Link rate is 1897.044 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.762824
+recieved 2nd PACKET at time 2016-05-18 19:35:19.766917
+0:00:00.004093
+Dispersion is 4.093 milliseconds 
+ 
+Link rate is 2791.107 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.800598
+recieved 2nd PACKET at time 2016-05-18 19:35:19.806501
+0:00:00.005903
+Dispersion is 5.903 milliseconds 
+ 
+Link rate is 1935.287 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.836397
+recieved 2nd PACKET at time 2016-05-18 19:35:19.841102
+0:00:00.004705
+Dispersion is 4.705 milliseconds 
+ 
+Link rate is 2428.055 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.873455
+recieved 2nd PACKET at time 2016-05-18 19:35:19.877711
+0:00:00.004256
+Dispersion is 4.256 milliseconds 
+ 
+Link rate is 2684.211 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.908395
+recieved 2nd PACKET at time 2016-05-18 19:35:19.913533
+0:00:00.005138
+Dispersion is 5.138 milliseconds 
+ 
+Link rate is 2223.433 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.947321
+recieved 2nd PACKET at time 2016-05-18 19:35:19.952647
+0:00:00.005326
+Dispersion is 5.326 milliseconds 
+ 
+Link rate is 2144.949 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:19.987400
+recieved 2nd PACKET at time 2016-05-18 19:35:19.992144
+0:00:00.004744
+Dispersion is 4.744 milliseconds 
+ 
+Link rate is 2408.094 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.026020
+recieved 2nd PACKET at time 2016-05-18 19:35:20.029992
+0:00:00.003972
+Dispersion is 3.972 milliseconds 
+ 
+Link rate is 2876.133 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.064150
+recieved 2nd PACKET at time 2016-05-18 19:35:20.068753
+0:00:00.004603
+Dispersion is 4.603 milliseconds 
+ 
+Link rate is 2481.860 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.116731
+recieved 2nd PACKET at time 2016-05-18 19:35:20.133494
+0:00:00.016763
+Dispersion is 16.763 milliseconds 
+ 
+Link rate is 681.501 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.167942
+recieved 2nd PACKET at time 2016-05-18 19:35:20.172712
+0:00:00.004770
+Dispersion is 4.770 milliseconds 
+ 
+Link rate is 2394.969 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.209845
+recieved 2nd PACKET at time 2016-05-18 19:35:20.214435
+0:00:00.004590
+Dispersion is 4.590 milliseconds 
+ 
+Link rate is 2488.889 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.244771
+recieved 2nd PACKET at time 2016-05-18 19:35:20.249536
+0:00:00.004765
+Dispersion is 4.765 milliseconds 
+ 
+Link rate is 2397.482 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.282413
+recieved 2nd PACKET at time 2016-05-18 19:35:20.287074
+0:00:00.004661
+Dispersion is 4.661 milliseconds 
+ 
+Link rate is 2450.976 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.317331
+recieved 2nd PACKET at time 2016-05-18 19:35:20.323392
+0:00:00.006061
+Dispersion is 6.061 milliseconds 
+ 
+Link rate is 1884.837 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.356845
+recieved 2nd PACKET at time 2016-05-18 19:35:20.362796
+0:00:00.005951
+Dispersion is 5.951 milliseconds 
+ 
+Link rate is 1919.677 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.391617
+recieved 2nd PACKET at time 2016-05-18 19:35:20.403130
+0:00:00.011513
+Dispersion is 11.513 milliseconds 
+ 
+Link rate is 992.270 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.436203
+recieved 2nd PACKET at time 2016-05-18 19:35:20.442625
+0:00:00.006422
+Dispersion is 6.422 milliseconds 
+ 
+Link rate is 1778.885 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.485346
+recieved 2nd PACKET at time 2016-05-18 19:35:20.489681
+0:00:00.004335
+Dispersion is 4.335 milliseconds 
+ 
+Link rate is 2635.294 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.519870
+recieved 2nd PACKET at time 2016-05-18 19:35:20.527655
+0:00:00.007785
+Dispersion is 7.785 milliseconds 
+ 
+Link rate is 1467.437 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.561503
+recieved 2nd PACKET at time 2016-05-18 19:35:20.568065
+0:00:00.006562
+Dispersion is 6.562 milliseconds 
+ 
+Link rate is 1740.933 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.604255
+recieved 2nd PACKET at time 2016-05-18 19:35:20.609410
+0:00:00.005155
+Dispersion is 5.155 milliseconds 
+ 
+Link rate is 2216.101 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.644739
+recieved 2nd PACKET at time 2016-05-18 19:35:20.654043
+0:00:00.009304
+Dispersion is 9.304 milliseconds 
+ 
+Link rate is 1227.859 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.701839
+recieved 2nd PACKET at time 2016-05-18 19:35:20.709254
+0:00:00.007415
+Dispersion is 7.415 milliseconds 
+ 
+Link rate is 1540.661 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.741645
+recieved 2nd PACKET at time 2016-05-18 19:35:20.745600
+0:00:00.003955
+Dispersion is 3.955 milliseconds 
+ 
+Link rate is 2888.496 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.779890
+recieved 2nd PACKET at time 2016-05-18 19:35:20.785421
+0:00:00.005531
+Dispersion is 5.531 milliseconds 
+ 
+Link rate is 2065.449 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.814123
+recieved 2nd PACKET at time 2016-05-18 19:35:20.832583
+0:00:00.018460
+Dispersion is 18.460 milliseconds 
+ 
+Link rate is 618.852 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.868244
+recieved 2nd PACKET at time 2016-05-18 19:35:20.873431
+0:00:00.005187
+Dispersion is 5.187 milliseconds 
+ 
+Link rate is 2202.429 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.905839
+recieved 2nd PACKET at time 2016-05-18 19:35:20.913203
+0:00:00.007364
+Dispersion is 7.364 milliseconds 
+ 
+Link rate is 1551.331 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.951521
+recieved 2nd PACKET at time 2016-05-18 19:35:20.958169
+0:00:00.006648
+Dispersion is 6.648 milliseconds 
+ 
+Link rate is 1718.412 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:20.987466
+recieved 2nd PACKET at time 2016-05-18 19:35:20.992320
+0:00:00.004854
+Dispersion is 4.854 milliseconds 
+ 
+Link rate is 2353.523 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.033993
+recieved 2nd PACKET at time 2016-05-18 19:35:21.039535
+0:00:00.005542
+Dispersion is 5.542 milliseconds 
+ 
+Link rate is 2061.350 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.075399
+recieved 2nd PACKET at time 2016-05-18 19:35:21.081969
+0:00:00.006570
+Dispersion is 6.570 milliseconds 
+ 
+Link rate is 1738.813 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.115584
+recieved 2nd PACKET at time 2016-05-18 19:35:21.128264
+0:00:00.012680
+Dispersion is 12.680 milliseconds 
+ 
+Link rate is 900.946 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.163520
+recieved 2nd PACKET at time 2016-05-18 19:35:21.172707
+0:00:00.009187
+Dispersion is 9.187 milliseconds 
+ 
+Link rate is 1243.496 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.203905
+recieved 2nd PACKET at time 2016-05-18 19:35:21.208372
+0:00:00.004467
+Dispersion is 4.467 milliseconds 
+ 
+Link rate is 2557.421 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.265580
+recieved 2nd PACKET at time 2016-05-18 19:35:21.270574
+0:00:00.004994
+Dispersion is 4.994 milliseconds 
+ 
+Link rate is 2287.545 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.301217
+recieved 2nd PACKET at time 2016-05-18 19:35:21.305612
+0:00:00.004395
+Dispersion is 4.395 milliseconds 
+ 
+Link rate is 2599.317 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.336395
+recieved 2nd PACKET at time 2016-05-18 19:35:21.341334
+0:00:00.004939
+Dispersion is 4.939 milliseconds 
+ 
+Link rate is 2313.019 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.369463
+recieved 2nd PACKET at time 2016-05-18 19:35:21.374199
+0:00:00.004736
+Dispersion is 4.736 milliseconds 
+ 
+Link rate is 2412.162 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.404029
+recieved 2nd PACKET at time 2016-05-18 19:35:21.411526
+0:00:00.007497
+Dispersion is 7.497 milliseconds 
+ 
+Link rate is 1523.810 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.459400
+recieved 2nd PACKET at time 2016-05-18 19:35:21.464529
+0:00:00.005129
+Dispersion is 5.129 milliseconds 
+ 
+Link rate is 2227.335 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.496553
+recieved 2nd PACKET at time 2016-05-18 19:35:21.501924
+0:00:00.005371
+Dispersion is 5.371 milliseconds 
+ 
+Link rate is 2126.978 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.532157
+recieved 2nd PACKET at time 2016-05-18 19:35:21.539034
+0:00:00.006877
+Dispersion is 6.877 milliseconds 
+ 
+Link rate is 1661.189 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.569919
+recieved 2nd PACKET at time 2016-05-18 19:35:21.575099
+0:00:00.005180
+Dispersion is 5.180 milliseconds 
+ 
+Link rate is 2205.405 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.604889
+recieved 2nd PACKET at time 2016-05-18 19:35:21.610629
+0:00:00.005740
+Dispersion is 5.740 milliseconds 
+ 
+Link rate is 1990.244 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.661855
+recieved 2nd PACKET at time 2016-05-18 19:35:21.667597
+0:00:00.005742
+Dispersion is 5.742 milliseconds 
+ 
+Link rate is 1989.551 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.701453
+recieved 2nd PACKET at time 2016-05-18 19:35:21.706436
+0:00:00.004983
+Dispersion is 4.983 milliseconds 
+ 
+Link rate is 2292.595 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.734936
+recieved 2nd PACKET at time 2016-05-18 19:35:21.740307
+0:00:00.005371
+Dispersion is 5.371 milliseconds 
+ 
+Link rate is 2126.978 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.774917
+recieved 2nd PACKET at time 2016-05-18 19:35:21.780503
+0:00:00.005586
+Dispersion is 5.586 milliseconds 
+ 
+Link rate is 2045.113 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.813725
+recieved 2nd PACKET at time 2016-05-18 19:35:21.818921
+0:00:00.005196
+Dispersion is 5.196 milliseconds 
+ 
+Link rate is 2198.614 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.848424
+recieved 2nd PACKET at time 2016-05-18 19:35:21.856583
+0:00:00.008159
+Dispersion is 8.159 milliseconds 
+ 
+Link rate is 1400.172 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.892135
+recieved 2nd PACKET at time 2016-05-18 19:35:21.901275
+0:00:00.009140
+Dispersion is 9.140 milliseconds 
+ 
+Link rate is 1249.891 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.934848
+recieved 2nd PACKET at time 2016-05-18 19:35:21.940387
+0:00:00.005539
+Dispersion is 5.539 milliseconds 
+ 
+Link rate is 2062.466 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:21.972746
+recieved 2nd PACKET at time 2016-05-18 19:35:21.978199
+0:00:00.005453
+Dispersion is 5.453 milliseconds 
+ 
+Link rate is 2094.994 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.010216
+recieved 2nd PACKET at time 2016-05-18 19:35:22.015628
+0:00:00.005412
+Dispersion is 5.412 milliseconds 
+ 
+Link rate is 2110.865 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.050600
+recieved 2nd PACKET at time 2016-05-18 19:35:22.055160
+0:00:00.004560
+Dispersion is 4.560 milliseconds 
+ 
+Link rate is 2505.263 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.090502
+recieved 2nd PACKET at time 2016-05-18 19:35:22.096269
+0:00:00.005767
+Dispersion is 5.767 milliseconds 
+ 
+Link rate is 1980.926 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.128662
+recieved 2nd PACKET at time 2016-05-18 19:35:22.140012
+0:00:00.011350
+Dispersion is 11.350 milliseconds 
+ 
+Link rate is 1006.520 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.175188
+recieved 2nd PACKET at time 2016-05-18 19:35:22.180442
+0:00:00.005254
+Dispersion is 5.254 milliseconds 
+ 
+Link rate is 2174.343 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.214123
+recieved 2nd PACKET at time 2016-05-18 19:35:22.219039
+0:00:00.004916
+Dispersion is 4.916 milliseconds 
+ 
+Link rate is 2323.841 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.255724
+recieved 2nd PACKET at time 2016-05-18 19:35:22.260255
+0:00:00.004531
+Dispersion is 4.531 milliseconds 
+ 
+Link rate is 2521.298 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.292079
+recieved 2nd PACKET at time 2016-05-18 19:35:22.297391
+0:00:00.005312
+Dispersion is 5.312 milliseconds 
+ 
+Link rate is 2150.602 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.332802
+recieved 2nd PACKET at time 2016-05-18 19:35:22.338791
+0:00:00.005989
+Dispersion is 5.989 milliseconds 
+ 
+Link rate is 1907.497 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.368085
+recieved 2nd PACKET at time 2016-05-18 19:35:22.373195
+0:00:00.005110
+Dispersion is 5.110 milliseconds 
+ 
+Link rate is 2235.616 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.403313
+recieved 2nd PACKET at time 2016-05-18 19:35:22.408018
+0:00:00.004705
+Dispersion is 4.705 milliseconds 
+ 
+Link rate is 2428.055 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.435375
+recieved 2nd PACKET at time 2016-05-18 19:35:22.444682
+0:00:00.009307
+Dispersion is 9.307 milliseconds 
+ 
+Link rate is 1227.463 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.477853
+recieved 2nd PACKET at time 2016-05-18 19:35:22.483465
+0:00:00.005612
+Dispersion is 5.612 milliseconds 
+ 
+Link rate is 2035.638 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.513460
+recieved 2nd PACKET at time 2016-05-18 19:35:22.522198
+0:00:00.008738
+Dispersion is 8.738 milliseconds 
+ 
+Link rate is 1307.393 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.555095
+recieved 2nd PACKET at time 2016-05-18 19:35:22.559314
+0:00:00.004219
+Dispersion is 4.219 milliseconds 
+ 
+Link rate is 2707.751 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.590546
+recieved 2nd PACKET at time 2016-05-18 19:35:22.595070
+0:00:00.004524
+Dispersion is 4.524 milliseconds 
+ 
+Link rate is 2525.199 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.624870
+recieved 2nd PACKET at time 2016-05-18 19:35:22.629991
+0:00:00.005121
+Dispersion is 5.121 milliseconds 
+ 
+Link rate is 2230.814 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.662351
+recieved 2nd PACKET at time 2016-05-18 19:35:22.667308
+0:00:00.004957
+Dispersion is 4.957 milliseconds 
+ 
+Link rate is 2304.620 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.695416
+recieved 2nd PACKET at time 2016-05-18 19:35:22.700271
+0:00:00.004855
+Dispersion is 4.855 milliseconds 
+ 
+Link rate is 2353.038 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.727938
+recieved 2nd PACKET at time 2016-05-18 19:35:22.732743
+0:00:00.004805
+Dispersion is 4.805 milliseconds 
+ 
+Link rate is 2377.523 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.767251
+recieved 2nd PACKET at time 2016-05-18 19:35:22.772101
+0:00:00.004850
+Dispersion is 4.850 milliseconds 
+ 
+Link rate is 2355.464 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.803604
+recieved 2nd PACKET at time 2016-05-18 19:35:22.808147
+0:00:00.004543
+Dispersion is 4.543 milliseconds 
+ 
+Link rate is 2514.638 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.840291
+recieved 2nd PACKET at time 2016-05-18 19:35:22.845074
+0:00:00.004783
+Dispersion is 4.783 milliseconds 
+ 
+Link rate is 2388.459 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.876284
+recieved 2nd PACKET at time 2016-05-18 19:35:22.881836
+0:00:00.005552
+Dispersion is 5.552 milliseconds 
+ 
+Link rate is 2057.637 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.915281
+recieved 2nd PACKET at time 2016-05-18 19:35:22.920189
+0:00:00.004908
+Dispersion is 4.908 milliseconds 
+ 
+Link rate is 2327.628 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.953361
+recieved 2nd PACKET at time 2016-05-18 19:35:22.961838
+0:00:00.008477
+Dispersion is 8.477 milliseconds 
+ 
+Link rate is 1347.647 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:22.994309
+recieved 2nd PACKET at time 2016-05-18 19:35:23.000493
+0:00:00.006184
+Dispersion is 6.184 milliseconds 
+ 
+Link rate is 1847.348 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.035260
+recieved 2nd PACKET at time 2016-05-18 19:35:23.040795
+0:00:00.005535
+Dispersion is 5.535 milliseconds 
+ 
+Link rate is 2063.957 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.078617
+recieved 2nd PACKET at time 2016-05-18 19:35:23.087466
+0:00:00.008849
+Dispersion is 8.849 milliseconds 
+ 
+Link rate is 1290.993 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.120614
+recieved 2nd PACKET at time 2016-05-18 19:35:23.126234
+0:00:00.005620
+Dispersion is 5.620 milliseconds 
+ 
+Link rate is 2032.740 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.163427
+recieved 2nd PACKET at time 2016-05-18 19:35:23.168701
+0:00:00.005274
+Dispersion is 5.274 milliseconds 
+ 
+Link rate is 2166.098 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.202502
+recieved 2nd PACKET at time 2016-05-18 19:35:23.209464
+0:00:00.006962
+Dispersion is 6.962 milliseconds 
+ 
+Link rate is 1640.908 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.237883
+recieved 2nd PACKET at time 2016-05-18 19:35:23.242823
+0:00:00.004940
+Dispersion is 4.940 milliseconds 
+ 
+Link rate is 2312.551 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.277706
+recieved 2nd PACKET at time 2016-05-18 19:35:23.283446
+0:00:00.005740
+Dispersion is 5.740 milliseconds 
+ 
+Link rate is 1990.244 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.315915
+recieved 2nd PACKET at time 2016-05-18 19:35:23.320694
+0:00:00.004779
+Dispersion is 4.779 milliseconds 
+ 
+Link rate is 2390.458 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.351992
+recieved 2nd PACKET at time 2016-05-18 19:35:23.356811
+0:00:00.004819
+Dispersion is 4.819 milliseconds 
+ 
+Link rate is 2370.616 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.388379
+recieved 2nd PACKET at time 2016-05-18 19:35:23.393655
+0:00:00.005276
+Dispersion is 5.276 milliseconds 
+ 
+Link rate is 2165.277 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.422441
+recieved 2nd PACKET at time 2016-05-18 19:35:23.428529
+0:00:00.006088
+Dispersion is 6.088 milliseconds 
+ 
+Link rate is 1876.478 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.458763
+recieved 2nd PACKET at time 2016-05-18 19:35:23.471400
+0:00:00.012637
+Dispersion is 12.637 milliseconds 
+ 
+Link rate is 904.012 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.504654
+recieved 2nd PACKET at time 2016-05-18 19:35:23.509496
+0:00:00.004842
+Dispersion is 4.842 milliseconds 
+ 
+Link rate is 2359.356 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.543023
+recieved 2nd PACKET at time 2016-05-18 19:35:23.560682
+0:00:00.017659
+Dispersion is 17.659 milliseconds 
+ 
+Link rate is 646.922 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.596149
+recieved 2nd PACKET at time 2016-05-18 19:35:23.601229
+0:00:00.005080
+Dispersion is 5.080 milliseconds 
+ 
+Link rate is 2248.819 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.632449
+recieved 2nd PACKET at time 2016-05-18 19:35:23.637428
+0:00:00.004979
+Dispersion is 4.979 milliseconds 
+ 
+Link rate is 2294.437 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.679893
+recieved 2nd PACKET at time 2016-05-18 19:35:23.685083
+0:00:00.005190
+Dispersion is 5.190 milliseconds 
+ 
+Link rate is 2201.156 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.726149
+recieved 2nd PACKET at time 2016-05-18 19:35:23.731084
+0:00:00.004935
+Dispersion is 4.935 milliseconds 
+ 
+Link rate is 2314.894 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.761757
+recieved 2nd PACKET at time 2016-05-18 19:35:23.766866
+0:00:00.005109
+Dispersion is 5.109 milliseconds 
+ 
+Link rate is 2236.054 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.796668
+recieved 2nd PACKET at time 2016-05-18 19:35:23.804480
+0:00:00.007812
+Dispersion is 7.812 milliseconds 
+ 
+Link rate is 1462.366 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.839316
+recieved 2nd PACKET at time 2016-05-18 19:35:23.845558
+0:00:00.006242
+Dispersion is 6.242 milliseconds 
+ 
+Link rate is 1830.183 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.880225
+recieved 2nd PACKET at time 2016-05-18 19:35:23.885912
+0:00:00.005687
+Dispersion is 5.687 milliseconds 
+ 
+Link rate is 2008.792 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.920634
+recieved 2nd PACKET at time 2016-05-18 19:35:23.928992
+0:00:00.008358
+Dispersion is 8.358 milliseconds 
+ 
+Link rate is 1366.834 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:23.966131
+recieved 2nd PACKET at time 2016-05-18 19:35:23.970935
+0:00:00.004804
+Dispersion is 4.804 milliseconds 
+ 
+Link rate is 2378.018 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.001479
+recieved 2nd PACKET at time 2016-05-18 19:35:24.007042
+0:00:00.005563
+Dispersion is 5.563 milliseconds 
+ 
+Link rate is 2053.568 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.042089
+recieved 2nd PACKET at time 2016-05-18 19:35:24.047467
+0:00:00.005378
+Dispersion is 5.378 milliseconds 
+ 
+Link rate is 2124.210 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.088500
+recieved 2nd PACKET at time 2016-05-18 19:35:24.096157
+0:00:00.007657
+Dispersion is 7.657 milliseconds 
+ 
+Link rate is 1491.968 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.128859
+recieved 2nd PACKET at time 2016-05-18 19:35:24.136034
+0:00:00.007175
+Dispersion is 7.175 milliseconds 
+ 
+Link rate is 1592.195 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.168471
+recieved 2nd PACKET at time 2016-05-18 19:35:24.173670
+0:00:00.005199
+Dispersion is 5.199 milliseconds 
+ 
+Link rate is 2197.346 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.210261
+recieved 2nd PACKET at time 2016-05-18 19:35:24.215896
+0:00:00.005635
+Dispersion is 5.635 milliseconds 
+ 
+Link rate is 2027.329 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.248045
+recieved 2nd PACKET at time 2016-05-18 19:35:24.253571
+0:00:00.005526
+Dispersion is 5.526 milliseconds 
+ 
+Link rate is 2067.318 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.284662
+recieved 2nd PACKET at time 2016-05-18 19:35:24.290482
+0:00:00.005820
+Dispersion is 5.820 milliseconds 
+ 
+Link rate is 1962.887 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.319883
+recieved 2nd PACKET at time 2016-05-18 19:35:24.324476
+0:00:00.004593
+Dispersion is 4.593 milliseconds 
+ 
+Link rate is 2487.263 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.356567
+recieved 2nd PACKET at time 2016-05-18 19:35:24.362610
+0:00:00.006043
+Dispersion is 6.043 milliseconds 
+ 
+Link rate is 1890.452 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.391170
+recieved 2nd PACKET at time 2016-05-18 19:35:24.396354
+0:00:00.005184
+Dispersion is 5.184 milliseconds 
+ 
+Link rate is 2203.704 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.433474
+recieved 2nd PACKET at time 2016-05-18 19:35:24.439194
+0:00:00.005720
+Dispersion is 5.720 milliseconds 
+ 
+Link rate is 1997.203 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.487770
+recieved 2nd PACKET at time 2016-05-18 19:35:24.498556
+0:00:00.010786
+Dispersion is 10.786 milliseconds 
+ 
+Link rate is 1059.151 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.530923
+recieved 2nd PACKET at time 2016-05-18 19:35:24.558872
+0:00:00.027949
+Dispersion is 27.949 milliseconds 
+ 
+Link rate is 408.744 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.597902
+recieved 2nd PACKET at time 2016-05-18 19:35:24.604468
+0:00:00.006566
+Dispersion is 6.566 milliseconds 
+ 
+Link rate is 1739.872 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.637616
+recieved 2nd PACKET at time 2016-05-18 19:35:24.644801
+0:00:00.007185
+Dispersion is 7.185 milliseconds 
+ 
+Link rate is 1589.979 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.674470
+recieved 2nd PACKET at time 2016-05-18 19:35:24.680396
+0:00:00.005926
+Dispersion is 5.926 milliseconds 
+ 
+Link rate is 1927.776 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.712588
+recieved 2nd PACKET at time 2016-05-18 19:35:24.718313
+0:00:00.005725
+Dispersion is 5.725 milliseconds 
+ 
+Link rate is 1995.459 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.749665
+recieved 2nd PACKET at time 2016-05-18 19:35:24.755137
+0:00:00.005472
+Dispersion is 5.472 milliseconds 
+ 
+Link rate is 2087.719 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.784622
+recieved 2nd PACKET at time 2016-05-18 19:35:24.789869
+0:00:00.005247
+Dispersion is 5.247 milliseconds 
+ 
+Link rate is 2177.244 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.819681
+recieved 2nd PACKET at time 2016-05-18 19:35:24.825901
+0:00:00.006220
+Dispersion is 6.220 milliseconds 
+ 
+Link rate is 1836.656 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.855096
+recieved 2nd PACKET at time 2016-05-18 19:35:24.861857
+0:00:00.006761
+Dispersion is 6.761 milliseconds 
+ 
+Link rate is 1689.691 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.892644
+recieved 2nd PACKET at time 2016-05-18 19:35:24.902863
+0:00:00.010219
+Dispersion is 10.219 milliseconds 
+ 
+Link rate is 1117.918 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.933467
+recieved 2nd PACKET at time 2016-05-18 19:35:24.938910
+0:00:00.005443
+Dispersion is 5.443 milliseconds 
+ 
+Link rate is 2098.843 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:24.968276
+recieved 2nd PACKET at time 2016-05-18 19:35:24.975366
+0:00:00.007090
+Dispersion is 7.090 milliseconds 
+ 
+Link rate is 1611.283 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.005664
+recieved 2nd PACKET at time 2016-05-18 19:35:25.011446
+0:00:00.005782
+Dispersion is 5.782 milliseconds 
+ 
+Link rate is 1975.787 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.046679
+recieved 2nd PACKET at time 2016-05-18 19:35:25.054976
+0:00:00.008297
+Dispersion is 8.297 milliseconds 
+ 
+Link rate is 1376.883 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.090221
+recieved 2nd PACKET at time 2016-05-18 19:35:25.095777
+0:00:00.005556
+Dispersion is 5.556 milliseconds 
+ 
+Link rate is 2056.156 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.132887
+recieved 2nd PACKET at time 2016-05-18 19:35:25.140418
+0:00:00.007531
+Dispersion is 7.531 milliseconds 
+ 
+Link rate is 1516.930 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.174472
+recieved 2nd PACKET at time 2016-05-18 19:35:25.179811
+0:00:00.005339
+Dispersion is 5.339 milliseconds 
+ 
+Link rate is 2139.727 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.209822
+recieved 2nd PACKET at time 2016-05-18 19:35:25.215704
+0:00:00.005882
+Dispersion is 5.882 milliseconds 
+ 
+Link rate is 1942.197 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.246420
+recieved 2nd PACKET at time 2016-05-18 19:35:25.251917
+0:00:00.005497
+Dispersion is 5.497 milliseconds 
+ 
+Link rate is 2078.224 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.283254
+recieved 2nd PACKET at time 2016-05-18 19:35:25.288579
+0:00:00.005325
+Dispersion is 5.325 milliseconds 
+ 
+Link rate is 2145.352 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.317797
+recieved 2nd PACKET at time 2016-05-18 19:35:25.324850
+0:00:00.007053
+Dispersion is 7.053 milliseconds 
+ 
+Link rate is 1619.736 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.355068
+recieved 2nd PACKET at time 2016-05-18 19:35:25.361170
+0:00:00.006102
+Dispersion is 6.102 milliseconds 
+ 
+Link rate is 1872.173 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.389912
+recieved 2nd PACKET at time 2016-05-18 19:35:25.395246
+0:00:00.005334
+Dispersion is 5.334 milliseconds 
+ 
+Link rate is 2141.732 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.430218
+recieved 2nd PACKET at time 2016-05-18 19:35:25.438707
+0:00:00.008489
+Dispersion is 8.489 milliseconds 
+ 
+Link rate is 1345.742 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.468410
+recieved 2nd PACKET at time 2016-05-18 19:35:25.478077
+0:00:00.009667
+Dispersion is 9.667 milliseconds 
+ 
+Link rate is 1181.752 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.509382
+recieved 2nd PACKET at time 2016-05-18 19:35:25.517004
+0:00:00.007622
+Dispersion is 7.622 milliseconds 
+ 
+Link rate is 1498.819 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.546316
+recieved 2nd PACKET at time 2016-05-18 19:35:25.551776
+0:00:00.005460
+Dispersion is 5.460 milliseconds 
+ 
+Link rate is 2092.308 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.582104
+recieved 2nd PACKET at time 2016-05-18 19:35:25.588274
+0:00:00.006170
+Dispersion is 6.170 milliseconds 
+ 
+Link rate is 1851.540 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.619480
+recieved 2nd PACKET at time 2016-05-18 19:35:25.626901
+0:00:00.007421
+Dispersion is 7.421 milliseconds 
+ 
+Link rate is 1539.415 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.658723
+recieved 2nd PACKET at time 2016-05-18 19:35:25.662416
+0:00:00.003693
+Dispersion is 3.693 milliseconds 
+ 
+Link rate is 3093.420 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.694182
+recieved 2nd PACKET at time 2016-05-18 19:35:25.700396
+0:00:00.006214
+Dispersion is 6.214 milliseconds 
+ 
+Link rate is 1838.429 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.732310
+recieved 2nd PACKET at time 2016-05-18 19:35:25.739547
+0:00:00.007237
+Dispersion is 7.237 milliseconds 
+ 
+Link rate is 1578.555 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.771141
+recieved 2nd PACKET at time 2016-05-18 19:35:25.776319
+0:00:00.005178
+Dispersion is 5.178 milliseconds 
+ 
+Link rate is 2206.257 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.810934
+recieved 2nd PACKET at time 2016-05-18 19:35:25.818468
+0:00:00.007534
+Dispersion is 7.534 milliseconds 
+ 
+Link rate is 1516.326 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.849659
+recieved 2nd PACKET at time 2016-05-18 19:35:25.856345
+0:00:00.006686
+Dispersion is 6.686 milliseconds 
+ 
+Link rate is 1708.645 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.895754
+recieved 2nd PACKET at time 2016-05-18 19:35:25.901534
+0:00:00.005780
+Dispersion is 5.780 milliseconds 
+ 
+Link rate is 1976.471 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.937554
+recieved 2nd PACKET at time 2016-05-18 19:35:25.942641
+0:00:00.005087
+Dispersion is 5.087 milliseconds 
+ 
+Link rate is 2245.724 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:25.973686
+recieved 2nd PACKET at time 2016-05-18 19:35:25.979184
+0:00:00.005498
+Dispersion is 5.498 milliseconds 
+ 
+Link rate is 2077.846 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.013394
+recieved 2nd PACKET at time 2016-05-18 19:35:26.019609
+0:00:00.006215
+Dispersion is 6.215 milliseconds 
+ 
+Link rate is 1838.134 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.055501
+recieved 2nd PACKET at time 2016-05-18 19:35:26.061827
+0:00:00.006326
+Dispersion is 6.326 milliseconds 
+ 
+Link rate is 1805.880 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.095404
+recieved 2nd PACKET at time 2016-05-18 19:35:26.107836
+0:00:00.012432
+Dispersion is 12.432 milliseconds 
+ 
+Link rate is 918.919 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.146016
+recieved 2nd PACKET at time 2016-05-18 19:35:26.152052
+0:00:00.006036
+Dispersion is 6.036 milliseconds 
+ 
+Link rate is 1892.644 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.182707
+recieved 2nd PACKET at time 2016-05-18 19:35:26.192542
+0:00:00.009835
+Dispersion is 9.835 milliseconds 
+ 
+Link rate is 1161.566 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.222112
+recieved 2nd PACKET at time 2016-05-18 19:35:26.232684
+0:00:00.010572
+Dispersion is 10.572 milliseconds 
+ 
+Link rate is 1080.590 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.262732
+recieved 2nd PACKET at time 2016-05-18 19:35:26.268172
+0:00:00.005440
+Dispersion is 5.440 milliseconds 
+ 
+Link rate is 2100.000 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.297979
+recieved 2nd PACKET at time 2016-05-18 19:35:26.305561
+0:00:00.007582
+Dispersion is 7.582 milliseconds 
+ 
+Link rate is 1506.726 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.335832
+recieved 2nd PACKET at time 2016-05-18 19:35:26.341583
+0:00:00.005751
+Dispersion is 5.751 milliseconds 
+ 
+Link rate is 1986.437 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.370485
+recieved 2nd PACKET at time 2016-05-18 19:35:26.376476
+0:00:00.005991
+Dispersion is 5.991 milliseconds 
+ 
+Link rate is 1906.860 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.410402
+recieved 2nd PACKET at time 2016-05-18 19:35:26.416273
+0:00:00.005871
+Dispersion is 5.871 milliseconds 
+ 
+Link rate is 1945.835 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.449365
+recieved 2nd PACKET at time 2016-05-18 19:35:26.454971
+0:00:00.005606
+Dispersion is 5.606 milliseconds 
+ 
+Link rate is 2037.817 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.488617
+recieved 2nd PACKET at time 2016-05-18 19:35:26.494800
+0:00:00.006183
+Dispersion is 6.183 milliseconds 
+ 
+Link rate is 1847.647 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.524349
+recieved 2nd PACKET at time 2016-05-18 19:35:26.530648
+0:00:00.006299
+Dispersion is 6.299 milliseconds 
+ 
+Link rate is 1813.621 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.560403
+recieved 2nd PACKET at time 2016-05-18 19:35:26.566439
+0:00:00.006036
+Dispersion is 6.036 milliseconds 
+ 
+Link rate is 1892.644 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.599931
+recieved 2nd PACKET at time 2016-05-18 19:35:26.605825
+0:00:00.005894
+Dispersion is 5.894 milliseconds 
+ 
+Link rate is 1938.242 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.638203
+recieved 2nd PACKET at time 2016-05-18 19:35:26.645165
+0:00:00.006962
+Dispersion is 6.962 milliseconds 
+ 
+Link rate is 1640.908 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.679729
+recieved 2nd PACKET at time 2016-05-18 19:35:26.685465
+0:00:00.005736
+Dispersion is 5.736 milliseconds 
+ 
+Link rate is 1991.632 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.716883
+recieved 2nd PACKET at time 2016-05-18 19:35:26.726830
+0:00:00.009947
+Dispersion is 9.947 milliseconds 
+ 
+Link rate is 1148.487 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.759919
+recieved 2nd PACKET at time 2016-05-18 19:35:26.773785
+0:00:00.013866
+Dispersion is 13.866 milliseconds 
+ 
+Link rate is 823.886 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.810603
+recieved 2nd PACKET at time 2016-05-18 19:35:26.820990
+0:00:00.010387
+Dispersion is 10.387 milliseconds 
+ 
+Link rate is 1099.836 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.854618
+recieved 2nd PACKET at time 2016-05-18 19:35:26.860280
+0:00:00.005662
+Dispersion is 5.662 milliseconds 
+ 
+Link rate is 2017.662 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.902408
+recieved 2nd PACKET at time 2016-05-18 19:35:26.911984
+0:00:00.009576
+Dispersion is 9.576 milliseconds 
+ 
+Link rate is 1192.982 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:26.970017
+recieved 2nd PACKET at time 2016-05-18 19:35:26.977782
+0:00:00.007765
+Dispersion is 7.765 milliseconds 
+ 
+Link rate is 1471.217 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.013789
+recieved 2nd PACKET at time 2016-05-18 19:35:27.022349
+0:00:00.008560
+Dispersion is 8.560 milliseconds 
+ 
+Link rate is 1334.579 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.058538
+recieved 2nd PACKET at time 2016-05-18 19:35:27.065535
+0:00:00.006997
+Dispersion is 6.997 milliseconds 
+ 
+Link rate is 1632.700 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.101653
+recieved 2nd PACKET at time 2016-05-18 19:35:27.107818
+0:00:00.006165
+Dispersion is 6.165 milliseconds 
+ 
+Link rate is 1853.041 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.143115
+recieved 2nd PACKET at time 2016-05-18 19:35:27.155613
+0:00:00.012498
+Dispersion is 12.498 milliseconds 
+ 
+Link rate is 914.066 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.190863
+recieved 2nd PACKET at time 2016-05-18 19:35:27.196693
+0:00:00.005830
+Dispersion is 5.830 milliseconds 
+ 
+Link rate is 1959.520 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.228853
+recieved 2nd PACKET at time 2016-05-18 19:35:27.235106
+0:00:00.006253
+Dispersion is 6.253 milliseconds 
+ 
+Link rate is 1826.963 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.269571
+recieved 2nd PACKET at time 2016-05-18 19:35:27.277208
+0:00:00.007637
+Dispersion is 7.637 milliseconds 
+ 
+Link rate is 1495.875 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.307812
+recieved 2nd PACKET at time 2016-05-18 19:35:27.314079
+0:00:00.006267
+Dispersion is 6.267 milliseconds 
+ 
+Link rate is 1822.882 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.343719
+recieved 2nd PACKET at time 2016-05-18 19:35:27.350011
+0:00:00.006292
+Dispersion is 6.292 milliseconds 
+ 
+Link rate is 1815.639 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.383121
+recieved 2nd PACKET at time 2016-05-18 19:35:27.392714
+0:00:00.009593
+Dispersion is 9.593 milliseconds 
+ 
+Link rate is 1190.868 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.423358
+recieved 2nd PACKET at time 2016-05-18 19:35:27.428739
+0:00:00.005381
+Dispersion is 5.381 milliseconds 
+ 
+Link rate is 2123.025 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.462314
+recieved 2nd PACKET at time 2016-05-18 19:35:27.467318
+0:00:00.005004
+Dispersion is 5.004 milliseconds 
+ 
+Link rate is 2282.974 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.500508
+recieved 2nd PACKET at time 2016-05-18 19:35:27.506627
+0:00:00.006119
+Dispersion is 6.119 milliseconds 
+ 
+Link rate is 1866.972 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.536797
+recieved 2nd PACKET at time 2016-05-18 19:35:27.542714
+0:00:00.005917
+Dispersion is 5.917 milliseconds 
+ 
+Link rate is 1930.708 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.576694
+recieved 2nd PACKET at time 2016-05-18 19:35:27.582777
+0:00:00.006083
+Dispersion is 6.083 milliseconds 
+ 
+Link rate is 1878.021 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.615661
+recieved 2nd PACKET at time 2016-05-18 19:35:27.624339
+0:00:00.008678
+Dispersion is 8.678 milliseconds 
+ 
+Link rate is 1316.432 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.658005
+recieved 2nd PACKET at time 2016-05-18 19:35:27.665669
+0:00:00.007664
+Dispersion is 7.664 milliseconds 
+ 
+Link rate is 1490.605 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.702060
+recieved 2nd PACKET at time 2016-05-18 19:35:27.707774
+0:00:00.005714
+Dispersion is 5.714 milliseconds 
+ 
+Link rate is 1999.300 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.741663
+recieved 2nd PACKET at time 2016-05-18 19:35:27.747690
+0:00:00.006027
+Dispersion is 6.027 milliseconds 
+ 
+Link rate is 1895.470 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.779167
+recieved 2nd PACKET at time 2016-05-18 19:35:27.785148
+0:00:00.005981
+Dispersion is 5.981 milliseconds 
+ 
+Link rate is 1910.048 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.818014
+recieved 2nd PACKET at time 2016-05-18 19:35:27.824293
+0:00:00.006279
+Dispersion is 6.279 milliseconds 
+ 
+Link rate is 1819.398 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.858466
+recieved 2nd PACKET at time 2016-05-18 19:35:27.871125
+0:00:00.012659
+Dispersion is 12.659 milliseconds 
+ 
+Link rate is 902.441 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.900797
+recieved 2nd PACKET at time 2016-05-18 19:35:27.908535
+0:00:00.007738
+Dispersion is 7.738 milliseconds 
+ 
+Link rate is 1476.350 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:27.961735
+recieved 2nd PACKET at time 2016-05-18 19:35:27.972723
+0:00:00.010988
+Dispersion is 10.988 milliseconds 
+ 
+Link rate is 1039.680 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.003329
+recieved 2nd PACKET at time 2016-05-18 19:35:28.009352
+0:00:00.006023
+Dispersion is 6.023 milliseconds 
+ 
+Link rate is 1896.729 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.040729
+recieved 2nd PACKET at time 2016-05-18 19:35:28.053002
+0:00:00.012273
+Dispersion is 12.273 milliseconds 
+ 
+Link rate is 930.824 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.088779
+recieved 2nd PACKET at time 2016-05-18 19:35:28.096725
+0:00:00.007946
+Dispersion is 7.946 milliseconds 
+ 
+Link rate is 1437.705 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.127128
+recieved 2nd PACKET at time 2016-05-18 19:35:28.135259
+0:00:00.008131
+Dispersion is 8.131 milliseconds 
+ 
+Link rate is 1404.993 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.166520
+recieved 2nd PACKET at time 2016-05-18 19:35:28.178527
+0:00:00.012007
+Dispersion is 12.007 milliseconds 
+ 
+Link rate is 951.445 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.208623
+recieved 2nd PACKET at time 2016-05-18 19:35:28.214790
+0:00:00.006167
+Dispersion is 6.167 milliseconds 
+ 
+Link rate is 1852.440 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.246479
+recieved 2nd PACKET at time 2016-05-18 19:35:28.255983
+0:00:00.009504
+Dispersion is 9.504 milliseconds 
+ 
+Link rate is 1202.020 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.291145
+recieved 2nd PACKET at time 2016-05-18 19:35:28.297553
+0:00:00.006408
+Dispersion is 6.408 milliseconds 
+ 
+Link rate is 1782.772 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.330361
+recieved 2nd PACKET at time 2016-05-18 19:35:28.335914
+0:00:00.005553
+Dispersion is 5.553 milliseconds 
+ 
+Link rate is 2057.266 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.368088
+recieved 2nd PACKET at time 2016-05-18 19:35:28.374131
+0:00:00.006043
+Dispersion is 6.043 milliseconds 
+ 
+Link rate is 1890.452 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.406668
+recieved 2nd PACKET at time 2016-05-18 19:35:28.413234
+0:00:00.006566
+Dispersion is 6.566 milliseconds 
+ 
+Link rate is 1739.872 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.444876
+recieved 2nd PACKET at time 2016-05-18 19:35:28.451137
+0:00:00.006261
+Dispersion is 6.261 milliseconds 
+ 
+Link rate is 1824.629 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.485391
+recieved 2nd PACKET at time 2016-05-18 19:35:28.490765
+0:00:00.005374
+Dispersion is 5.374 milliseconds 
+ 
+Link rate is 2125.791 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.524283
+recieved 2nd PACKET at time 2016-05-18 19:35:28.530407
+0:00:00.006124
+Dispersion is 6.124 milliseconds 
+ 
+Link rate is 1865.447 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.561508
+recieved 2nd PACKET at time 2016-05-18 19:35:28.568096
+0:00:00.006588
+Dispersion is 6.588 milliseconds 
+ 
+Link rate is 1734.062 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.601488
+recieved 2nd PACKET at time 2016-05-18 19:35:28.611294
+0:00:00.009806
+Dispersion is 9.806 milliseconds 
+ 
+Link rate is 1165.001 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.646459
+recieved 2nd PACKET at time 2016-05-18 19:35:28.653230
+0:00:00.006771
+Dispersion is 6.771 milliseconds 
+ 
+Link rate is 1687.195 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.689571
+recieved 2nd PACKET at time 2016-05-18 19:35:28.696026
+0:00:00.006455
+Dispersion is 6.455 milliseconds 
+ 
+Link rate is 1769.791 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.729833
+recieved 2nd PACKET at time 2016-05-18 19:35:28.739701
+0:00:00.009868
+Dispersion is 9.868 milliseconds 
+ 
+Link rate is 1157.681 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.769978
+recieved 2nd PACKET at time 2016-05-18 19:35:28.776156
+0:00:00.006178
+Dispersion is 6.178 milliseconds 
+ 
+Link rate is 1849.142 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.807474
+recieved 2nd PACKET at time 2016-05-18 19:35:28.816154
+0:00:00.008680
+Dispersion is 8.680 milliseconds 
+ 
+Link rate is 1316.129 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.851240
+recieved 2nd PACKET at time 2016-05-18 19:35:28.858425
+0:00:00.007185
+Dispersion is 7.185 milliseconds 
+ 
+Link rate is 1589.979 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.896041
+recieved 2nd PACKET at time 2016-05-18 19:35:28.902286
+0:00:00.006245
+Dispersion is 6.245 milliseconds 
+ 
+Link rate is 1829.303 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.935476
+recieved 2nd PACKET at time 2016-05-18 19:35:28.944781
+0:00:00.009305
+Dispersion is 9.305 milliseconds 
+ 
+Link rate is 1227.727 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:28.983408
+recieved 2nd PACKET at time 2016-05-18 19:35:28.996355
+0:00:00.012947
+Dispersion is 12.947 milliseconds 
+ 
+Link rate is 882.367 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.032004
+recieved 2nd PACKET at time 2016-05-18 19:35:29.038610
+0:00:00.006606
+Dispersion is 6.606 milliseconds 
+ 
+Link rate is 1729.337 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.078261
+recieved 2nd PACKET at time 2016-05-18 19:35:29.086474
+0:00:00.008213
+Dispersion is 8.213 milliseconds 
+ 
+Link rate is 1390.966 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.120150
+recieved 2nd PACKET at time 2016-05-18 19:35:29.127149
+0:00:00.006999
+Dispersion is 6.999 milliseconds 
+ 
+Link rate is 1632.233 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.159159
+recieved 2nd PACKET at time 2016-05-18 19:35:29.165961
+0:00:00.006802
+Dispersion is 6.802 milliseconds 
+ 
+Link rate is 1679.506 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.201733
+recieved 2nd PACKET at time 2016-05-18 19:35:29.207909
+0:00:00.006176
+Dispersion is 6.176 milliseconds 
+ 
+Link rate is 1849.741 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.241990
+recieved 2nd PACKET at time 2016-05-18 19:35:29.250824
+0:00:00.008834
+Dispersion is 8.834 milliseconds 
+ 
+Link rate is 1293.185 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.280894
+recieved 2nd PACKET at time 2016-05-18 19:35:29.287621
+0:00:00.006727
+Dispersion is 6.727 milliseconds 
+ 
+Link rate is 1698.231 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.320221
+recieved 2nd PACKET at time 2016-05-18 19:35:29.327754
+0:00:00.007533
+Dispersion is 7.533 milliseconds 
+ 
+Link rate is 1516.527 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.363839
+recieved 2nd PACKET at time 2016-05-18 19:35:29.370649
+0:00:00.006810
+Dispersion is 6.810 milliseconds 
+ 
+Link rate is 1677.533 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.406507
+recieved 2nd PACKET at time 2016-05-18 19:35:29.415759
+0:00:00.009252
+Dispersion is 9.252 milliseconds 
+ 
+Link rate is 1234.760 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.446877
+recieved 2nd PACKET at time 2016-05-18 19:35:29.455546
+0:00:00.008669
+Dispersion is 8.669 milliseconds 
+ 
+Link rate is 1317.799 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.489641
+recieved 2nd PACKET at time 2016-05-18 19:35:29.496148
+0:00:00.006507
+Dispersion is 6.507 milliseconds 
+ 
+Link rate is 1755.648 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.529561
+recieved 2nd PACKET at time 2016-05-18 19:35:29.535954
+0:00:00.006393
+Dispersion is 6.393 milliseconds 
+ 
+Link rate is 1786.954 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.567914
+recieved 2nd PACKET at time 2016-05-18 19:35:29.575022
+0:00:00.007108
+Dispersion is 7.108 milliseconds 
+ 
+Link rate is 1607.203 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.609869
+recieved 2nd PACKET at time 2016-05-18 19:35:29.616356
+0:00:00.006487
+Dispersion is 6.487 milliseconds 
+ 
+Link rate is 1761.061 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.647920
+recieved 2nd PACKET at time 2016-05-18 19:35:29.654018
+0:00:00.006098
+Dispersion is 6.098 milliseconds 
+ 
+Link rate is 1873.401 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.686260
+recieved 2nd PACKET at time 2016-05-18 19:35:29.692783
+0:00:00.006523
+Dispersion is 6.523 milliseconds 
+ 
+Link rate is 1751.341 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.726121
+recieved 2nd PACKET at time 2016-05-18 19:35:29.733368
+0:00:00.007247
+Dispersion is 7.247 milliseconds 
+ 
+Link rate is 1576.376 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.763817
+recieved 2nd PACKET at time 2016-05-18 19:35:29.770411
+0:00:00.006594
+Dispersion is 6.594 milliseconds 
+ 
+Link rate is 1732.484 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.800884
+recieved 2nd PACKET at time 2016-05-18 19:35:29.812042
+0:00:00.011158
+Dispersion is 11.158 milliseconds 
+ 
+Link rate is 1023.839 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.843015
+recieved 2nd PACKET at time 2016-05-18 19:35:29.849625
+0:00:00.006610
+Dispersion is 6.610 milliseconds 
+ 
+Link rate is 1728.290 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.880079
+recieved 2nd PACKET at time 2016-05-18 19:35:29.888402
+0:00:00.008323
+Dispersion is 8.323 milliseconds 
+ 
+Link rate is 1372.582 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.919115
+recieved 2nd PACKET at time 2016-05-18 19:35:29.925507
+0:00:00.006392
+Dispersion is 6.392 milliseconds 
+ 
+Link rate is 1787.234 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.959138
+recieved 2nd PACKET at time 2016-05-18 19:35:29.967244
+0:00:00.008106
+Dispersion is 8.106 milliseconds 
+ 
+Link rate is 1409.326 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:29.998319
+recieved 2nd PACKET at time 2016-05-18 19:35:30.004634
+0:00:00.006315
+Dispersion is 6.315 milliseconds 
+ 
+Link rate is 1809.026 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.038134
+recieved 2nd PACKET at time 2016-05-18 19:35:30.047671
+0:00:00.009537
+Dispersion is 9.537 milliseconds 
+ 
+Link rate is 1197.861 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.079852
+recieved 2nd PACKET at time 2016-05-18 19:35:30.088996
+0:00:00.009144
+Dispersion is 9.144 milliseconds 
+ 
+Link rate is 1249.344 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.124389
+recieved 2nd PACKET at time 2016-05-18 19:35:30.129747
+0:00:00.005358
+Dispersion is 5.358 milliseconds 
+ 
+Link rate is 2132.139 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.163599
+recieved 2nd PACKET at time 2016-05-18 19:35:30.171919
+0:00:00.008320
+Dispersion is 8.320 milliseconds 
+ 
+Link rate is 1373.077 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.206634
+recieved 2nd PACKET at time 2016-05-18 19:35:30.213439
+0:00:00.006805
+Dispersion is 6.805 milliseconds 
+ 
+Link rate is 1678.766 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.249566
+recieved 2nd PACKET at time 2016-05-18 19:35:30.256756
+0:00:00.007190
+Dispersion is 7.190 milliseconds 
+ 
+Link rate is 1588.873 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.287703
+recieved 2nd PACKET at time 2016-05-18 19:35:30.294615
+0:00:00.006912
+Dispersion is 6.912 milliseconds 
+ 
+Link rate is 1652.778 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.330425
+recieved 2nd PACKET at time 2016-05-18 19:35:30.340244
+0:00:00.009819
+Dispersion is 9.819 milliseconds 
+ 
+Link rate is 1163.459 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.371335
+recieved 2nd PACKET at time 2016-05-18 19:35:30.378281
+0:00:00.006946
+Dispersion is 6.946 milliseconds 
+ 
+Link rate is 1644.688 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.413683
+recieved 2nd PACKET at time 2016-05-18 19:35:30.428755
+0:00:00.015072
+Dispersion is 15.072 milliseconds 
+ 
+Link rate is 757.962 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.459990
+recieved 2nd PACKET at time 2016-05-18 19:35:30.466322
+0:00:00.006332
+Dispersion is 6.332 milliseconds 
+ 
+Link rate is 1804.169 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.501480
+recieved 2nd PACKET at time 2016-05-18 19:35:30.509241
+0:00:00.007761
+Dispersion is 7.761 milliseconds 
+ 
+Link rate is 1471.975 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.548283
+recieved 2nd PACKET at time 2016-05-18 19:35:30.557844
+0:00:00.009561
+Dispersion is 9.561 milliseconds 
+ 
+Link rate is 1194.854 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.591323
+recieved 2nd PACKET at time 2016-05-18 19:35:30.597984
+0:00:00.006661
+Dispersion is 6.661 milliseconds 
+ 
+Link rate is 1715.058 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.634257
+recieved 2nd PACKET at time 2016-05-18 19:35:30.641907
+0:00:00.007650
+Dispersion is 7.650 milliseconds 
+ 
+Link rate is 1493.333 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.676686
+recieved 2nd PACKET at time 2016-05-18 19:35:30.684291
+0:00:00.007605
+Dispersion is 7.605 milliseconds 
+ 
+Link rate is 1502.170 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.719690
+recieved 2nd PACKET at time 2016-05-18 19:35:30.726792
+0:00:00.007102
+Dispersion is 7.102 milliseconds 
+ 
+Link rate is 1608.561 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.760629
+recieved 2nd PACKET at time 2016-05-18 19:35:30.768554
+0:00:00.007925
+Dispersion is 7.925 milliseconds 
+ 
+Link rate is 1441.514 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.800112
+recieved 2nd PACKET at time 2016-05-18 19:35:30.809481
+0:00:00.009369
+Dispersion is 9.369 milliseconds 
+ 
+Link rate is 1219.340 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.841564
+recieved 2nd PACKET at time 2016-05-18 19:35:30.848519
+0:00:00.006955
+Dispersion is 6.955 milliseconds 
+ 
+Link rate is 1642.559 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.881593
+recieved 2nd PACKET at time 2016-05-18 19:35:30.887659
+0:00:00.006066
+Dispersion is 6.066 milliseconds 
+ 
+Link rate is 1883.284 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.921707
+recieved 2nd PACKET at time 2016-05-18 19:35:30.927748
+0:00:00.006041
+Dispersion is 6.041 milliseconds 
+ 
+Link rate is 1891.078 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:30.961619
+recieved 2nd PACKET at time 2016-05-18 19:35:30.969710
+0:00:00.008091
+Dispersion is 8.091 milliseconds 
+ 
+Link rate is 1411.939 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.002049
+recieved 2nd PACKET at time 2016-05-18 19:35:31.008128
+0:00:00.006079
+Dispersion is 6.079 milliseconds 
+ 
+Link rate is 1879.256 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.063967
+recieved 2nd PACKET at time 2016-05-18 19:35:31.071148
+0:00:00.007181
+Dispersion is 7.181 milliseconds 
+ 
+Link rate is 1590.865 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.107588
+recieved 2nd PACKET at time 2016-05-18 19:35:31.116252
+0:00:00.008664
+Dispersion is 8.664 milliseconds 
+ 
+Link rate is 1318.560 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.148577
+recieved 2nd PACKET at time 2016-05-18 19:35:31.156355
+0:00:00.007778
+Dispersion is 7.778 milliseconds 
+ 
+Link rate is 1468.758 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.194256
+recieved 2nd PACKET at time 2016-05-18 19:35:31.197237
+0:00:00.002981
+Dispersion is 2.981 milliseconds 
+ 
+Link rate is 3832.271 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.231382
+recieved 2nd PACKET at time 2016-05-18 19:35:31.238077
+0:00:00.006695
+Dispersion is 6.695 milliseconds 
+ 
+Link rate is 1706.348 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.278545
+recieved 2nd PACKET at time 2016-05-18 19:35:31.286647
+0:00:00.008102
+Dispersion is 8.102 milliseconds 
+ 
+Link rate is 1410.022 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.323117
+recieved 2nd PACKET at time 2016-05-18 19:35:31.330100
+0:00:00.006983
+Dispersion is 6.983 milliseconds 
+ 
+Link rate is 1635.973 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.361641
+recieved 2nd PACKET at time 2016-05-18 19:35:31.422656
+0:00:00.061015
+Dispersion is 61.015 milliseconds 
+ 
+Link rate is 187.233 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.461632
+recieved 2nd PACKET at time 2016-05-18 19:35:31.469911
+0:00:00.008279
+Dispersion is 8.279 milliseconds 
+ 
+Link rate is 1379.877 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.503481
+recieved 2nd PACKET at time 2016-05-18 19:35:31.514970
+0:00:00.011489
+Dispersion is 11.489 milliseconds 
+ 
+Link rate is 994.342 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.556650
+recieved 2nd PACKET at time 2016-05-18 19:35:31.560814
+0:00:00.004164
+Dispersion is 4.164 milliseconds 
+ 
+Link rate is 2743.516 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.602556
+recieved 2nd PACKET at time 2016-05-18 19:35:31.610991
+0:00:00.008435
+Dispersion is 8.435 milliseconds 
+ 
+Link rate is 1354.357 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.658309
+recieved 2nd PACKET at time 2016-05-18 19:35:31.707713
+0:00:00.049404
+Dispersion is 49.404 milliseconds 
+ 
+Link rate is 231.236 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.757505
+recieved 2nd PACKET at time 2016-05-18 19:35:31.776683
+0:00:00.019178
+Dispersion is 19.178 milliseconds 
+ 
+Link rate is 595.683 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.810293
+recieved 2nd PACKET at time 2016-05-18 19:35:31.814221
+0:00:00.003928
+Dispersion is 3.928 milliseconds 
+ 
+Link rate is 2908.350 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.846319
+recieved 2nd PACKET at time 2016-05-18 19:35:31.850491
+0:00:00.004172
+Dispersion is 4.172 milliseconds 
+ 
+Link rate is 2738.255 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.885803
+recieved 2nd PACKET at time 2016-05-18 19:35:31.893612
+0:00:00.007809
+Dispersion is 7.809 milliseconds 
+ 
+Link rate is 1462.927 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.927413
+recieved 2nd PACKET at time 2016-05-18 19:35:31.935354
+0:00:00.007941
+Dispersion is 7.941 milliseconds 
+ 
+Link rate is 1438.610 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:31.972692
+recieved 2nd PACKET at time 2016-05-18 19:35:31.976720
+0:00:00.004028
+Dispersion is 4.028 milliseconds 
+ 
+Link rate is 2836.147 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.009598
+recieved 2nd PACKET at time 2016-05-18 19:35:32.017416
+0:00:00.007818
+Dispersion is 7.818 milliseconds 
+ 
+Link rate is 1461.243 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.057658
+recieved 2nd PACKET at time 2016-05-18 19:35:32.074332
+0:00:00.016674
+Dispersion is 16.674 milliseconds 
+ 
+Link rate is 685.139 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.110937
+recieved 2nd PACKET at time 2016-05-18 19:35:32.118841
+0:00:00.007904
+Dispersion is 7.904 milliseconds 
+ 
+Link rate is 1445.344 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.158098
+recieved 2nd PACKET at time 2016-05-18 19:35:32.170239
+0:00:00.012141
+Dispersion is 12.141 milliseconds 
+ 
+Link rate is 940.944 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.206154
+recieved 2nd PACKET at time 2016-05-18 19:35:32.210325
+0:00:00.004171
+Dispersion is 4.171 milliseconds 
+ 
+Link rate is 2738.912 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.256550
+recieved 2nd PACKET at time 2016-05-18 19:35:32.261202
+0:00:00.004652
+Dispersion is 4.652 milliseconds 
+ 
+Link rate is 2455.718 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.295201
+recieved 2nd PACKET at time 2016-05-18 19:35:32.299198
+0:00:00.003997
+Dispersion is 3.997 milliseconds 
+ 
+Link rate is 2858.144 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.333451
+recieved 2nd PACKET at time 2016-05-18 19:35:32.340442
+0:00:00.006991
+Dispersion is 6.991 milliseconds 
+ 
+Link rate is 1634.101 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.374895
+recieved 2nd PACKET at time 2016-05-18 19:35:32.382513
+0:00:00.007618
+Dispersion is 7.618 milliseconds 
+ 
+Link rate is 1499.606 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.416413
+recieved 2nd PACKET at time 2016-05-18 19:35:32.423782
+0:00:00.007369
+Dispersion is 7.369 milliseconds 
+ 
+Link rate is 1550.278 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.461671
+recieved 2nd PACKET at time 2016-05-18 19:35:32.477797
+0:00:00.016126
+Dispersion is 16.126 milliseconds 
+ 
+Link rate is 708.421 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.511690
+recieved 2nd PACKET at time 2016-05-18 19:35:32.518919
+0:00:00.007229
+Dispersion is 7.229 milliseconds 
+ 
+Link rate is 1580.302 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.553781
+recieved 2nd PACKET at time 2016-05-18 19:35:32.561572
+0:00:00.007791
+Dispersion is 7.791 milliseconds 
+ 
+Link rate is 1466.307 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.596792
+recieved 2nd PACKET at time 2016-05-18 19:35:32.604996
+0:00:00.008204
+Dispersion is 8.204 milliseconds 
+ 
+Link rate is 1392.491 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.638497
+recieved 2nd PACKET at time 2016-05-18 19:35:32.645870
+0:00:00.007373
+Dispersion is 7.373 milliseconds 
+ 
+Link rate is 1549.437 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.681462
+recieved 2nd PACKET at time 2016-05-18 19:35:32.688795
+0:00:00.007333
+Dispersion is 7.333 milliseconds 
+ 
+Link rate is 1557.889 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.722487
+recieved 2nd PACKET at time 2016-05-18 19:35:32.730499
+0:00:00.008012
+Dispersion is 8.012 milliseconds 
+ 
+Link rate is 1425.861 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.764291
+recieved 2nd PACKET at time 2016-05-18 19:35:32.771574
+0:00:00.007283
+Dispersion is 7.283 milliseconds 
+ 
+Link rate is 1568.584 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.808438
+recieved 2nd PACKET at time 2016-05-18 19:35:32.815855
+0:00:00.007417
+Dispersion is 7.417 milliseconds 
+ 
+Link rate is 1540.245 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.848713
+recieved 2nd PACKET at time 2016-05-18 19:35:32.858921
+0:00:00.010208
+Dispersion is 10.208 milliseconds 
+ 
+Link rate is 1119.122 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.893893
+recieved 2nd PACKET at time 2016-05-18 19:35:32.901108
+0:00:00.007215
+Dispersion is 7.215 milliseconds 
+ 
+Link rate is 1583.368 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.938582
+recieved 2nd PACKET at time 2016-05-18 19:35:32.948148
+0:00:00.009566
+Dispersion is 9.566 milliseconds 
+ 
+Link rate is 1194.230 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:32.980039
+recieved 2nd PACKET at time 2016-05-18 19:35:32.990448
+0:00:00.010409
+Dispersion is 10.409 milliseconds 
+ 
+Link rate is 1097.512 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.023383
+recieved 2nd PACKET at time 2016-05-18 19:35:33.042769
+0:00:00.019386
+Dispersion is 19.386 milliseconds 
+ 
+Link rate is 589.291 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.081968
+recieved 2nd PACKET at time 2016-05-18 19:35:33.094223
+0:00:00.012255
+Dispersion is 12.255 milliseconds 
+ 
+Link rate is 932.191 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.127758
+recieved 2nd PACKET at time 2016-05-18 19:35:33.135596
+0:00:00.007838
+Dispersion is 7.838 milliseconds 
+ 
+Link rate is 1457.515 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.170040
+recieved 2nd PACKET at time 2016-05-18 19:35:33.176182
+0:00:00.006142
+Dispersion is 6.142 milliseconds 
+ 
+Link rate is 1859.980 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.209859
+recieved 2nd PACKET at time 2016-05-18 19:35:33.219365
+0:00:00.009506
+Dispersion is 9.506 milliseconds 
+ 
+Link rate is 1201.767 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.251930
+recieved 2nd PACKET at time 2016-05-18 19:35:33.255945
+0:00:00.004015
+Dispersion is 4.015 milliseconds 
+ 
+Link rate is 2845.330 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.290281
+recieved 2nd PACKET at time 2016-05-18 19:35:33.298468
+0:00:00.008187
+Dispersion is 8.187 milliseconds 
+ 
+Link rate is 1395.383 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.330725
+recieved 2nd PACKET at time 2016-05-18 19:35:33.338334
+0:00:00.007609
+Dispersion is 7.609 milliseconds 
+ 
+Link rate is 1501.380 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.371447
+recieved 2nd PACKET at time 2016-05-18 19:35:33.379164
+0:00:00.007717
+Dispersion is 7.717 milliseconds 
+ 
+Link rate is 1480.368 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.416363
+recieved 2nd PACKET at time 2016-05-18 19:35:33.423943
+0:00:00.007580
+Dispersion is 7.580 milliseconds 
+ 
+Link rate is 1507.124 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.456672
+recieved 2nd PACKET at time 2016-05-18 19:35:33.465055
+0:00:00.008383
+Dispersion is 8.383 milliseconds 
+ 
+Link rate is 1362.758 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.499484
+recieved 2nd PACKET at time 2016-05-18 19:35:33.508411
+0:00:00.008927
+Dispersion is 8.927 milliseconds 
+ 
+Link rate is 1279.713 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.541379
+recieved 2nd PACKET at time 2016-05-18 19:35:33.549551
+0:00:00.008172
+Dispersion is 8.172 milliseconds 
+ 
+Link rate is 1397.944 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.585623
+recieved 2nd PACKET at time 2016-05-18 19:35:33.589393
+0:00:00.003770
+Dispersion is 3.770 milliseconds 
+ 
+Link rate is 3030.239 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.622235
+recieved 2nd PACKET at time 2016-05-18 19:35:33.630570
+0:00:00.008335
+Dispersion is 8.335 milliseconds 
+ 
+Link rate is 1370.606 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.662461
+recieved 2nd PACKET at time 2016-05-18 19:35:33.670389
+0:00:00.007928
+Dispersion is 7.928 milliseconds 
+ 
+Link rate is 1440.969 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.704493
+recieved 2nd PACKET at time 2016-05-18 19:35:33.708388
+0:00:00.003895
+Dispersion is 3.895 milliseconds 
+ 
+Link rate is 2932.991 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.742017
+recieved 2nd PACKET at time 2016-05-18 19:35:33.748553
+0:00:00.006536
+Dispersion is 6.536 milliseconds 
+ 
+Link rate is 1747.858 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.781516
+recieved 2nd PACKET at time 2016-05-18 19:35:33.788097
+0:00:00.006581
+Dispersion is 6.581 milliseconds 
+ 
+Link rate is 1735.906 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.824327
+recieved 2nd PACKET at time 2016-05-18 19:35:33.833227
+0:00:00.008900
+Dispersion is 8.900 milliseconds 
+ 
+Link rate is 1283.596 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.866265
+recieved 2nd PACKET at time 2016-05-18 19:35:33.874155
+0:00:00.007890
+Dispersion is 7.890 milliseconds 
+ 
+Link rate is 1447.909 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.909944
+recieved 2nd PACKET at time 2016-05-18 19:35:33.917638
+0:00:00.007694
+Dispersion is 7.694 milliseconds 
+ 
+Link rate is 1484.793 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.950973
+recieved 2nd PACKET at time 2016-05-18 19:35:33.958508
+0:00:00.007535
+Dispersion is 7.535 milliseconds 
+ 
+Link rate is 1516.125 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:33.992561
+recieved 2nd PACKET at time 2016-05-18 19:35:33.996857
+0:00:00.004296
+Dispersion is 4.296 milliseconds 
+ 
+Link rate is 2659.218 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.032597
+recieved 2nd PACKET at time 2016-05-18 19:35:34.039061
+0:00:00.006464
+Dispersion is 6.464 milliseconds 
+ 
+Link rate is 1767.327 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.079031
+recieved 2nd PACKET at time 2016-05-18 19:35:34.085990
+0:00:00.006959
+Dispersion is 6.959 milliseconds 
+ 
+Link rate is 1641.615 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.125949
+recieved 2nd PACKET at time 2016-05-18 19:35:34.133521
+0:00:00.007572
+Dispersion is 7.572 milliseconds 
+ 
+Link rate is 1508.716 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.169628
+recieved 2nd PACKET at time 2016-05-18 19:35:34.176200
+0:00:00.006572
+Dispersion is 6.572 milliseconds 
+ 
+Link rate is 1738.284 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.211354
+recieved 2nd PACKET at time 2016-05-18 19:35:34.218649
+0:00:00.007295
+Dispersion is 7.295 milliseconds 
+ 
+Link rate is 1566.004 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.252418
+recieved 2nd PACKET at time 2016-05-18 19:35:34.259345
+0:00:00.006927
+Dispersion is 6.927 milliseconds 
+ 
+Link rate is 1649.199 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.293609
+recieved 2nd PACKET at time 2016-05-18 19:35:34.297832
+0:00:00.004223
+Dispersion is 4.223 milliseconds 
+ 
+Link rate is 2705.186 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.330390
+recieved 2nd PACKET at time 2016-05-18 19:35:34.334740
+0:00:00.004350
+Dispersion is 4.350 milliseconds 
+ 
+Link rate is 2626.207 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.372004
+recieved 2nd PACKET at time 2016-05-18 19:35:34.379619
+0:00:00.007615
+Dispersion is 7.615 milliseconds 
+ 
+Link rate is 1500.197 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.412542
+recieved 2nd PACKET at time 2016-05-18 19:35:34.424313
+0:00:00.011771
+Dispersion is 11.771 milliseconds 
+ 
+Link rate is 970.521 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.457585
+recieved 2nd PACKET at time 2016-05-18 19:35:34.465514
+0:00:00.007929
+Dispersion is 7.929 milliseconds 
+ 
+Link rate is 1440.787 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.497633
+recieved 2nd PACKET at time 2016-05-18 19:35:34.505230
+0:00:00.007597
+Dispersion is 7.597 milliseconds 
+ 
+Link rate is 1503.751 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.540290
+recieved 2nd PACKET at time 2016-05-18 19:35:34.549847
+0:00:00.009557
+Dispersion is 9.557 milliseconds 
+ 
+Link rate is 1195.354 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.582654
+recieved 2nd PACKET at time 2016-05-18 19:35:34.587036
+0:00:00.004382
+Dispersion is 4.382 milliseconds 
+ 
+Link rate is 2607.029 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.626071
+recieved 2nd PACKET at time 2016-05-18 19:35:34.630476
+0:00:00.004405
+Dispersion is 4.405 milliseconds 
+ 
+Link rate is 2593.417 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.663211
+recieved 2nd PACKET at time 2016-05-18 19:35:34.667938
+0:00:00.004727
+Dispersion is 4.727 milliseconds 
+ 
+Link rate is 2416.755 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.702144
+recieved 2nd PACKET at time 2016-05-18 19:35:34.710085
+0:00:00.007941
+Dispersion is 7.941 milliseconds 
+ 
+Link rate is 1438.610 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.745614
+recieved 2nd PACKET at time 2016-05-18 19:35:34.754507
+0:00:00.008893
+Dispersion is 8.893 milliseconds 
+ 
+Link rate is 1284.606 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.787563
+recieved 2nd PACKET at time 2016-05-18 19:35:34.797895
+0:00:00.010332
+Dispersion is 10.332 milliseconds 
+ 
+Link rate is 1105.691 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.831921
+recieved 2nd PACKET at time 2016-05-18 19:35:34.836409
+0:00:00.004488
+Dispersion is 4.488 milliseconds 
+ 
+Link rate is 2545.455 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.870538
+recieved 2nd PACKET at time 2016-05-18 19:35:34.875008
+0:00:00.004470
+Dispersion is 4.470 milliseconds 
+ 
+Link rate is 2555.705 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.907608
+recieved 2nd PACKET at time 2016-05-18 19:35:34.915603
+0:00:00.007995
+Dispersion is 7.995 milliseconds 
+ 
+Link rate is 1428.893 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.949716
+recieved 2nd PACKET at time 2016-05-18 19:35:34.960285
+0:00:00.010569
+Dispersion is 10.569 milliseconds 
+ 
+Link rate is 1080.897 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:34.993722
+recieved 2nd PACKET at time 2016-05-18 19:35:35.001513
+0:00:00.007791
+Dispersion is 7.791 milliseconds 
+ 
+Link rate is 1466.307 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.039578
+recieved 2nd PACKET at time 2016-05-18 19:35:35.047839
+0:00:00.008261
+Dispersion is 8.261 milliseconds 
+ 
+Link rate is 1382.883 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.085697
+recieved 2nd PACKET at time 2016-05-18 19:35:35.096115
+0:00:00.010418
+Dispersion is 10.418 milliseconds 
+ 
+Link rate is 1096.564 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.133661
+recieved 2nd PACKET at time 2016-05-18 19:35:35.141717
+0:00:00.008056
+Dispersion is 8.056 milliseconds 
+ 
+Link rate is 1418.073 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.174841
+recieved 2nd PACKET at time 2016-05-18 19:35:35.181514
+0:00:00.006673
+Dispersion is 6.673 milliseconds 
+ 
+Link rate is 1711.974 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.220272
+recieved 2nd PACKET at time 2016-05-18 19:35:35.224778
+0:00:00.004506
+Dispersion is 4.506 milliseconds 
+ 
+Link rate is 2535.286 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.257929
+recieved 2nd PACKET at time 2016-05-18 19:35:35.267607
+0:00:00.009678
+Dispersion is 9.678 milliseconds 
+ 
+Link rate is 1180.409 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.301559
+recieved 2nd PACKET at time 2016-05-18 19:35:35.309274
+0:00:00.007715
+Dispersion is 7.715 milliseconds 
+ 
+Link rate is 1480.752 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.342700
+recieved 2nd PACKET at time 2016-05-18 19:35:35.347369
+0:00:00.004669
+Dispersion is 4.669 milliseconds 
+ 
+Link rate is 2446.777 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.383299
+recieved 2nd PACKET at time 2016-05-18 19:35:35.387828
+0:00:00.004529
+Dispersion is 4.529 milliseconds 
+ 
+Link rate is 2522.411 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.421362
+recieved 2nd PACKET at time 2016-05-18 19:35:35.436874
+0:00:00.015512
+Dispersion is 15.512 milliseconds 
+ 
+Link rate is 736.462 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.472438
+recieved 2nd PACKET at time 2016-05-18 19:35:35.481269
+0:00:00.008831
+Dispersion is 8.831 milliseconds 
+ 
+Link rate is 1293.625 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.517820
+recieved 2nd PACKET at time 2016-05-18 19:35:35.531480
+0:00:00.013660
+Dispersion is 13.660 milliseconds 
+ 
+Link rate is 836.310 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.566122
+recieved 2nd PACKET at time 2016-05-18 19:35:35.575477
+0:00:00.009355
+Dispersion is 9.355 milliseconds 
+ 
+Link rate is 1221.165 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.609556
+recieved 2nd PACKET at time 2016-05-18 19:35:35.619923
+0:00:00.010367
+Dispersion is 10.367 milliseconds 
+ 
+Link rate is 1101.958 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.655043
+recieved 2nd PACKET at time 2016-05-18 19:35:35.663269
+0:00:00.008226
+Dispersion is 8.226 milliseconds 
+ 
+Link rate is 1388.767 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.697899
+recieved 2nd PACKET at time 2016-05-18 19:35:35.706047
+0:00:00.008148
+Dispersion is 8.148 milliseconds 
+ 
+Link rate is 1402.062 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.738246
+recieved 2nd PACKET at time 2016-05-18 19:35:35.743273
+0:00:00.005027
+Dispersion is 5.027 milliseconds 
+ 
+Link rate is 2272.528 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.780656
+recieved 2nd PACKET at time 2016-05-18 19:35:35.785420
+0:00:00.004764
+Dispersion is 4.764 milliseconds 
+ 
+Link rate is 2397.985 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.818840
+recieved 2nd PACKET at time 2016-05-18 19:35:35.828516
+0:00:00.009676
+Dispersion is 9.676 milliseconds 
+ 
+Link rate is 1180.653 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.867386
+recieved 2nd PACKET at time 2016-05-18 19:35:35.878754
+0:00:00.011368
+Dispersion is 11.368 milliseconds 
+ 
+Link rate is 1004.926 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.914245
+recieved 2nd PACKET at time 2016-05-18 19:35:35.923558
+0:00:00.009313
+Dispersion is 9.313 milliseconds 
+ 
+Link rate is 1226.672 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.958352
+recieved 2nd PACKET at time 2016-05-18 19:35:35.965389
+0:00:00.007037
+Dispersion is 7.037 milliseconds 
+ 
+Link rate is 1623.419 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:35.999078
+recieved 2nd PACKET at time 2016-05-18 19:35:36.006961
+0:00:00.007883
+Dispersion is 7.883 milliseconds 
+ 
+Link rate is 1449.194 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.042894
+recieved 2nd PACKET at time 2016-05-18 19:35:36.048035
+0:00:00.005141
+Dispersion is 5.141 milliseconds 
+ 
+Link rate is 2222.136 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.083284
+recieved 2nd PACKET at time 2016-05-18 19:35:36.097424
+0:00:00.014140
+Dispersion is 14.140 milliseconds 
+ 
+Link rate is 807.921 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.136046
+recieved 2nd PACKET at time 2016-05-18 19:35:36.144558
+0:00:00.008512
+Dispersion is 8.512 milliseconds 
+ 
+Link rate is 1342.105 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.180317
+recieved 2nd PACKET at time 2016-05-18 19:35:36.188606
+0:00:00.008289
+Dispersion is 8.289 milliseconds 
+ 
+Link rate is 1378.212 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.222439
+recieved 2nd PACKET at time 2016-05-18 19:35:36.231117
+0:00:00.008678
+Dispersion is 8.678 milliseconds 
+ 
+Link rate is 1316.432 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.265465
+recieved 2nd PACKET at time 2016-05-18 19:35:36.273857
+0:00:00.008392
+Dispersion is 8.392 milliseconds 
+ 
+Link rate is 1361.296 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.310374
+recieved 2nd PACKET at time 2016-05-18 19:35:36.315053
+0:00:00.004679
+Dispersion is 4.679 milliseconds 
+ 
+Link rate is 2441.547 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.352717
+recieved 2nd PACKET at time 2016-05-18 19:35:36.358149
+0:00:00.005432
+Dispersion is 5.432 milliseconds 
+ 
+Link rate is 2103.093 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.396598
+recieved 2nd PACKET at time 2016-05-18 19:35:36.403500
+0:00:00.006902
+Dispersion is 6.902 milliseconds 
+ 
+Link rate is 1655.172 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.438192
+recieved 2nd PACKET at time 2016-05-18 19:35:36.446472
+0:00:00.008280
+Dispersion is 8.280 milliseconds 
+ 
+Link rate is 1379.710 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.479852
+recieved 2nd PACKET at time 2016-05-18 19:35:36.484695
+0:00:00.004843
+Dispersion is 4.843 milliseconds 
+ 
+Link rate is 2358.868 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.519853
+recieved 2nd PACKET at time 2016-05-18 19:35:36.524567
+0:00:00.004714
+Dispersion is 4.714 milliseconds 
+ 
+Link rate is 2423.420 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.559783
+recieved 2nd PACKET at time 2016-05-18 19:35:36.570715
+0:00:00.010932
+Dispersion is 10.932 milliseconds 
+ 
+Link rate is 1045.005 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.604346
+recieved 2nd PACKET at time 2016-05-18 19:35:36.609201
+0:00:00.004855
+Dispersion is 4.855 milliseconds 
+ 
+Link rate is 2353.038 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.650141
+recieved 2nd PACKET at time 2016-05-18 19:35:36.660197
+0:00:00.010056
+Dispersion is 10.056 milliseconds 
+ 
+Link rate is 1136.038 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.696286
+recieved 2nd PACKET at time 2016-05-18 19:35:36.701135
+0:00:00.004849
+Dispersion is 4.849 milliseconds 
+ 
+Link rate is 2355.950 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.735094
+recieved 2nd PACKET at time 2016-05-18 19:35:36.740432
+0:00:00.005338
+Dispersion is 5.338 milliseconds 
+ 
+Link rate is 2140.127 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.775786
+recieved 2nd PACKET at time 2016-05-18 19:35:36.780691
+0:00:00.004905
+Dispersion is 4.905 milliseconds 
+ 
+Link rate is 2329.052 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.817939
+recieved 2nd PACKET at time 2016-05-18 19:35:36.822687
+0:00:00.004748
+Dispersion is 4.748 milliseconds 
+ 
+Link rate is 2406.066 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.901776
+recieved 2nd PACKET at time 2016-05-18 19:35:36.923865
+0:00:00.022089
+Dispersion is 22.089 milliseconds 
+ 
+Link rate is 517.180 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:36.978998
+recieved 2nd PACKET at time 2016-05-18 19:35:36.983746
+0:00:00.004748
+Dispersion is 4.748 milliseconds 
+ 
+Link rate is 2406.066 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.018296
+recieved 2nd PACKET at time 2016-05-18 19:35:37.028110
+0:00:00.009814
+Dispersion is 9.814 milliseconds 
+ 
+Link rate is 1164.051 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.065698
+recieved 2nd PACKET at time 2016-05-18 19:35:37.075252
+0:00:00.009554
+Dispersion is 9.554 milliseconds 
+ 
+Link rate is 1195.730 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.115793
+recieved 2nd PACKET at time 2016-05-18 19:35:37.123320
+0:00:00.007527
+Dispersion is 7.527 milliseconds 
+ 
+Link rate is 1517.736 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.161831
+recieved 2nd PACKET at time 2016-05-18 19:35:37.171071
+0:00:00.009240
+Dispersion is 9.240 milliseconds 
+ 
+Link rate is 1236.364 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.208309
+recieved 2nd PACKET at time 2016-05-18 19:35:37.213065
+0:00:00.004756
+Dispersion is 4.756 milliseconds 
+ 
+Link rate is 2402.019 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.249472
+recieved 2nd PACKET at time 2016-05-18 19:35:37.260165
+0:00:00.010693
+Dispersion is 10.693 milliseconds 
+ 
+Link rate is 1068.362 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.297713
+recieved 2nd PACKET at time 2016-05-18 19:35:37.304870
+0:00:00.007157
+Dispersion is 7.157 milliseconds 
+ 
+Link rate is 1596.200 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.339109
+recieved 2nd PACKET at time 2016-05-18 19:35:37.344019
+0:00:00.004910
+Dispersion is 4.910 milliseconds 
+ 
+Link rate is 2326.680 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.379082
+recieved 2nd PACKET at time 2016-05-18 19:35:37.383690
+0:00:00.004608
+Dispersion is 4.608 milliseconds 
+ 
+Link rate is 2479.167 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.418531
+recieved 2nd PACKET at time 2016-05-18 19:35:37.423557
+0:00:00.005026
+Dispersion is 5.026 milliseconds 
+ 
+Link rate is 2272.981 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.461468
+recieved 2nd PACKET at time 2016-05-18 19:35:37.469589
+0:00:00.008121
+Dispersion is 8.121 milliseconds 
+ 
+Link rate is 1406.723 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.503924
+recieved 2nd PACKET at time 2016-05-18 19:35:37.508826
+0:00:00.004902
+Dispersion is 4.902 milliseconds 
+ 
+Link rate is 2330.477 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.544333
+recieved 2nd PACKET at time 2016-05-18 19:35:37.549642
+0:00:00.005309
+Dispersion is 5.309 milliseconds 
+ 
+Link rate is 2151.818 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.583491
+recieved 2nd PACKET at time 2016-05-18 19:35:37.593977
+0:00:00.010486
+Dispersion is 10.486 milliseconds 
+ 
+Link rate is 1089.453 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.628377
+recieved 2nd PACKET at time 2016-05-18 19:35:37.633588
+0:00:00.005211
+Dispersion is 5.211 milliseconds 
+ 
+Link rate is 2192.286 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.671451
+recieved 2nd PACKET at time 2016-05-18 19:35:37.676555
+0:00:00.005104
+Dispersion is 5.104 milliseconds 
+ 
+Link rate is 2238.245 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.715876
+recieved 2nd PACKET at time 2016-05-18 19:35:37.724383
+0:00:00.008507
+Dispersion is 8.507 milliseconds 
+ 
+Link rate is 1342.894 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.760875
+recieved 2nd PACKET at time 2016-05-18 19:35:37.765856
+0:00:00.004981
+Dispersion is 4.981 milliseconds 
+ 
+Link rate is 2293.515 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.857631
+recieved 2nd PACKET at time 2016-05-18 19:35:37.869269
+0:00:00.011638
+Dispersion is 11.638 milliseconds 
+ 
+Link rate is 981.612 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.907277
+recieved 2nd PACKET at time 2016-05-18 19:35:37.915908
+0:00:00.008631
+Dispersion is 8.631 milliseconds 
+ 
+Link rate is 1323.601 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:37.965709
+recieved 2nd PACKET at time 2016-05-18 19:35:37.974015
+0:00:00.008306
+Dispersion is 8.306 milliseconds 
+ 
+Link rate is 1375.391 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.008138
+recieved 2nd PACKET at time 2016-05-18 19:35:38.013306
+0:00:00.005168
+Dispersion is 5.168 milliseconds 
+ 
+Link rate is 2210.526 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.051215
+recieved 2nd PACKET at time 2016-05-18 19:35:38.060441
+0:00:00.009226
+Dispersion is 9.226 milliseconds 
+ 
+Link rate is 1238.240 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.098199
+recieved 2nd PACKET at time 2016-05-18 19:35:38.105633
+0:00:00.007434
+Dispersion is 7.434 milliseconds 
+ 
+Link rate is 1536.723 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.143215
+recieved 2nd PACKET at time 2016-05-18 19:35:38.149362
+0:00:00.006147
+Dispersion is 6.147 milliseconds 
+ 
+Link rate is 1858.468 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.184404
+recieved 2nd PACKET at time 2016-05-18 19:35:38.189638
+0:00:00.005234
+Dispersion is 5.234 milliseconds 
+ 
+Link rate is 2182.652 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.224792
+recieved 2nd PACKET at time 2016-05-18 19:35:38.233762
+0:00:00.008970
+Dispersion is 8.970 milliseconds 
+ 
+Link rate is 1273.579 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.267521
+recieved 2nd PACKET at time 2016-05-18 19:35:38.272346
+0:00:00.004825
+Dispersion is 4.825 milliseconds 
+ 
+Link rate is 2367.668 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.311372
+recieved 2nd PACKET at time 2016-05-18 19:35:38.316448
+0:00:00.005076
+Dispersion is 5.076 milliseconds 
+ 
+Link rate is 2250.591 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.357823
+recieved 2nd PACKET at time 2016-05-18 19:35:38.366293
+0:00:00.008470
+Dispersion is 8.470 milliseconds 
+ 
+Link rate is 1348.760 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.400124
+recieved 2nd PACKET at time 2016-05-18 19:35:38.405278
+0:00:00.005154
+Dispersion is 5.154 milliseconds 
+ 
+Link rate is 2216.531 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.441713
+recieved 2nd PACKET at time 2016-05-18 19:35:38.446415
+0:00:00.004702
+Dispersion is 4.702 milliseconds 
+ 
+Link rate is 2429.604 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.480470
+recieved 2nd PACKET at time 2016-05-18 19:35:38.489281
+0:00:00.008811
+Dispersion is 8.811 milliseconds 
+ 
+Link rate is 1296.561 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.525785
+recieved 2nd PACKET at time 2016-05-18 19:35:38.530508
+0:00:00.004723
+Dispersion is 4.723 milliseconds 
+ 
+Link rate is 2418.802 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.567261
+recieved 2nd PACKET at time 2016-05-18 19:35:38.572794
+0:00:00.005533
+Dispersion is 5.533 milliseconds 
+ 
+Link rate is 2064.703 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.607024
+recieved 2nd PACKET at time 2016-05-18 19:35:38.612358
+0:00:00.005334
+Dispersion is 5.334 milliseconds 
+ 
+Link rate is 2141.732 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.648233
+recieved 2nd PACKET at time 2016-05-18 19:35:38.653278
+0:00:00.005045
+Dispersion is 5.045 milliseconds 
+ 
+Link rate is 2264.420 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.689588
+recieved 2nd PACKET at time 2016-05-18 19:35:38.698139
+0:00:00.008551
+Dispersion is 8.551 milliseconds 
+ 
+Link rate is 1335.984 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.732255
+recieved 2nd PACKET at time 2016-05-18 19:35:38.737334
+0:00:00.005079
+Dispersion is 5.079 milliseconds 
+ 
+Link rate is 2249.262 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.774144
+recieved 2nd PACKET at time 2016-05-18 19:35:38.785112
+0:00:00.010968
+Dispersion is 10.968 milliseconds 
+ 
+Link rate is 1041.575 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.822053
+recieved 2nd PACKET at time 2016-05-18 19:35:38.827099
+0:00:00.005046
+Dispersion is 5.046 milliseconds 
+ 
+Link rate is 2263.971 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.864010
+recieved 2nd PACKET at time 2016-05-18 19:35:38.869215
+0:00:00.005205
+Dispersion is 5.205 milliseconds 
+ 
+Link rate is 2194.813 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.906802
+recieved 2nd PACKET at time 2016-05-18 19:35:38.912296
+0:00:00.005494
+Dispersion is 5.494 milliseconds 
+ 
+Link rate is 2079.359 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.950884
+recieved 2nd PACKET at time 2016-05-18 19:35:38.959029
+0:00:00.008145
+Dispersion is 8.145 milliseconds 
+ 
+Link rate is 1402.578 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:38.994432
+recieved 2nd PACKET at time 2016-05-18 19:35:38.999767
+0:00:00.005335
+Dispersion is 5.335 milliseconds 
+ 
+Link rate is 2141.331 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.038679
+recieved 2nd PACKET at time 2016-05-18 19:35:39.050896
+0:00:00.012217
+Dispersion is 12.217 milliseconds 
+ 
+Link rate is 935.090 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.093903
+recieved 2nd PACKET at time 2016-05-18 19:35:39.107663
+0:00:00.013760
+Dispersion is 13.760 milliseconds 
+ 
+Link rate is 830.233 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.150206
+recieved 2nd PACKET at time 2016-05-18 19:35:39.155948
+0:00:00.005742
+Dispersion is 5.742 milliseconds 
+ 
+Link rate is 1989.551 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.191822
+recieved 2nd PACKET at time 2016-05-18 19:35:39.197147
+0:00:00.005325
+Dispersion is 5.325 milliseconds 
+ 
+Link rate is 2145.352 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.234022
+recieved 2nd PACKET at time 2016-05-18 19:35:39.239864
+0:00:00.005842
+Dispersion is 5.842 milliseconds 
+ 
+Link rate is 1955.495 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.277449
+recieved 2nd PACKET at time 2016-05-18 19:35:39.286902
+0:00:00.009453
+Dispersion is 9.453 milliseconds 
+ 
+Link rate is 1208.505 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.321765
+recieved 2nd PACKET at time 2016-05-18 19:35:39.335293
+0:00:00.013528
+Dispersion is 13.528 milliseconds 
+ 
+Link rate is 844.471 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.370158
+recieved 2nd PACKET at time 2016-05-18 19:35:39.375552
+0:00:00.005394
+Dispersion is 5.394 milliseconds 
+ 
+Link rate is 2117.909 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.411382
+recieved 2nd PACKET at time 2016-05-18 19:35:39.416641
+0:00:00.005259
+Dispersion is 5.259 milliseconds 
+ 
+Link rate is 2172.276 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.453763
+recieved 2nd PACKET at time 2016-05-18 19:35:39.465066
+0:00:00.011303
+Dispersion is 11.303 milliseconds 
+ 
+Link rate is 1010.705 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.501732
+recieved 2nd PACKET at time 2016-05-18 19:35:39.510800
+0:00:00.009068
+Dispersion is 9.068 milliseconds 
+ 
+Link rate is 1259.815 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.545463
+recieved 2nd PACKET at time 2016-05-18 19:35:39.554533
+0:00:00.009070
+Dispersion is 9.070 milliseconds 
+ 
+Link rate is 1259.537 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.591672
+recieved 2nd PACKET at time 2016-05-18 19:35:39.598004
+0:00:00.006332
+Dispersion is 6.332 milliseconds 
+ 
+Link rate is 1804.169 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.631846
+recieved 2nd PACKET at time 2016-05-18 19:35:39.640886
+0:00:00.009040
+Dispersion is 9.040 milliseconds 
+ 
+Link rate is 1263.717 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.675713
+recieved 2nd PACKET at time 2016-05-18 19:35:39.680766
+0:00:00.005053
+Dispersion is 5.053 milliseconds 
+ 
+Link rate is 2260.835 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.718896
+recieved 2nd PACKET at time 2016-05-18 19:35:39.724300
+0:00:00.005404
+Dispersion is 5.404 milliseconds 
+ 
+Link rate is 2113.990 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.759716
+recieved 2nd PACKET at time 2016-05-18 19:35:39.768533
+0:00:00.008817
+Dispersion is 8.817 milliseconds 
+ 
+Link rate is 1295.679 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.809419
+recieved 2nd PACKET at time 2016-05-18 19:35:39.815860
+0:00:00.006441
+Dispersion is 6.441 milliseconds 
+ 
+Link rate is 1773.638 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.851227
+recieved 2nd PACKET at time 2016-05-18 19:35:39.856716
+0:00:00.005489
+Dispersion is 5.489 milliseconds 
+ 
+Link rate is 2081.253 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.892613
+recieved 2nd PACKET at time 2016-05-18 19:35:39.898776
+0:00:00.006163
+Dispersion is 6.163 milliseconds 
+ 
+Link rate is 1853.643 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.936046
+recieved 2nd PACKET at time 2016-05-18 19:35:39.941572
+0:00:00.005526
+Dispersion is 5.526 milliseconds 
+ 
+Link rate is 2067.318 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:39.976831
+recieved 2nd PACKET at time 2016-05-18 19:35:39.982224
+0:00:00.005393
+Dispersion is 5.393 milliseconds 
+ 
+Link rate is 2118.302 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.020352
+recieved 2nd PACKET at time 2016-05-18 19:35:40.026148
+0:00:00.005796
+Dispersion is 5.796 milliseconds 
+ 
+Link rate is 1971.014 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.068908
+recieved 2nd PACKET at time 2016-05-18 19:35:40.080286
+0:00:00.011378
+Dispersion is 11.378 milliseconds 
+ 
+Link rate is 1004.043 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.123493
+recieved 2nd PACKET at time 2016-05-18 19:35:40.129557
+0:00:00.006064
+Dispersion is 6.064 milliseconds 
+ 
+Link rate is 1883.905 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.164822
+recieved 2nd PACKET at time 2016-05-18 19:35:40.172688
+0:00:00.007866
+Dispersion is 7.866 milliseconds 
+ 
+Link rate is 1452.326 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.212131
+recieved 2nd PACKET at time 2016-05-18 19:35:40.217651
+0:00:00.005520
+Dispersion is 5.520 milliseconds 
+ 
+Link rate is 2069.565 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.256504
+recieved 2nd PACKET at time 2016-05-18 19:35:40.265448
+0:00:00.008944
+Dispersion is 8.944 milliseconds 
+ 
+Link rate is 1277.281 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.302135
+recieved 2nd PACKET at time 2016-05-18 19:35:40.307829
+0:00:00.005694
+Dispersion is 5.694 milliseconds 
+ 
+Link rate is 2006.322 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.344818
+recieved 2nd PACKET at time 2016-05-18 19:35:40.350259
+0:00:00.005441
+Dispersion is 5.441 milliseconds 
+ 
+Link rate is 2099.614 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.386186
+recieved 2nd PACKET at time 2016-05-18 19:35:40.397798
+0:00:00.011612
+Dispersion is 11.612 milliseconds 
+ 
+Link rate is 983.810 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.435264
+recieved 2nd PACKET at time 2016-05-18 19:35:40.443007
+0:00:00.007743
+Dispersion is 7.743 milliseconds 
+ 
+Link rate is 1475.397 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.477506
+recieved 2nd PACKET at time 2016-05-18 19:35:40.482870
+0:00:00.005364
+Dispersion is 5.364 milliseconds 
+ 
+Link rate is 2129.754 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.519110
+recieved 2nd PACKET at time 2016-05-18 19:35:40.524787
+0:00:00.005677
+Dispersion is 5.677 milliseconds 
+ 
+Link rate is 2012.330 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.563651
+recieved 2nd PACKET at time 2016-05-18 19:35:40.569497
+0:00:00.005846
+Dispersion is 5.846 milliseconds 
+ 
+Link rate is 1954.157 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.604844
+recieved 2nd PACKET at time 2016-05-18 19:35:40.614441
+0:00:00.009597
+Dispersion is 9.597 milliseconds 
+ 
+Link rate is 1190.372 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.653962
+recieved 2nd PACKET at time 2016-05-18 19:35:40.664566
+0:00:00.010604
+Dispersion is 10.604 milliseconds 
+ 
+Link rate is 1077.329 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.699629
+recieved 2nd PACKET at time 2016-05-18 19:35:40.705824
+0:00:00.006195
+Dispersion is 6.195 milliseconds 
+ 
+Link rate is 1844.068 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.742700
+recieved 2nd PACKET at time 2016-05-18 19:35:40.748332
+0:00:00.005632
+Dispersion is 5.632 milliseconds 
+ 
+Link rate is 2028.409 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.785858
+recieved 2nd PACKET at time 2016-05-18 19:35:40.807067
+0:00:00.021209
+Dispersion is 21.209 milliseconds 
+ 
+Link rate is 538.639 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.845774
+recieved 2nd PACKET at time 2016-05-18 19:35:40.851535
+0:00:00.005761
+Dispersion is 5.761 milliseconds 
+ 
+Link rate is 1982.989 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.887236
+recieved 2nd PACKET at time 2016-05-18 19:35:40.893885
+0:00:00.006649
+Dispersion is 6.649 milliseconds 
+ 
+Link rate is 1718.153 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.929861
+recieved 2nd PACKET at time 2016-05-18 19:35:40.935499
+0:00:00.005638
+Dispersion is 5.638 milliseconds 
+ 
+Link rate is 2026.250 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:40.972083
+recieved 2nd PACKET at time 2016-05-18 19:35:40.977863
+0:00:00.005780
+Dispersion is 5.780 milliseconds 
+ 
+Link rate is 1976.471 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.013704
+recieved 2nd PACKET at time 2016-05-18 19:35:41.023594
+0:00:00.009890
+Dispersion is 9.890 milliseconds 
+ 
+Link rate is 1155.106 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.063512
+recieved 2nd PACKET at time 2016-05-18 19:35:41.071300
+0:00:00.007788
+Dispersion is 7.788 milliseconds 
+ 
+Link rate is 1466.872 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.119173
+recieved 2nd PACKET at time 2016-05-18 19:35:41.125783
+0:00:00.006610
+Dispersion is 6.610 milliseconds 
+ 
+Link rate is 1728.290 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.165575
+recieved 2nd PACKET at time 2016-05-18 19:35:41.184645
+0:00:00.019070
+Dispersion is 19.070 milliseconds 
+ 
+Link rate is 599.056 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.223539
+recieved 2nd PACKET at time 2016-05-18 19:35:41.229508
+0:00:00.005969
+Dispersion is 5.969 milliseconds 
+ 
+Link rate is 1913.888 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.264029
+recieved 2nd PACKET at time 2016-05-18 19:35:41.269536
+0:00:00.005507
+Dispersion is 5.507 milliseconds 
+ 
+Link rate is 2074.451 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.308143
+recieved 2nd PACKET at time 2016-05-18 19:35:41.313633
+0:00:00.005490
+Dispersion is 5.490 milliseconds 
+ 
+Link rate is 2080.874 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.351438
+recieved 2nd PACKET at time 2016-05-18 19:35:41.357321
+0:00:00.005883
+Dispersion is 5.883 milliseconds 
+ 
+Link rate is 1941.866 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.395503
+recieved 2nd PACKET at time 2016-05-18 19:35:41.401176
+0:00:00.005673
+Dispersion is 5.673 milliseconds 
+ 
+Link rate is 2013.749 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.436307
+recieved 2nd PACKET at time 2016-05-18 19:35:41.442498
+0:00:00.006191
+Dispersion is 6.191 milliseconds 
+ 
+Link rate is 1845.259 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.478411
+recieved 2nd PACKET at time 2016-05-18 19:35:41.488049
+0:00:00.009638
+Dispersion is 9.638 milliseconds 
+ 
+Link rate is 1185.308 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.525494
+recieved 2nd PACKET at time 2016-05-18 19:35:41.531107
+0:00:00.005613
+Dispersion is 5.613 milliseconds 
+ 
+Link rate is 2035.275 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.567286
+recieved 2nd PACKET at time 2016-05-18 19:35:41.573102
+0:00:00.005816
+Dispersion is 5.816 milliseconds 
+ 
+Link rate is 1964.237 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.614928
+recieved 2nd PACKET at time 2016-05-18 19:35:41.620818
+0:00:00.005890
+Dispersion is 5.890 milliseconds 
+ 
+Link rate is 1939.559 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.662310
+recieved 2nd PACKET at time 2016-05-18 19:35:41.672285
+0:00:00.009975
+Dispersion is 9.975 milliseconds 
+ 
+Link rate is 1145.263 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.716488
+recieved 2nd PACKET at time 2016-05-18 19:35:41.722176
+0:00:00.005688
+Dispersion is 5.688 milliseconds 
+ 
+Link rate is 2008.439 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.760082
+recieved 2nd PACKET at time 2016-05-18 19:35:41.766069
+0:00:00.005987
+Dispersion is 5.987 milliseconds 
+ 
+Link rate is 1908.134 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.803959
+recieved 2nd PACKET at time 2016-05-18 19:35:41.827224
+0:00:00.023265
+Dispersion is 23.265 milliseconds 
+ 
+Link rate is 491.038 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.863301
+recieved 2nd PACKET at time 2016-05-18 19:35:41.869105
+0:00:00.005804
+Dispersion is 5.804 milliseconds 
+ 
+Link rate is 1968.298 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.907638
+recieved 2nd PACKET at time 2016-05-18 19:35:41.913649
+0:00:00.006011
+Dispersion is 6.011 milliseconds 
+ 
+Link rate is 1900.516 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.952166
+recieved 2nd PACKET at time 2016-05-18 19:35:41.958118
+0:00:00.005952
+Dispersion is 5.952 milliseconds 
+ 
+Link rate is 1919.355 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:41.996437
+recieved 2nd PACKET at time 2016-05-18 19:35:42.002748
+0:00:00.006311
+Dispersion is 6.311 milliseconds 
+ 
+Link rate is 1810.173 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.039831
+recieved 2nd PACKET at time 2016-05-18 19:35:42.046143
+0:00:00.006312
+Dispersion is 6.312 milliseconds 
+ 
+Link rate is 1809.886 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.086833
+recieved 2nd PACKET at time 2016-05-18 19:35:42.094863
+0:00:00.008030
+Dispersion is 8.030 milliseconds 
+ 
+Link rate is 1422.665 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.138117
+recieved 2nd PACKET at time 2016-05-18 19:35:42.143845
+0:00:00.005728
+Dispersion is 5.728 milliseconds 
+ 
+Link rate is 1994.413 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.185922
+recieved 2nd PACKET at time 2016-05-18 19:35:42.192199
+0:00:00.006277
+Dispersion is 6.277 milliseconds 
+ 
+Link rate is 1819.978 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.227994
+recieved 2nd PACKET at time 2016-05-18 19:35:42.233566
+0:00:00.005572
+Dispersion is 5.572 milliseconds 
+ 
+Link rate is 2050.251 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.271954
+recieved 2nd PACKET at time 2016-05-18 19:35:42.277752
+0:00:00.005798
+Dispersion is 5.798 milliseconds 
+ 
+Link rate is 1970.335 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.316128
+recieved 2nd PACKET at time 2016-05-18 19:35:42.322103
+0:00:00.005975
+Dispersion is 5.975 milliseconds 
+ 
+Link rate is 1911.967 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.361964
+recieved 2nd PACKET at time 2016-05-18 19:35:42.367792
+0:00:00.005828
+Dispersion is 5.828 milliseconds 
+ 
+Link rate is 1960.192 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.404650
+recieved 2nd PACKET at time 2016-05-18 19:35:42.410417
+0:00:00.005767
+Dispersion is 5.767 milliseconds 
+ 
+Link rate is 1980.926 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.447421
+recieved 2nd PACKET at time 2016-05-18 19:35:42.453624
+0:00:00.006203
+Dispersion is 6.203 milliseconds 
+ 
+Link rate is 1841.690 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.490847
+recieved 2nd PACKET at time 2016-05-18 19:35:42.496695
+0:00:00.005848
+Dispersion is 5.848 milliseconds 
+ 
+Link rate is 1953.488 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.531871
+recieved 2nd PACKET at time 2016-05-18 19:35:42.538053
+0:00:00.006182
+Dispersion is 6.182 milliseconds 
+ 
+Link rate is 1847.946 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.574081
+recieved 2nd PACKET at time 2016-05-18 19:35:42.579780
+0:00:00.005699
+Dispersion is 5.699 milliseconds 
+ 
+Link rate is 2004.562 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.615637
+recieved 2nd PACKET at time 2016-05-18 19:35:42.621879
+0:00:00.006242
+Dispersion is 6.242 milliseconds 
+ 
+Link rate is 1830.183 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.658087
+recieved 2nd PACKET at time 2016-05-18 19:35:42.663970
+0:00:00.005883
+Dispersion is 5.883 milliseconds 
+ 
+Link rate is 1941.866 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.700061
+recieved 2nd PACKET at time 2016-05-18 19:35:42.706400
+0:00:00.006339
+Dispersion is 6.339 milliseconds 
+ 
+Link rate is 1802.177 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.743272
+recieved 2nd PACKET at time 2016-05-18 19:35:42.751344
+0:00:00.008072
+Dispersion is 8.072 milliseconds 
+ 
+Link rate is 1415.263 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.790360
+recieved 2nd PACKET at time 2016-05-18 19:35:42.800108
+0:00:00.009748
+Dispersion is 9.748 milliseconds 
+ 
+Link rate is 1171.933 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.839167
+recieved 2nd PACKET at time 2016-05-18 19:35:42.849326
+0:00:00.010159
+Dispersion is 10.159 milliseconds 
+ 
+Link rate is 1124.520 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.886911
+recieved 2nd PACKET at time 2016-05-18 19:35:42.892763
+0:00:00.005852
+Dispersion is 5.852 milliseconds 
+ 
+Link rate is 1952.153 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.929700
+recieved 2nd PACKET at time 2016-05-18 19:35:42.935994
+0:00:00.006294
+Dispersion is 6.294 milliseconds 
+ 
+Link rate is 1815.062 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:42.973474
+recieved 2nd PACKET at time 2016-05-18 19:35:42.983339
+0:00:00.009865
+Dispersion is 9.865 milliseconds 
+ 
+Link rate is 1158.033 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:43.020874
+recieved 2nd PACKET at time 2016-05-18 19:35:43.027327
+0:00:00.006453
+Dispersion is 6.453 milliseconds 
+ 
+Link rate is 1770.339 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:43.080888
+recieved 2nd PACKET at time 2016-05-18 19:35:43.105642
+0:00:00.024754
+Dispersion is 24.754 milliseconds 
+ 
+Link rate is 461.501 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:43.145656
+recieved 2nd PACKET at time 2016-05-18 19:35:43.152863
+0:00:00.007207
+Dispersion is 7.207 milliseconds 
+ 
+Link rate is 1585.126 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:43.340498
+recieved 2nd PACKET at time 2016-05-18 19:35:43.365361
+0:00:00.024863
+Dispersion is 24.863 milliseconds 
+ 
+Link rate is 459.478 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:43.497951
+recieved 2nd PACKET at time 2016-05-18 19:35:43.507705
+0:00:00.009754
+Dispersion is 9.754 milliseconds 
+ 
+Link rate is 1171.212 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:43.544171
+recieved 2nd PACKET at time 2016-05-18 19:35:43.558612
+0:00:00.014441
+Dispersion is 14.441 milliseconds 
+ 
+Link rate is 791.081 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:43.602450
+recieved 2nd PACKET at time 2016-05-18 19:35:43.608370
+0:00:00.005920
+Dispersion is 5.920 milliseconds 
+ 
+Link rate is 1929.730 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:43.647087
+recieved 2nd PACKET at time 2016-05-18 19:35:43.653272
+0:00:00.006185
+Dispersion is 6.185 milliseconds 
+ 
+Link rate is 1847.049 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:43.692339
+recieved 2nd PACKET at time 2016-05-18 19:35:43.698609
+0:00:00.006270
+Dispersion is 6.270 milliseconds 
+ 
+Link rate is 1822.010 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:43.735788
+recieved 2nd PACKET at time 2016-05-18 19:35:43.742084
+0:00:00.006296
+Dispersion is 6.296 milliseconds 
+ 
+Link rate is 1814.485 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:43.778348
+recieved 2nd PACKET at time 2016-05-18 19:35:43.784390
+0:00:00.006042
+Dispersion is 6.042 milliseconds 
+ 
+Link rate is 1890.765 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:43.821778
+recieved 2nd PACKET at time 2016-05-18 19:35:43.841059
+0:00:00.019281
+Dispersion is 19.281 milliseconds 
+ 
+Link rate is 592.500 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:43.889643
+recieved 2nd PACKET at time 2016-05-18 19:35:43.895745
+0:00:00.006102
+Dispersion is 6.102 milliseconds 
+ 
+Link rate is 1872.173 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:43.967594
+recieved 2nd PACKET at time 2016-05-18 19:35:43.974191
+0:00:00.006597
+Dispersion is 6.597 milliseconds 
+ 
+Link rate is 1731.696 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.021799
+recieved 2nd PACKET at time 2016-05-18 19:35:44.029490
+0:00:00.007691
+Dispersion is 7.691 milliseconds 
+ 
+Link rate is 1485.373 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.103480
+recieved 2nd PACKET at time 2016-05-18 19:35:44.109875
+0:00:00.006395
+Dispersion is 6.395 milliseconds 
+ 
+Link rate is 1786.396 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.167683
+recieved 2nd PACKET at time 2016-05-18 19:35:44.173927
+0:00:00.006244
+Dispersion is 6.244 milliseconds 
+ 
+Link rate is 1829.596 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.229618
+recieved 2nd PACKET at time 2016-05-18 19:35:44.236042
+0:00:00.006424
+Dispersion is 6.424 milliseconds 
+ 
+Link rate is 1778.331 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.275554
+recieved 2nd PACKET at time 2016-05-18 19:35:44.281603
+0:00:00.006049
+Dispersion is 6.049 milliseconds 
+ 
+Link rate is 1888.577 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.318936
+recieved 2nd PACKET at time 2016-05-18 19:35:44.328595
+0:00:00.009659
+Dispersion is 9.659 milliseconds 
+ 
+Link rate is 1182.731 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.374195
+recieved 2nd PACKET at time 2016-05-18 19:35:44.380590
+0:00:00.006395
+Dispersion is 6.395 milliseconds 
+ 
+Link rate is 1786.396 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.421577
+recieved 2nd PACKET at time 2016-05-18 19:35:44.427174
+0:00:00.005597
+Dispersion is 5.597 milliseconds 
+ 
+Link rate is 2041.093 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.466028
+recieved 2nd PACKET at time 2016-05-18 19:35:44.472473
+0:00:00.006445
+Dispersion is 6.445 milliseconds 
+ 
+Link rate is 1772.537 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.510162
+recieved 2nd PACKET at time 2016-05-18 19:35:44.516428
+0:00:00.006266
+Dispersion is 6.266 milliseconds 
+ 
+Link rate is 1823.173 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.556655
+recieved 2nd PACKET at time 2016-05-18 19:35:44.562587
+0:00:00.005932
+Dispersion is 5.932 milliseconds 
+ 
+Link rate is 1925.826 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.600610
+recieved 2nd PACKET at time 2016-05-18 19:35:44.607284
+0:00:00.006674
+Dispersion is 6.674 milliseconds 
+ 
+Link rate is 1711.717 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.644347
+recieved 2nd PACKET at time 2016-05-18 19:35:44.650485
+0:00:00.006138
+Dispersion is 6.138 milliseconds 
+ 
+Link rate is 1861.193 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.686932
+recieved 2nd PACKET at time 2016-05-18 19:35:44.697367
+0:00:00.010435
+Dispersion is 10.435 milliseconds 
+ 
+Link rate is 1094.777 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.742365
+recieved 2nd PACKET at time 2016-05-18 19:35:44.749138
+0:00:00.006773
+Dispersion is 6.773 milliseconds 
+ 
+Link rate is 1686.697 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.789769
+recieved 2nd PACKET at time 2016-05-18 19:35:44.796231
+0:00:00.006462
+Dispersion is 6.462 milliseconds 
+ 
+Link rate is 1767.874 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.846890
+recieved 2nd PACKET at time 2016-05-18 19:35:44.852871
+0:00:00.005981
+Dispersion is 5.981 milliseconds 
+ 
+Link rate is 1910.048 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.892561
+recieved 2nd PACKET at time 2016-05-18 19:35:44.898837
+0:00:00.006276
+Dispersion is 6.276 milliseconds 
+ 
+Link rate is 1820.268 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.942708
+recieved 2nd PACKET at time 2016-05-18 19:35:44.950551
+0:00:00.007843
+Dispersion is 7.843 milliseconds 
+ 
+Link rate is 1456.585 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:44.987886
+recieved 2nd PACKET at time 2016-05-18 19:35:44.994470
+0:00:00.006584
+Dispersion is 6.584 milliseconds 
+ 
+Link rate is 1735.115 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.037629
+recieved 2nd PACKET at time 2016-05-18 19:35:45.053046
+0:00:00.015417
+Dispersion is 15.417 milliseconds 
+ 
+Link rate is 741.000 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.097206
+recieved 2nd PACKET at time 2016-05-18 19:35:45.105507
+0:00:00.008301
+Dispersion is 8.301 milliseconds 
+ 
+Link rate is 1376.220 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.152030
+recieved 2nd PACKET at time 2016-05-18 19:35:45.159509
+0:00:00.007479
+Dispersion is 7.479 milliseconds 
+ 
+Link rate is 1527.477 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.203982
+recieved 2nd PACKET at time 2016-05-18 19:35:45.210517
+0:00:00.006535
+Dispersion is 6.535 milliseconds 
+ 
+Link rate is 1748.125 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.247191
+recieved 2nd PACKET at time 2016-05-18 19:35:45.255434
+0:00:00.008243
+Dispersion is 8.243 milliseconds 
+ 
+Link rate is 1385.903 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.298634
+recieved 2nd PACKET at time 2016-05-18 19:35:45.309804
+0:00:00.011170
+Dispersion is 11.170 milliseconds 
+ 
+Link rate is 1022.739 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.350506
+recieved 2nd PACKET at time 2016-05-18 19:35:45.356909
+0:00:00.006403
+Dispersion is 6.403 milliseconds 
+ 
+Link rate is 1784.164 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.399371
+recieved 2nd PACKET at time 2016-05-18 19:35:45.405932
+0:00:00.006561
+Dispersion is 6.561 milliseconds 
+ 
+Link rate is 1741.198 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.453452
+recieved 2nd PACKET at time 2016-05-18 19:35:45.465432
+0:00:00.011980
+Dispersion is 11.980 milliseconds 
+ 
+Link rate is 953.589 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.518639
+recieved 2nd PACKET at time 2016-05-18 19:35:45.525275
+0:00:00.006636
+Dispersion is 6.636 milliseconds 
+ 
+Link rate is 1721.519 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.572335
+recieved 2nd PACKET at time 2016-05-18 19:35:45.583938
+0:00:00.011603
+Dispersion is 11.603 milliseconds 
+ 
+Link rate is 984.573 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.627573
+recieved 2nd PACKET at time 2016-05-18 19:35:45.633838
+0:00:00.006265
+Dispersion is 6.265 milliseconds 
+ 
+Link rate is 1823.464 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.671692
+recieved 2nd PACKET at time 2016-05-18 19:35:45.682376
+0:00:00.010684
+Dispersion is 10.684 milliseconds 
+ 
+Link rate is 1069.262 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.726932
+recieved 2nd PACKET at time 2016-05-18 19:35:45.737990
+0:00:00.011058
+Dispersion is 11.058 milliseconds 
+ 
+Link rate is 1033.098 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.773944
+recieved 2nd PACKET at time 2016-05-18 19:35:45.784796
+0:00:00.010852
+Dispersion is 10.852 milliseconds 
+ 
+Link rate is 1052.709 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.825604
+recieved 2nd PACKET at time 2016-05-18 19:35:45.831377
+0:00:00.005773
+Dispersion is 5.773 milliseconds 
+ 
+Link rate is 1978.867 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:45.870032
+recieved 2nd PACKET at time 2016-05-18 19:35:45.876657
+0:00:00.006625
+Dispersion is 6.625 milliseconds 
+ 
+Link rate is 1724.377 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.053780
+recieved 2nd PACKET at time 2016-05-18 19:35:46.075234
+0:00:00.021454
+Dispersion is 21.454 milliseconds 
+ 
+Link rate is 532.488 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.149685
+recieved 2nd PACKET at time 2016-05-18 19:35:46.165044
+0:00:00.015359
+Dispersion is 15.359 milliseconds 
+ 
+Link rate is 743.798 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.206471
+recieved 2nd PACKET at time 2016-05-18 19:35:46.217173
+0:00:00.010702
+Dispersion is 10.702 milliseconds 
+ 
+Link rate is 1067.464 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.257640
+recieved 2nd PACKET at time 2016-05-18 19:35:46.278468
+0:00:00.020828
+Dispersion is 20.828 milliseconds 
+ 
+Link rate is 548.492 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.319269
+recieved 2nd PACKET at time 2016-05-18 19:35:46.329981
+0:00:00.010712
+Dispersion is 10.712 milliseconds 
+ 
+Link rate is 1066.468 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.368399
+recieved 2nd PACKET at time 2016-05-18 19:35:46.379264
+0:00:00.010865
+Dispersion is 10.865 milliseconds 
+ 
+Link rate is 1051.450 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.419779
+recieved 2nd PACKET at time 2016-05-18 19:35:46.426898
+0:00:00.007119
+Dispersion is 7.119 milliseconds 
+ 
+Link rate is 1604.720 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.469798
+recieved 2nd PACKET at time 2016-05-18 19:35:46.481144
+0:00:00.011346
+Dispersion is 11.346 milliseconds 
+ 
+Link rate is 1006.875 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.529391
+recieved 2nd PACKET at time 2016-05-18 19:35:46.536124
+0:00:00.006733
+Dispersion is 6.733 milliseconds 
+ 
+Link rate is 1696.718 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.586975
+recieved 2nd PACKET at time 2016-05-18 19:35:46.593429
+0:00:00.006454
+Dispersion is 6.454 milliseconds 
+ 
+Link rate is 1770.065 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.637367
+recieved 2nd PACKET at time 2016-05-18 19:35:46.643801
+0:00:00.006434
+Dispersion is 6.434 milliseconds 
+ 
+Link rate is 1775.567 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.686298
+recieved 2nd PACKET at time 2016-05-18 19:35:46.693908
+0:00:00.007610
+Dispersion is 7.610 milliseconds 
+ 
+Link rate is 1501.183 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.734780
+recieved 2nd PACKET at time 2016-05-18 19:35:46.741341
+0:00:00.006561
+Dispersion is 6.561 milliseconds 
+ 
+Link rate is 1741.198 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.786295
+recieved 2nd PACKET at time 2016-05-18 19:35:46.792909
+0:00:00.006614
+Dispersion is 6.614 milliseconds 
+ 
+Link rate is 1727.245 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.836746
+recieved 2nd PACKET at time 2016-05-18 19:35:46.843333
+0:00:00.006587
+Dispersion is 6.587 milliseconds 
+ 
+Link rate is 1734.325 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.887580
+recieved 2nd PACKET at time 2016-05-18 19:35:46.894136
+0:00:00.006556
+Dispersion is 6.556 milliseconds 
+ 
+Link rate is 1742.526 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.945762
+recieved 2nd PACKET at time 2016-05-18 19:35:46.958211
+0:00:00.012449
+Dispersion is 12.449 milliseconds 
+ 
+Link rate is 917.664 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:46.995897
+recieved 2nd PACKET at time 2016-05-18 19:35:47.002221
+0:00:00.006324
+Dispersion is 6.324 milliseconds 
+ 
+Link rate is 1806.452 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.040397
+recieved 2nd PACKET at time 2016-05-18 19:35:47.047576
+0:00:00.007179
+Dispersion is 7.179 milliseconds 
+ 
+Link rate is 1591.308 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.088235
+recieved 2nd PACKET at time 2016-05-18 19:35:47.097826
+0:00:00.009591
+Dispersion is 9.591 milliseconds 
+ 
+Link rate is 1191.117 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.145741
+recieved 2nd PACKET at time 2016-05-18 19:35:47.152530
+0:00:00.006789
+Dispersion is 6.789 milliseconds 
+ 
+Link rate is 1682.722 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.192471
+recieved 2nd PACKET at time 2016-05-18 19:35:47.199695
+0:00:00.007224
+Dispersion is 7.224 milliseconds 
+ 
+Link rate is 1581.395 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.238273
+recieved 2nd PACKET at time 2016-05-18 19:35:47.245242
+0:00:00.006969
+Dispersion is 6.969 milliseconds 
+ 
+Link rate is 1639.260 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.282578
+recieved 2nd PACKET at time 2016-05-18 19:35:47.293719
+0:00:00.011141
+Dispersion is 11.141 milliseconds 
+ 
+Link rate is 1025.402 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.331615
+recieved 2nd PACKET at time 2016-05-18 19:35:47.338309
+0:00:00.006694
+Dispersion is 6.694 milliseconds 
+ 
+Link rate is 1706.603 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.378147
+recieved 2nd PACKET at time 2016-05-18 19:35:47.390361
+0:00:00.012214
+Dispersion is 12.214 milliseconds 
+ 
+Link rate is 935.320 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.429918
+recieved 2nd PACKET at time 2016-05-18 19:35:47.436773
+0:00:00.006855
+Dispersion is 6.855 milliseconds 
+ 
+Link rate is 1666.521 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.474036
+recieved 2nd PACKET at time 2016-05-18 19:35:47.480161
+0:00:00.006125
+Dispersion is 6.125 milliseconds 
+ 
+Link rate is 1865.143 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.522098
+recieved 2nd PACKET at time 2016-05-18 19:35:47.532429
+0:00:00.010331
+Dispersion is 10.331 milliseconds 
+ 
+Link rate is 1105.798 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.569928
+recieved 2nd PACKET at time 2016-05-18 19:35:47.577121
+0:00:00.007193
+Dispersion is 7.193 milliseconds 
+ 
+Link rate is 1588.211 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.613978
+recieved 2nd PACKET at time 2016-05-18 19:35:47.625450
+0:00:00.011472
+Dispersion is 11.472 milliseconds 
+ 
+Link rate is 995.816 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.665578
+recieved 2nd PACKET at time 2016-05-18 19:35:47.671661
+0:00:00.006083
+Dispersion is 6.083 milliseconds 
+ 
+Link rate is 1878.021 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.709494
+recieved 2nd PACKET at time 2016-05-18 19:35:47.717432
+0:00:00.007938
+Dispersion is 7.938 milliseconds 
+ 
+Link rate is 1439.153 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.754490
+recieved 2nd PACKET at time 2016-05-18 19:35:47.761509
+0:00:00.007019
+Dispersion is 7.019 milliseconds 
+ 
+Link rate is 1627.582 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.795552
+recieved 2nd PACKET at time 2016-05-18 19:35:47.802411
+0:00:00.006859
+Dispersion is 6.859 milliseconds 
+ 
+Link rate is 1665.549 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.842939
+recieved 2nd PACKET at time 2016-05-18 19:35:47.856085
+0:00:00.013146
+Dispersion is 13.146 milliseconds 
+ 
+Link rate is 869.010 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.893461
+recieved 2nd PACKET at time 2016-05-18 19:35:47.899637
+0:00:00.006176
+Dispersion is 6.176 milliseconds 
+ 
+Link rate is 1849.741 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.937457
+recieved 2nd PACKET at time 2016-05-18 19:35:47.944560
+0:00:00.007103
+Dispersion is 7.103 milliseconds 
+ 
+Link rate is 1608.335 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:47.984799
+recieved 2nd PACKET at time 2016-05-18 19:35:47.991305
+0:00:00.006506
+Dispersion is 6.506 milliseconds 
+ 
+Link rate is 1755.918 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.030211
+recieved 2nd PACKET at time 2016-05-18 19:35:48.037598
+0:00:00.007387
+Dispersion is 7.387 milliseconds 
+ 
+Link rate is 1546.501 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.081535
+recieved 2nd PACKET at time 2016-05-18 19:35:48.096880
+0:00:00.015345
+Dispersion is 15.345 milliseconds 
+ 
+Link rate is 744.477 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.141916
+recieved 2nd PACKET at time 2016-05-18 19:35:48.151561
+0:00:00.009645
+Dispersion is 9.645 milliseconds 
+ 
+Link rate is 1184.448 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.195484
+recieved 2nd PACKET at time 2016-05-18 19:35:48.202143
+0:00:00.006659
+Dispersion is 6.659 milliseconds 
+ 
+Link rate is 1715.573 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.241361
+recieved 2nd PACKET at time 2016-05-18 19:35:48.247403
+0:00:00.006042
+Dispersion is 6.042 milliseconds 
+ 
+Link rate is 1890.765 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.285833
+recieved 2nd PACKET at time 2016-05-18 19:35:48.292663
+0:00:00.006830
+Dispersion is 6.830 milliseconds 
+ 
+Link rate is 1672.621 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.327069
+recieved 2nd PACKET at time 2016-05-18 19:35:48.334033
+0:00:00.006964
+Dispersion is 6.964 milliseconds 
+ 
+Link rate is 1640.437 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.368641
+recieved 2nd PACKET at time 2016-05-18 19:35:48.375382
+0:00:00.006741
+Dispersion is 6.741 milliseconds 
+ 
+Link rate is 1694.704 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.413972
+recieved 2nd PACKET at time 2016-05-18 19:35:48.420520
+0:00:00.006548
+Dispersion is 6.548 milliseconds 
+ 
+Link rate is 1744.655 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.458301
+recieved 2nd PACKET at time 2016-05-18 19:35:48.465126
+0:00:00.006825
+Dispersion is 6.825 milliseconds 
+ 
+Link rate is 1673.846 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.505630
+recieved 2nd PACKET at time 2016-05-18 19:35:48.512603
+0:00:00.006973
+Dispersion is 6.973 milliseconds 
+ 
+Link rate is 1638.319 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.550749
+recieved 2nd PACKET at time 2016-05-18 19:35:48.574132
+0:00:00.023383
+Dispersion is 23.383 milliseconds 
+ 
+Link rate is 488.560 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.612430
+recieved 2nd PACKET at time 2016-05-18 19:35:48.624893
+0:00:00.012463
+Dispersion is 12.463 milliseconds 
+ 
+Link rate is 916.633 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.666159
+recieved 2nd PACKET at time 2016-05-18 19:35:48.676650
+0:00:00.010491
+Dispersion is 10.491 milliseconds 
+ 
+Link rate is 1088.933 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.714950
+recieved 2nd PACKET at time 2016-05-18 19:35:48.726766
+0:00:00.011816
+Dispersion is 11.816 milliseconds 
+ 
+Link rate is 966.825 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.765558
+recieved 2nd PACKET at time 2016-05-18 19:35:48.771929
+0:00:00.006371
+Dispersion is 6.371 milliseconds 
+ 
+Link rate is 1793.125 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.808158
+recieved 2nd PACKET at time 2016-05-18 19:35:48.814468
+0:00:00.006310
+Dispersion is 6.310 milliseconds 
+ 
+Link rate is 1810.460 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.854283
+recieved 2nd PACKET at time 2016-05-18 19:35:48.861139
+0:00:00.006856
+Dispersion is 6.856 milliseconds 
+ 
+Link rate is 1666.278 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.898264
+recieved 2nd PACKET at time 2016-05-18 19:35:48.905308
+0:00:00.007044
+Dispersion is 7.044 milliseconds 
+ 
+Link rate is 1621.806 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.944595
+recieved 2nd PACKET at time 2016-05-18 19:35:48.957302
+0:00:00.012707
+Dispersion is 12.707 milliseconds 
+ 
+Link rate is 899.032 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:48.994480
+recieved 2nd PACKET at time 2016-05-18 19:35:49.011975
+0:00:00.017495
+Dispersion is 17.495 milliseconds 
+ 
+Link rate is 652.987 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.052746
+recieved 2nd PACKET at time 2016-05-18 19:35:49.060563
+0:00:00.007817
+Dispersion is 7.817 milliseconds 
+ 
+Link rate is 1461.430 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.107714
+recieved 2nd PACKET at time 2016-05-18 19:35:49.135423
+0:00:00.027709
+Dispersion is 27.709 milliseconds 
+ 
+Link rate is 412.285 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.181997
+recieved 2nd PACKET at time 2016-05-18 19:35:49.193700
+0:00:00.011703
+Dispersion is 11.703 milliseconds 
+ 
+Link rate is 976.160 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.228315
+recieved 2nd PACKET at time 2016-05-18 19:35:49.235595
+0:00:00.007280
+Dispersion is 7.280 milliseconds 
+ 
+Link rate is 1569.231 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.279277
+recieved 2nd PACKET at time 2016-05-18 19:35:49.285977
+0:00:00.006700
+Dispersion is 6.700 milliseconds 
+ 
+Link rate is 1705.075 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.321938
+recieved 2nd PACKET at time 2016-05-18 19:35:49.328727
+0:00:00.006789
+Dispersion is 6.789 milliseconds 
+ 
+Link rate is 1682.722 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.369716
+recieved 2nd PACKET at time 2016-05-18 19:35:49.376680
+0:00:00.006964
+Dispersion is 6.964 milliseconds 
+ 
+Link rate is 1640.437 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.429407
+recieved 2nd PACKET at time 2016-05-18 19:35:49.436331
+0:00:00.006924
+Dispersion is 6.924 milliseconds 
+ 
+Link rate is 1649.913 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.477513
+recieved 2nd PACKET at time 2016-05-18 19:35:49.484708
+0:00:00.007195
+Dispersion is 7.195 milliseconds 
+ 
+Link rate is 1587.769 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.525923
+recieved 2nd PACKET at time 2016-05-18 19:35:49.533235
+0:00:00.007312
+Dispersion is 7.312 milliseconds 
+ 
+Link rate is 1562.363 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.576563
+recieved 2nd PACKET at time 2016-05-18 19:35:49.589137
+0:00:00.012574
+Dispersion is 12.574 milliseconds 
+ 
+Link rate is 908.541 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.625490
+recieved 2nd PACKET at time 2016-05-18 19:35:49.631895
+0:00:00.006405
+Dispersion is 6.405 milliseconds 
+ 
+Link rate is 1783.607 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.672758
+recieved 2nd PACKET at time 2016-05-18 19:35:49.679757
+0:00:00.006999
+Dispersion is 6.999 milliseconds 
+ 
+Link rate is 1632.233 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.718541
+recieved 2nd PACKET at time 2016-05-18 19:35:49.725755
+0:00:00.007214
+Dispersion is 7.214 milliseconds 
+ 
+Link rate is 1583.587 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.763973
+recieved 2nd PACKET at time 2016-05-18 19:35:49.776319
+0:00:00.012346
+Dispersion is 12.346 milliseconds 
+ 
+Link rate is 925.320 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.814406
+recieved 2nd PACKET at time 2016-05-18 19:35:49.824055
+0:00:00.009649
+Dispersion is 9.649 milliseconds 
+ 
+Link rate is 1183.957 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.863651
+recieved 2nd PACKET at time 2016-05-18 19:35:49.877726
+0:00:00.014075
+Dispersion is 14.075 milliseconds 
+ 
+Link rate is 811.652 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.913632
+recieved 2nd PACKET at time 2016-05-18 19:35:49.921158
+0:00:00.007526
+Dispersion is 7.526 milliseconds 
+ 
+Link rate is 1517.938 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:49.956285
+recieved 2nd PACKET at time 2016-05-18 19:35:49.963303
+0:00:00.007018
+Dispersion is 7.018 milliseconds 
+ 
+Link rate is 1627.814 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.004355
+recieved 2nd PACKET at time 2016-05-18 19:35:50.012472
+0:00:00.008117
+Dispersion is 8.117 milliseconds 
+ 
+Link rate is 1407.417 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.055048
+recieved 2nd PACKET at time 2016-05-18 19:35:50.065554
+0:00:00.010506
+Dispersion is 10.506 milliseconds 
+ 
+Link rate is 1087.379 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.108868
+recieved 2nd PACKET at time 2016-05-18 19:35:50.115753
+0:00:00.006885
+Dispersion is 6.885 milliseconds 
+ 
+Link rate is 1659.259 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.157738
+recieved 2nd PACKET at time 2016-05-18 19:35:50.165667
+0:00:00.007929
+Dispersion is 7.929 milliseconds 
+ 
+Link rate is 1440.787 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.203714
+recieved 2nd PACKET at time 2016-05-18 19:35:50.210901
+0:00:00.007187
+Dispersion is 7.187 milliseconds 
+ 
+Link rate is 1589.537 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.249746
+recieved 2nd PACKET at time 2016-05-18 19:35:50.257275
+0:00:00.007529
+Dispersion is 7.529 milliseconds 
+ 
+Link rate is 1517.333 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.295694
+recieved 2nd PACKET at time 2016-05-18 19:35:50.303024
+0:00:00.007330
+Dispersion is 7.330 milliseconds 
+ 
+Link rate is 1558.527 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.344902
+recieved 2nd PACKET at time 2016-05-18 19:35:50.352581
+0:00:00.007679
+Dispersion is 7.679 milliseconds 
+ 
+Link rate is 1487.694 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.393690
+recieved 2nd PACKET at time 2016-05-18 19:35:50.401367
+0:00:00.007677
+Dispersion is 7.677 milliseconds 
+ 
+Link rate is 1488.081 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.439637
+recieved 2nd PACKET at time 2016-05-18 19:35:50.447103
+0:00:00.007466
+Dispersion is 7.466 milliseconds 
+ 
+Link rate is 1530.137 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.486831
+recieved 2nd PACKET at time 2016-05-18 19:35:50.499289
+0:00:00.012458
+Dispersion is 12.458 milliseconds 
+ 
+Link rate is 917.001 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.536778
+recieved 2nd PACKET at time 2016-05-18 19:35:50.545338
+0:00:00.008560
+Dispersion is 8.560 milliseconds 
+ 
+Link rate is 1334.579 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.587456
+recieved 2nd PACKET at time 2016-05-18 19:35:50.599919
+0:00:00.012463
+Dispersion is 12.463 milliseconds 
+ 
+Link rate is 916.633 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.639726
+recieved 2nd PACKET at time 2016-05-18 19:35:50.646893
+0:00:00.007167
+Dispersion is 7.167 milliseconds 
+ 
+Link rate is 1593.972 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.685668
+recieved 2nd PACKET at time 2016-05-18 19:35:50.697571
+0:00:00.011903
+Dispersion is 11.903 milliseconds 
+ 
+Link rate is 959.758 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.732355
+recieved 2nd PACKET at time 2016-05-18 19:35:50.739612
+0:00:00.007257
+Dispersion is 7.257 milliseconds 
+ 
+Link rate is 1574.204 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.779811
+recieved 2nd PACKET at time 2016-05-18 19:35:50.787200
+0:00:00.007389
+Dispersion is 7.389 milliseconds 
+ 
+Link rate is 1546.082 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.828571
+recieved 2nd PACKET at time 2016-05-18 19:35:50.835367
+0:00:00.006796
+Dispersion is 6.796 milliseconds 
+ 
+Link rate is 1680.989 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.877450
+recieved 2nd PACKET at time 2016-05-18 19:35:50.884149
+0:00:00.006699
+Dispersion is 6.699 milliseconds 
+ 
+Link rate is 1705.329 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.925362
+recieved 2nd PACKET at time 2016-05-18 19:35:50.933367
+0:00:00.008005
+Dispersion is 8.005 milliseconds 
+ 
+Link rate is 1427.108 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:50.971242
+recieved 2nd PACKET at time 2016-05-18 19:35:50.978515
+0:00:00.007273
+Dispersion is 7.273 milliseconds 
+ 
+Link rate is 1570.741 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.017236
+recieved 2nd PACKET at time 2016-05-18 19:35:51.025193
+0:00:00.007957
+Dispersion is 7.957 milliseconds 
+ 
+Link rate is 1435.717 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.066321
+recieved 2nd PACKET at time 2016-05-18 19:35:51.083040
+0:00:00.016719
+Dispersion is 16.719 milliseconds 
+ 
+Link rate is 683.294 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.128471
+recieved 2nd PACKET at time 2016-05-18 19:35:51.137785
+0:00:00.009314
+Dispersion is 9.314 milliseconds 
+ 
+Link rate is 1226.541 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.179379
+recieved 2nd PACKET at time 2016-05-18 19:35:51.203000
+0:00:00.023621
+Dispersion is 23.621 milliseconds 
+ 
+Link rate is 483.637 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.242193
+recieved 2nd PACKET at time 2016-05-18 19:35:51.249532
+0:00:00.007339
+Dispersion is 7.339 milliseconds 
+ 
+Link rate is 1556.615 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.294207
+recieved 2nd PACKET at time 2016-05-18 19:35:51.305301
+0:00:00.011094
+Dispersion is 11.094 milliseconds 
+ 
+Link rate is 1029.746 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.341463
+recieved 2nd PACKET at time 2016-05-18 19:35:51.348987
+0:00:00.007524
+Dispersion is 7.524 milliseconds 
+ 
+Link rate is 1518.341 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.388613
+recieved 2nd PACKET at time 2016-05-18 19:35:51.396402
+0:00:00.007789
+Dispersion is 7.789 milliseconds 
+ 
+Link rate is 1466.684 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.437450
+recieved 2nd PACKET at time 2016-05-18 19:35:51.444569
+0:00:00.007119
+Dispersion is 7.119 milliseconds 
+ 
+Link rate is 1604.720 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.482439
+recieved 2nd PACKET at time 2016-05-18 19:35:51.490065
+0:00:00.007626
+Dispersion is 7.626 milliseconds 
+ 
+Link rate is 1498.033 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.529660
+recieved 2nd PACKET at time 2016-05-18 19:35:51.543161
+0:00:00.013501
+Dispersion is 13.501 milliseconds 
+ 
+Link rate is 846.160 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.601693
+recieved 2nd PACKET at time 2016-05-18 19:35:51.614092
+0:00:00.012399
+Dispersion is 12.399 milliseconds 
+ 
+Link rate is 921.365 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.670977
+recieved 2nd PACKET at time 2016-05-18 19:35:51.678422
+0:00:00.007445
+Dispersion is 7.445 milliseconds 
+ 
+Link rate is 1534.453 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.786466
+recieved 2nd PACKET at time 2016-05-18 19:35:51.844506
+0:00:00.058040
+Dispersion is 58.040 milliseconds 
+ 
+Link rate is 196.830 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.893800
+recieved 2nd PACKET at time 2016-05-18 19:35:51.907752
+0:00:00.013952
+Dispersion is 13.952 milliseconds 
+ 
+Link rate is 818.807 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.944597
+recieved 2nd PACKET at time 2016-05-18 19:35:51.953343
+0:00:00.008746
+Dispersion is 8.746 milliseconds 
+ 
+Link rate is 1306.197 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:51.994285
+recieved 2nd PACKET at time 2016-05-18 19:35:52.001976
+0:00:00.007691
+Dispersion is 7.691 milliseconds 
+ 
+Link rate is 1485.373 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:52.041883
+recieved 2nd PACKET at time 2016-05-18 19:35:52.049810
+0:00:00.007927
+Dispersion is 7.927 milliseconds 
+ 
+Link rate is 1441.150 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:52.097835
+recieved 2nd PACKET at time 2016-05-18 19:35:52.105706
+0:00:00.007871
+Dispersion is 7.871 milliseconds 
+ 
+Link rate is 1451.404 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:52.151753
+recieved 2nd PACKET at time 2016-05-18 19:35:52.159223
+0:00:00.007470
+Dispersion is 7.470 milliseconds 
+ 
+Link rate is 1529.317 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:52.195371
+recieved 2nd PACKET at time 2016-05-18 19:35:52.202813
+0:00:00.007442
+Dispersion is 7.442 milliseconds 
+ 
+Link rate is 1535.071 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:52.241882
+recieved 2nd PACKET at time 2016-05-18 19:35:52.249284
+0:00:00.007402
+Dispersion is 7.402 milliseconds 
+ 
+Link rate is 1543.367 Kbps
+recieved 1st PACKET at time 2016-05-18 19:35:52.293915
+recieved 2nd PACKET at time 2016-05-18 19:35:52.306815
+0:00:00.012900
+Dispersion is 12.900 milliseconds 
+ 
+Link rate is 885.581 Kbps
