@@ -6,10 +6,11 @@ System Requirements:
 1.Linux OS (Code will not work in Windows OS)
 2.Python 2.7 or above
 3.Python libraries of socket, datetime, matplotlib and numpy are installed
-4.Working internet connection
+4.Working internet connection :)
 The log file generated is Results1.txt. it is in the same folder as the code. In case the program errors out, the log file can be checked.
 USAGE: python client.py HOSTNAME PORT
 HOSTNAME can either be like abc.def.ghi.com or in the form of IP V4 address. DO NOT USE IP V6 address!
+KNOWN BUG: SOMETIMES IF IP ADDRESS IS ENTERED INSTEAD
 """
 
 
@@ -60,7 +61,7 @@ try:
 	try:
 		s.sendto('TEST',(target_host,target_port))		
 	except Exception, e:
-		print 'Cannot send test data. Please check connection.'
+		print 'Cannot send test data. Please check connection. Also check if correct hostname and port was provided.'
 		alert(e)
 	try:
 		data0 = s.recvfrom(buffer_size)
@@ -68,11 +69,11 @@ try:
 	except socket.error, socket.timeout:
 		print 'Unable to establish connection. Please check the port address. Exiting now..'
 		sys.exit(1)
-#"""In python if we multiply a string or a character with a number, that string will be repeated those many times.Hence we multiply a single character with the packet size."""
+#In python if we multiply a string or a character with a number, that string will be repeated those many times.Hence we multiply a single character with the packet size.
 	a= 'A'*(buffer_size)
 	b= 'B'*(buffer_size)
 
-	for i in range (1000):				#We will do the measurements for the bottleneck link rate a 1000 times
+	for i in range (1000):		#We will do the measurements for the bottleneck link rate a 1000 times
 		try:
 			s.sendto(a, (target_host, target_port));
 			s.sendto(b, (target_host, target_port))
@@ -91,10 +92,14 @@ try:
 			print 'A Packet of the', i, 'th iteration was lost. Dropping this measurement'
 			continue
 		dispersion_time=timer_recv2-timer_recv1
+		dispersion_float = dispersion_time.total_seconds()
 		print >> log, dispersion_time
-		link_rate = ((buffer_size+28)*8)/(dispersion_time.microseconds/(float (1000000))) #We need to consider the 20 bytes for IP V4 and 8 bytes for UDP packet header also
-		link_rate_kbps = link_rate/(float(1000))
-		dispersion_milli = dispersion_time.microseconds/float(1000)
+		if dispersion_float > 0.0:
+			link_rate = ((buffer_size+28)*8)/(dispersion_time.microseconds/(float (1000000))) #We need to consider the 20 bytes for IP V4 header and 8 bytes for UDP packet header also
+			link_rate_kbps = link_rate/(float(1000))
+			dispersion_milli = dispersion_time.microseconds/float(1000)
+		else:
+			continue
 		if link_rate_kbps < 100000 :		#Dropping values greater than 100 Mbps because they seem too unrealistic and mess with our readings
 			list_rate.append(link_rate_kbps)
 		else:
@@ -113,7 +118,7 @@ d = {x: list_rate.count(x) for x in list_rate}
 
 plt.title("Probability Distribution of packet size %d bytes" % (buffer_size))
 
-#"""Here we define another list linkProb which will store the probability of occurence of each of the link rate"""
+#Here we define another list linkProb which will store the probability of occurence of each of the link rate
 
 linkProb = []
 
