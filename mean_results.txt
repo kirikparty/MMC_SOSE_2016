@@ -1,0 +1,33 @@
+ 
+800
+the mean is 1174.77258762
+ the variance is  222473.894091
+
+ The mean is 1064.67186458 kbps
+ The variance is  131210.332758
+
+
+1200
+the mean is 1683.51407543
+ the variance is  360705.520226
+
+ The mean is 1593.12269024 kbps
+ The variance is  6800147.13002
+
+
+
+200
+ the mean is 369.910603288
+ the variance is  808194.757864
+The mean is 382.947672071 kbps
+ The variance is  2285219.16535
+
+
+400
+
+ The mean is 364.572520652 kbps
+ The variance is  9382.39319015
+
+ The mean is 551.424744615 kbps
+ The variance is  2030201.74381
+

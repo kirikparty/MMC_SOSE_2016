@@ -75,11 +75,7 @@ try:
 	for i in range (1000):				#We will do the measurements for the bottleneck link rate a 1000 times
 		try:
 			s.sendto(a, (target_host, target_port));
-			timer_send1=datetime.datetime.now()
 			s.sendto(b, (target_host, target_port))
-			timer_send2=datetime.datetime.now()
-			print >> log, '1st PACKET SENT AT', timer_send1
-			print >> log, '2nd PACKET SENT AT', timer_send2
 		except Exception, e:
 			print  'Cannot send data. Please check connection'
 			alert(e) 
@@ -87,11 +83,11 @@ try:
 		try:
 			data1 = s.recvfrom(buffer_size)
 			timer_recv1= datetime.datetime.now()
-			print >> log, 'recieved 1st PACKET at time', timer_recv1
 			data2 = s.recvfrom(buffer_size)	
 			timer_recv2=datetime.datetime.now()
+			print >> log, 'recieved 1st PACKET at time', timer_recv1
 			print >> log, 'recieved 2nd PACKET at time', timer_recv2 
-		except socket.timeout:
+		except socket.error, socket.timeout:
 			print 'A Packet of the', i, 'th iteration was lost. Dropping this measurement'
 			continue
 		dispersion_time=timer_recv2-timer_recv1
