@@ -64,12 +64,11 @@ try:
 		alert(e)
 	try:
 		data0 = s.recvfrom(buffer_size)
-		print 'recieved', data0, 'from Server.  Connection established. Sending packets now...'
+		print 'recieved', data0, 'from Server. Sending measurement packets now. \n Please wait for results. Logs are stored in Results1.txt generated in the same folder'
 	except socket.error, socket.timeout:
 		print 'Unable to establish connection. Please check the port address. Exiting now..'
 		sys.exit(1)
-#"""In python if we multiply a string or a character with a number, that string will be repeated those many times. 
-#Hence we multiply a single character with the packet size."""
+#"""In python if we multiply a string or a character with a number, that string will be repeated those many times.Hence we multiply a single character with the packet size."""
 	a= 'A'*(buffer_size)
 	b= 'B'*(buffer_size)
 
@@ -113,7 +112,7 @@ s.close()			#Once our iterations are done, we properly tear down the socket conn
 print " The mean is", np.mean(list_rate), "kbps"	#Calculating the mean bottleneck link rate for this particular packet size
 print " The variance is ",np.var(list_rate)		#Calculating variance
 
-#"""We now use a dictionary to plot the histogram. The dictionary key will have the link rates in kbps and the dictionary values will store their frequqency"""
+"""We now use a dictionary to plot the histogram. The dictionary key will have the link rates in kbps and the dictionary values will store their frequqency"""
 d = {x: list_rate.count(x) for x in list_rate}
 
 plt.title("Probability Distribution of packet size %d bytes" % (buffer_size))
