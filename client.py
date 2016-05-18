@@ -9,10 +9,9 @@ System Requirements:
 4.Working internet connection :)
 The log file generated is Results1.txt. it is in the same folder as the code. In case the program errors out, the log file can be checked.
 USAGE: python client.py HOSTNAME PORT
-HOSTNAME can either be like abc.def.ghi.com or in the form of IP V4 address. DO NOT USE IP V6 address!
-KNOWN BUG: SOMETIMES IF IP ADDRESS IS ENTERED INSTEAD
+HOSTNAME can either be like abc.def.ghi.com. DO NOT USE IP address!
+KNOWN BUG: WHEN IP ADDRESS IS USED, IT BECOMES UNNECESARILY FAST AND WE GET ZERO DISPERSION TIME, WHICH SPOILS OUR READINGS.
 """
-
 
 
 
@@ -92,14 +91,10 @@ try:
 			print 'A Packet of the', i, 'th iteration was lost. Dropping this measurement'
 			continue
 		dispersion_time=timer_recv2-timer_recv1
-		dispersion_float = dispersion_time.total_seconds()
 		print >> log, dispersion_time
-		if dispersion_float > 0.0:
-			link_rate = ((buffer_size+28)*8)/(dispersion_time.microseconds/(float (1000000))) #We need to consider the 20 bytes for IP V4 header and 8 bytes for UDP packet header also
-			link_rate_kbps = link_rate/(float(1000))
-			dispersion_milli = dispersion_time.microseconds/float(1000)
-		else:
-			continue
+		link_rate = ((buffer_size+28)*8)/(dispersion_time.microseconds/(float (1000000))) #We need to consider the 20 bytes for IP V4 header and 8 bytes for UDP packet header also
+		link_rate_kbps = link_rate/(float(1000))
+		dispersion_milli = dispersion_time.microseconds/float(1000)
 		if link_rate_kbps < 100000 :		#Dropping values greater than 100 Mbps because they seem too unrealistic and mess with our readings
 			list_rate.append(link_rate_kbps)
 		else:
